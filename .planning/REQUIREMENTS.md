@@ -99,12 +99,52 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CONT-01–09 | Phase 1 | Pending |
-| ASSET-01–06 | Phase 1 | Pending |
-| SEO-01–14 | Phase 2 | Pending |
-| SCHM-01–06 | Phase 2 | Pending |
-| PERF-01–06 | Phase 2 | Pending |
-| DEPL-01–05 | Phase 3 | Pending |
+| CONT-01 | Phase 1 | Pending |
+| CONT-02 | Phase 1 | Pending |
+| CONT-03 | Phase 1 | Pending |
+| CONT-04 | Phase 1 | Pending |
+| CONT-05 | Phase 1 | Pending |
+| CONT-06 | Phase 1 | Pending |
+| CONT-07 | Phase 1 | Pending |
+| CONT-08 | Phase 1 | Pending |
+| CONT-09 | Phase 1 | Pending |
+| ASSET-01 | Phase 1 | Pending |
+| ASSET-02 | Phase 1 | Pending |
+| ASSET-03 | Phase 1 | Pending |
+| ASSET-04 | Phase 1 | Pending |
+| ASSET-05 | Phase 1 | Pending |
+| ASSET-06 | Phase 1 | Pending |
+| SEO-01 | Phase 2 | Pending |
+| SEO-02 | Phase 2 | Pending |
+| SEO-03 | Phase 2 | Pending |
+| SEO-04 | Phase 2 | Pending |
+| SEO-05 | Phase 2 | Pending |
+| SEO-06 | Phase 2 | Pending |
+| SEO-07 | Phase 2 | Pending |
+| SEO-08 | Phase 2 | Pending |
+| SEO-09 | Phase 2 | Pending |
+| SEO-10 | Phase 2 | Pending |
+| SEO-11 | Phase 2 | Pending |
+| SEO-12 | Phase 2 | Pending |
+| SEO-13 | Phase 2 | Pending |
+| SEO-14 | Phase 2 | Pending |
+| SCHM-01 | Phase 2 | Pending |
+| SCHM-02 | Phase 2 | Pending |
+| SCHM-03 | Phase 2 | Pending |
+| SCHM-04 | Phase 2 | Pending |
+| SCHM-05 | Phase 2 | Pending |
+| SCHM-06 | Phase 2 | Pending |
+| PERF-01 | Phase 2 | Pending |
+| PERF-02 | Phase 2 | Pending |
+| PERF-03 | Phase 2 | Pending |
+| PERF-04 | Phase 2 | Pending |
+| PERF-05 | Phase 2 | Pending |
+| PERF-06 | Phase 2 | Pending |
+| DEPL-01 | Phase 3 | Pending |
+| DEPL-02 | Phase 3 | Pending |
+| DEPL-03 | Phase 3 | Pending |
+| DEPL-04 | Phase 3 | Pending |
+| DEPL-05 | Phase 3 | Pending |
 
 **Coverage:**
 - v1 requirements: 40 total
@@ -112,5 +152,6 @@
 - Unmapped: 0 ✓
 
 ---
+
 *Requirements defined: 2026-05-07*
-*Last updated: 2026-05-07 after initial definition*
+*Last updated: 2026-05-07 after roadmap creation*
