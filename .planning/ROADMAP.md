@@ -28,7 +28,12 @@
   4. Navigation, contact info (+40 729 077 770), and address (Calea Călărașilor 179, Sector 3) are functional and prominent
   5. Booking CTAs (Calendly + direct phone) are clickable and direct users correctly
 
-**Plans:** TBD
+**Plans:** 3 plans
+
+Plans:
+- [ ] 01-PLAN-skeleton.md — Walking Skeleton: HTML5 shell + nav bar (address + phone CTA) + hero section with real content, browser-deployable
+- [ ] 01-PLAN-content.md — All body content sections: conditions list, PRP process, doctor bio, testimonials, FAQ, CTA banner, footer
+- [ ] 01-PLAN-assets.md — Download + embed all images, WebP conversion, preload/lazy-load, explicit dimensions, alt text
 
 ---
 
@@ -76,7 +81,7 @@
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1 - Content & Assets | 0/? | Not started | — |
+| 1 - Content & Assets | 0/3 | Not started | — |
 | 2 - SEO & Structured Data | 0/? | Not started | — |
 | 3 - Deployment | 0/? | Not started | — |
 
