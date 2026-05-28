@@ -296,7 +296,24 @@
     .hero__subtitle { animation: heroFadeUp 0.7s 0.40s both ease; }
     .hero__props    { animation: heroFadeUp 0.7s 0.52s both ease; }
     .hero__cta      { animation: heroFadeUp 0.7s 0.62s both ease; }
-    .hero__image    { animation: heroFadeUp 1.0s 0.30s both ease; }
+    .hero__image    { animation: heroImgReveal 1.2s 0.25s both cubic-bezier(0.22, 1, 0.36, 1); }
+
+    @keyframes heroImgReveal {
+      from { opacity: 0; transform: translateY(32px) scale(0.97); }
+      to   { opacity: 1; transform: translateY(0) scale(1); }
+    }
+    @keyframes heroGlowPulse {
+      0%, 100% { opacity: 0.7; transform: translate(-50%, -50%) scale(1); }
+      50%       { opacity: 1;   transform: translate(-50%, -50%) scale(1.08); }
+    }
+    @keyframes heroBadgeFloat {
+      0%, 100% { transform: translateY(0); }
+      50%       { transform: translateY(-8px); }
+    }
+    @keyframes heroImgBreath {
+      0%, 100% { transform: scale(1.04); }
+      50%       { transform: scale(1.09); }
+    }
 
     /* ── Process step number pulse ── */
     @keyframes numPop {
@@ -337,7 +354,7 @@
       width: 100%;
       display: flex;
       align-items: center;
-      gap: 88px;
+      gap: 64px;
       position: relative;
     }
 
@@ -419,28 +436,149 @@
     }
 
     .hero__image {
-      flex: 1 1 42%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    /* Swap with: <img src="assets/hero.webp" alt="Dr. Bîrcă Vadim în cabinet" width="430" height="516" loading="eager"> */
-    .hero__img-placeholder {
-      width: 100%;
-      max-width: 430px;
-      aspect-ratio: 5/6;
-      background: var(--c-cream);
-      border-radius: var(--r-lg);
+      flex: 1 1 48%;
       position: relative;
+      min-width: 0;
     }
 
-    .hero__img-placeholder::after {
+    /* Ambient gold glow orb */
+    .hero__image::before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 120%;
+      height: 120%;
+      background: radial-gradient(ellipse at 55% 48%, rgba(201, 169, 110, 0.14) 0%, transparent 62%);
+      pointer-events: none;
+      z-index: 0;
+      animation: heroGlowPulse 5s ease-in-out infinite;
+    }
+
+    /* Decorative dot grid — top-right corner */
+    .hero__image::after {
+      content: '';
+      position: absolute;
+      top: -18px;
+      right: -18px;
+      width: 128px;
+      height: 128px;
+      background-image: radial-gradient(circle, rgba(201, 169, 110, 0.38) 1.5px, transparent 1.5px);
+      background-size: 16px 16px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* Main showcase card */
+    .hero__img-card {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      height: clamp(520px, 60vh, 700px);
+      border-radius: 22px;
+      overflow: hidden;
+      box-shadow:
+        0 0 0 1px rgba(201, 169, 110, 0.18),
+        0 32px 80px rgba(10, 10, 10, 0.18),
+        0 6px 24px rgba(201, 169, 110, 0.14);
+    }
+
+    /* Bottom gradient on image */
+    .hero__img-card::after {
       content: '';
       position: absolute;
       inset: 0;
-      border: 1px solid rgba(201, 169, 110, 0.18);
-      border-radius: var(--r-lg);
+      background: linear-gradient(175deg, transparent 52%, rgba(5, 5, 5, 0.52) 100%);
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    /* Image fills card with subtle breathing zoom */
+    .hero__img-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 20%;
+      display: block;
+      transform-origin: center center;
+      animation: heroImgBreath 12s ease-in-out infinite;
+    }
+
+    /* Floating info badge — bottom left */
+    .hero__img-badge {
+      position: absolute;
+      bottom: 22px;
+      left: 18px;
+      z-index: 2;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-radius: 14px;
+      padding: 11px 18px 11px 11px;
+      box-shadow: 0 4px 28px rgba(10, 10, 10, 0.15);
+      border: 1px solid rgba(255, 255, 255, 0.75);
+      animation: heroBadgeFloat 7s ease-in-out infinite 0.8s;
+    }
+
+    .hero__badge-icon {
+      width: 42px;
+      height: 42px;
+      background: linear-gradient(135deg, var(--c-gold) 0%, #D4A85A 100%);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .hero__badge-icon svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .hero__badge-text {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .hero__badge-text strong {
+      font-family: var(--f-body);
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--c-text);
+      letter-spacing: -0.01em;
+      line-height: 1;
+    }
+
+    .hero__badge-text span {
+      font-family: var(--f-body);
+      font-size: 11px;
+      font-weight: 400;
+      color: var(--c-muted);
+      line-height: 1;
+    }
+
+    /* Floating label — top right */
+    .hero__img-tag {
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      z-index: 2;
+      background: rgba(201, 169, 110, 0.93);
+      color: #fff;
+      font-family: var(--f-body);
+      font-size: 10.5px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border-radius: 100px;
+      padding: 6px 14px;
+      box-shadow: 0 2px 14px rgba(201, 169, 110, 0.5);
+      animation: heroBadgeFloat 7s ease-in-out infinite 2.2s;
     }
 
     /* ══════════════════════════════════════════
@@ -600,21 +738,101 @@
       top: calc(var(--nav-h) + 28px);
     }
 
-    /* Swap with: <img src="assets/dr-vadim-birca.webp" alt="Dr. Bîrcă Vadim, medic specialist ortopedie" width="300" height="400" loading="lazy"> */
-    .doctor__photo {
-      width: 100%;
-      aspect-ratio: 3/4;
-      background: var(--c-cream);
-      border-radius: var(--r-lg);
-      position: relative;
-    }
-
-    .doctor__photo::after {
+    /* Dot grid accent — top-right corner of photo col */
+    .doctor__photo-col::before {
       content: '';
       position: absolute;
-      inset: 0;
-      border: 1px solid rgba(201, 169, 110, 0.18);
-      border-radius: var(--r-lg);
+      top: -14px;
+      right: -14px;
+      width: 96px;
+      height: 96px;
+      background-image: radial-gradient(circle, rgba(201, 169, 110, 0.33) 1.5px, transparent 1.5px);
+      background-size: 14px 14px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* Portrait frame */
+    .doctor__photo-frame {
+      position: relative;
+      z-index: 1;
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow:
+        0 0 0 1px rgba(201, 169, 110, 0.17),
+        0 24px 64px rgba(10, 10, 10, 0.15),
+        0 4px 16px rgba(10, 10, 10, 0.08);
+    }
+
+    /* Left gold accent bar */
+    .doctor__photo-frame::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 4px;
+      height: 100%;
+      background: linear-gradient(to bottom, transparent, var(--c-gold) 18%, var(--c-gold) 82%, transparent);
+      z-index: 2;
+      opacity: 0.52;
+    }
+
+    /* Image fills frame */
+    .doctor__photo-frame img {
+      width: 100%;
+      aspect-ratio: 3/4;
+      object-fit: cover;
+      object-position: center top;
+      display: block;
+    }
+
+    /* Bottom gradient for badge legibility */
+    .doctor__photo-frame::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 42%;
+      background: linear-gradient(to top, rgba(5, 5, 5, 0.5), transparent);
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    /* Glass experience badge — overlaps photo bottom-right */
+    .doctor__photo-card {
+      position: absolute;
+      bottom: 18px;
+      right: 14px;
+      z-index: 3;
+      background: rgba(255, 255, 255, 0.93);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      border-radius: 12px;
+      padding: 12px 16px;
+      text-align: center;
+      box-shadow: 0 4px 22px rgba(10, 10, 10, 0.14);
+      border: 1px solid rgba(255, 255, 255, 0.72);
+      line-height: 1;
+      min-width: 86px;
+    }
+
+    .doctor__photo-card strong {
+      display: block;
+      font-family: var(--f-display);
+      font-size: 26px;
+      font-weight: 500;
+      color: var(--c-gold);
+      margin-bottom: 5px;
+    }
+
+    .doctor__photo-card span {
+      font-family: var(--f-body);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+      color: var(--c-muted);
     }
 
     .doctor__bio h2 {
@@ -1274,6 +1492,7 @@
       .container { padding: 0 32px; }
       .nav       { padding: 0 32px; }
       .hero      { padding: 64px 32px; }
+      .hero__img-card { height: clamp(460px, 54vh, 600px); }
 
       .doctor__layout {
         grid-template-columns: 240px 1fr;
@@ -1328,8 +1547,8 @@
         grid-template-columns: 1fr;
         gap: 36px;
       }
-      .doctor__photo-col { position: static; }
-      .doctor__photo     { aspect-ratio: 4/3; max-height: 260px; }
+      .doctor__photo-col { position: relative; }
+      .doctor__photo-frame img { aspect-ratio: 4/3; max-height: 260px; object-position: center 20%; }
 
       .testimonials__grid { grid-template-columns: 1fr; }
       .articles__grid     { grid-template-columns: 1fr; }
@@ -1436,7 +1655,22 @@
       </div>
 
       <div class="hero__image">
-        <img src="assets/terapie-prp-bucuresti-orthohub.webp" alt="Terapie PRP București — Dr. Bârcă Vadim în cabinet OrthoHub" width="430" height="516" loading="eager" fetchpriority="high">
+        <div class="hero__img-card">
+          <img src="assets/terapie-prp-bucuresti-orthohub.webp" alt="Terapie PRP București — Dr. Bârcă Vadim în cabinet OrthoHub" width="430" height="516" loading="eager" fetchpriority="high">
+          <div class="hero__img-badge">
+            <div class="hero__badge-icon">
+              <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 3C12 3 7.5 8.5 7.5 12.5a4.5 4.5 0 009 0C16.5 8.5 12 3 12 3z" fill="white" opacity="0.95"/>
+                <path d="M12 10v4M10 12h4" stroke="rgba(201,169,110,1)" stroke-width="1.8" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <div class="hero__badge-text">
+              <strong>Platelet Rich Plasma</strong>
+              <span>Tratament 100% autolog</span>
+            </div>
+          </div>
+          <span class="hero__img-tag">Fără chirurgie</span>
+        </div>
       </div>
 
     </div>
@@ -1515,7 +1749,13 @@
       <div class="doctor__layout">
 
         <div class="doctor__photo-col anim">
-          <img src="assets/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Dr. Bârcă Vadim, medic ortoped specialist terapie PRP București" width="300" height="400" loading="lazy">
+          <div class="doctor__photo-frame">
+            <img src="assets/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Dr. Bârcă Vadim, medic ortoped specialist terapie PRP București" width="300" height="400" loading="lazy">
+          </div>
+          <div class="doctor__photo-card">
+            <strong>17+</strong>
+            <span>ani experiență</span>
+          </div>
         </div>
 
         <div class="doctor__bio anim anim-d2">
