@@ -1584,6 +1584,260 @@
     }
 
     /* ══════════════════════════════════════════
+       DOCTOR — profile button
+    ══════════════════════════════════════════ */
+    .doctor__profile-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      margin-top: 36px;
+      padding: 12px 24px;
+      background: transparent;
+      border: 1.5px solid var(--c-gold-border);
+      border-radius: var(--r-sm);
+      font-family: var(--f-body);
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--c-gold);
+      cursor: pointer;
+      transition: background-color var(--t), border-color var(--t), transform var(--t);
+    }
+    .doctor__profile-btn:hover {
+      background: var(--c-gold-subtle);
+      border-color: var(--c-gold);
+      transform: translateY(-1px);
+    }
+    .doctor__profile-btn svg {
+      width: 14px;
+      height: 14px;
+      transition: transform var(--t);
+    }
+    .doctor__profile-btn:hover svg { transform: translateX(3px); }
+
+    /* ══════════════════════════════════════════
+       DOCTOR PROFILE MODAL
+    ══════════════════════════════════════════ */
+    .doctor-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      visibility: hidden;
+      pointer-events: none;
+    }
+    .doctor-modal.is-open {
+      visibility: visible;
+      pointer-events: all;
+    }
+
+    .doctor-modal__overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(5, 5, 5, 0.72);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      opacity: 0;
+      transition: opacity 0.30s ease;
+    }
+    .doctor-modal.is-open .doctor-modal__overlay { opacity: 1; }
+
+    .doctor-modal__panel {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      max-width: 680px;
+      max-height: 88vh;
+      background: var(--c-white);
+      border-radius: var(--r-lg);
+      box-shadow: 0 32px 80px rgba(5, 5, 5, 0.40), 0 0 0 1px rgba(201, 169, 110, 0.14);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      opacity: 0;
+      transform: translateY(28px) scale(0.97);
+      transition: opacity 0.30s ease, transform 0.30s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .doctor-modal.is-open .doctor-modal__panel {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+
+    .doctor-modal__header {
+      padding: 44px 48px 32px;
+      border-bottom: 1px solid var(--c-border);
+      flex-shrink: 0;
+    }
+
+    .doctor-modal__eyebrow {
+      display: block;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.30em;
+      text-transform: uppercase;
+      color: var(--c-gold);
+      margin-bottom: 10px;
+    }
+
+    .doctor-modal__header h2 {
+      font-family: var(--f-display);
+      font-size: clamp(26px, 3.5vw, 36px);
+      font-weight: 400;
+      color: var(--c-text);
+      letter-spacing: -0.02em;
+      line-height: 1.08;
+      margin-bottom: 6px;
+    }
+
+    .doctor-modal__credential {
+      display: block;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--c-gold);
+      margin-bottom: 6px;
+    }
+
+    .doctor-modal__specialty {
+      font-size: 14px;
+      font-weight: 300;
+      font-style: italic;
+      color: var(--c-muted);
+      line-height: 1.5;
+    }
+
+    .doctor-modal__close {
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 1px solid var(--c-border-mid);
+      background: var(--c-white);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: 300;
+      color: var(--c-muted);
+      line-height: 1;
+      transition: background-color var(--t), border-color var(--t), color var(--t);
+      z-index: 2;
+    }
+    .doctor-modal__close:hover {
+      background: var(--c-off-white);
+      border-color: rgba(10,10,10,0.22);
+      color: var(--c-text);
+    }
+
+    .doctor-modal__body {
+      overflow-y: auto;
+      padding: 36px 48px 40px;
+      flex: 1;
+      scroll-behavior: smooth;
+    }
+    .doctor-modal__body::-webkit-scrollbar { width: 4px; }
+    .doctor-modal__body::-webkit-scrollbar-track { background: transparent; }
+    .doctor-modal__body::-webkit-scrollbar-thumb { background: var(--c-cream); border-radius: 2px; }
+
+    .doctor-modal__section { margin-bottom: 34px; }
+    .doctor-modal__section:last-child { margin-bottom: 0; }
+
+    .doctor-modal__section h3 {
+      font-family: var(--f-display);
+      font-size: 20px;
+      font-weight: 500;
+      color: var(--c-text);
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--c-border);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .doctor-modal__section h3::before {
+      content: '';
+      display: block;
+      width: 18px;
+      height: 2px;
+      background: var(--c-gold);
+      flex-shrink: 0;
+    }
+
+    .doctor-modal__section p {
+      font-size: 15.5px;
+      font-weight: 300;
+      line-height: 1.90;
+      color: var(--c-muted);
+      margin-bottom: 14px;
+    }
+    .doctor-modal__section p:last-child { margin-bottom: 0; }
+
+    .doctor-modal__list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 6px;
+    }
+
+    .doctor-modal__list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      font-size: 15px;
+      font-weight: 400;
+      color: rgba(10, 10, 10, 0.75);
+      line-height: 1.65;
+    }
+
+    .doctor-modal__list li::before {
+      content: '';
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+      margin-top: 3px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23C9A96E' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'/%3E%3C/svg%3E");
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+    .doctor-modal__list li strong {
+      color: var(--c-text);
+      font-weight: 500;
+    }
+
+    .doctor-modal__footer {
+      padding: 22px 48px 28px;
+      border-top: 1px solid var(--c-border);
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .doctor-modal__footer-note {
+      font-size: 12.5px;
+      font-weight: 300;
+      color: var(--c-muted);
+    }
+
+    @media (max-width: 600px) {
+      .doctor-modal__panel { max-height: 95vh; border-radius: var(--r-md); }
+      .doctor-modal__header { padding: 36px 24px 24px; }
+      .doctor-modal__body { padding: 28px 24px 32px; }
+      .doctor-modal__footer { padding: 18px 24px 22px; }
+    }
+
+    /* ══════════════════════════════════════════
        REDUCED MOTION
     ══════════════════════════════════════════ */
     @media (prefers-reduced-motion: reduce) {
@@ -1770,11 +2024,79 @@
             <li>Ecografie Musculoscheletală și Intervenții Ghidate (2025)</li>
             <li>Medicină Regenerativă utilizând resursele proprii ale organismului</li>
           </ul>
+          <button class="doctor__profile-btn" id="doctorModalBtn" aria-haspopup="dialog" aria-controls="doctorModal">
+            Profilul complet
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </button>
         </div>
 
       </div>
     </div>
   </section>
+
+  <!-- ═══════════════════════════════════════
+       DOCTOR PROFILE MODAL
+  ═══════════════════════════════════════ -->
+  <div class="doctor-modal" id="doctorModal" role="dialog" aria-modal="true" aria-labelledby="modalDoctorTitle" aria-hidden="true">
+    <div class="doctor-modal__overlay" id="doctorModalOverlay"></div>
+    <div class="doctor-modal__panel">
+
+      <button class="doctor-modal__close" id="doctorModalClose" aria-label="Închide profilul">&#215;</button>
+
+      <div class="doctor-modal__header">
+        <span class="doctor-modal__eyebrow">Profil Medical</span>
+        <h2 id="modalDoctorTitle">Dr. Bîrcă Vadim</h2>
+        <span class="doctor-modal__credential">Medic Specialist Ortopedie și Traumatologie</span>
+        <p class="doctor-modal__specialty">Expertiză în Chirurgie Minim Invazivă, Chirurgia Mâinii și Medicină Regenerativă</p>
+      </div>
+
+      <div class="doctor-modal__body">
+
+        <div class="doctor-modal__section">
+          <h3>Despre mine</h3>
+          <p>Parcursul meu în medicină a început în anul 2009 la Universitatea de Medicină și Farmacie din Craiova, fiind urmat de o etapă esențială de formare ca medic rezident în Ortopedie și Traumatologie în centrul universitar Târgu Mureș.</p>
+          <p>Un moment definitoriu în evoluția mea profesională l-au reprezentat cele două stagii de pregătire efectuate în centre medicale de prestigiu din Franța. Acolo am descoperit o abordare a pacientului bazată pe un set de valori pe care le aplic astăzi în fiecare zi: empatie profundă și tratarea fiecărui om cu aceeași dedicare, indiferent de statutul său.</p>
+        </div>
+
+        <div class="doctor-modal__section">
+          <h3>Filosofia Medicală</h3>
+          <p>Sunt convins că ortopedia este unul dintre cele mai gratifiante domenii medicale, deoarece oferă rezultate vizibile aproape instantaneu, redând oamenilor bucuria de a se mișca. În centrul activității mele stă dorința de a-i ajuta pe cei care caută soluții reale pentru sănătatea lor, punând un accent deosebit pe <strong>securitatea actului medical</strong> și pe starea de bine a pacientului pe tot parcursul tratamentului.</p>
+        </div>
+
+        <div class="doctor-modal__section">
+          <h3>Arii de Expertiță și Inovație</h3>
+          <p>Cred într-o medicină modernă, care minimizează trauma și maximizează confortul. De aceea, m-am specializat în:</p>
+          <ul class="doctor-modal__list">
+            <li><strong>Chirurgia minim invazivă a șoldului:</strong> Utilizarea tehnicilor de protezare cu incizii minime, pentru o recuperare rapidă și estetică.</li>
+            <li><strong>Chirurgia mâinii:</strong> Intervenții realizate în regim de spitalizare de zi, sub anestezie locală, oferind pacientului un confort sporit și posibilitatea de a reveni imediat în mediul familial.</li>
+            <li><strong>Ecografie Musculoscheletală și Intervenții Ghidate:</strong> Dețin competență în ecografia musculoscheletală (2025), ceea ce îmi permite să realizez majoritatea gesturilor medicale sub ghidaj ecografic, asigurând o precizie maximă.</li>
+            <li><strong>Medicină Regenerativă:</strong> Din dorința de a evita rețetele interminabile de medicamente, am dezvoltat o pasiune pentru terapiile regenerative, care folosesc resursele proprii ale organismului pentru vindecare.</li>
+          </ul>
+        </div>
+
+        <div class="doctor-modal__section">
+          <h3>Formare Continuă — 2025</h3>
+          <ul class="doctor-modal__list">
+            <li><strong>Curs IRCAD Strasbourg:</strong> Tehnici chirurgicale pentru membrul superior sub ghidaj ecografic.</li>
+            <li><strong>Competență în Ecografie Musculoscheletală</strong> — certificare obținută în 2025.</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="doctor-modal__footer">
+        <span class="doctor-modal__footer-note">Consultație personalizată, ghidată ecografic</span>
+        <a
+          href="https://calendly.com/vadim-brk/30min"
+          class="btn btn--primary"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Programează o consultație cu Dr. Bîrcă Vadim"
+        >Programează-te acum</a>
+      </div>
+
+    </div>
+  </div>
 
   <!-- ═══════════════════════════════════════
        TESTIMONIALS
@@ -2362,6 +2684,39 @@
 
       document.querySelectorAll('.anim, .anim-scale').forEach(function (el) {
         io.observe(el);
+      });
+    })();
+  </script>
+
+  <!-- Doctor profile modal -->
+  <script>
+    (function () {
+      var modal   = document.getElementById('doctorModal');
+      var btn     = document.getElementById('doctorModalBtn');
+      var overlay = document.getElementById('doctorModalOverlay');
+      var closeBtn = document.getElementById('doctorModalClose');
+      var lastFocus;
+
+      function openModal() {
+        lastFocus = document.activeElement;
+        modal.setAttribute('aria-hidden', 'false');
+        modal.classList.add('is-open');
+        document.body.style.overflow = 'hidden';
+        setTimeout(function () { closeBtn.focus(); }, 50);
+      }
+
+      function closeModal() {
+        modal.setAttribute('aria-hidden', 'true');
+        modal.classList.remove('is-open');
+        document.body.style.overflow = '';
+        if (lastFocus) lastFocus.focus();
+      }
+
+      btn.addEventListener('click', openModal);
+      overlay.addEventListener('click', closeModal);
+      closeBtn.addEventListener('click', closeModal);
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && modal.classList.contains('is-open')) closeModal();
       });
     })();
   </script>
