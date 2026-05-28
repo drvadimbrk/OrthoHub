@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /fix-articles-seo.js
+
+Sitemap: https://orthohub.ro/sitemap.xml
