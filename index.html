@@ -1821,11 +1821,7 @@
     .doctor-modal__list li {
       display: flex;
       align-items: flex-start;
-      gap: 12px;
-      font-size: 15px;
-      font-weight: 400;
-      color: rgba(10, 10, 10, 0.75);
-      line-height: 1.65;
+      gap: 10px;
     }
 
     .doctor-modal__list li::before {
@@ -1833,15 +1829,31 @@
       width: 16px;
       height: 16px;
       flex-shrink: 0;
-      margin-top: 3px;
+      margin-top: 4px;
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23C9A96E' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'/%3E%3C/svg%3E");
       background-size: contain;
       background-repeat: no-repeat;
     }
 
+    .doctor-modal__list li > span {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
     .doctor-modal__list li strong {
+      display: block;
       color: var(--c-text);
-      font-weight: 500;
+      font-weight: 600;
+      font-size: 14.5px;
+      line-height: 1.4;
+    }
+
+    .doctor-modal__list .item-desc {
+      font-size: 14px;
+      font-weight: 400;
+      color: rgba(10, 10, 10, 0.68);
+      line-height: 1.65;
     }
 
     .doctor-modal__footer {
@@ -2110,18 +2122,18 @@
           <h3>Arii de Expertiță și Inovație</h3>
           <p>Cred într-o medicină modernă, care minimizează trauma și maximizează confortul. De aceea, m-am specializat în:</p>
           <ul class="doctor-modal__list">
-            <li><strong>Chirurgia minim invazivă a șoldului:</strong> Utilizarea tehnicilor de protezare cu incizii minime, pentru o recuperare rapidă și estetică.</li>
-            <li><strong>Chirurgia mâinii:</strong> Intervenții realizate în regim de spitalizare de zi, sub anestezie locală, oferind pacientului un confort sporit și posibilitatea de a reveni imediat în mediul familial.</li>
-            <li><strong>Ecografie Musculoscheletală și Intervenții Ghidate:</strong> Dețin competență în ecografia musculoscheletală (2025), ceea ce îmi permite să realizez majoritatea gesturilor medicale sub ghidaj ecografic, asigurând o precizie maximă.</li>
-            <li><strong>Medicină Regenerativă:</strong> Din dorința de a evita rețetele interminabile de medicamente, am dezvoltat o pasiune pentru terapiile regenerative, care folosesc resursele proprii ale organismului pentru vindecare.</li>
+            <li><span><strong>Chirurgia minim invazivă a șoldului</strong><span class="item-desc">Utilizarea tehnicilor de protezare cu incizii minime, pentru o recuperare rapidă și estetică.</span></span></li>
+            <li><span><strong>Chirurgia mâinii</strong><span class="item-desc">Intervenții realizate în regim de spitalizare de zi, sub anestezie locală, oferind pacientului un confort sporit și posibilitatea de a reveni imediat în mediul familial.</span></span></li>
+            <li><span><strong>Ecografie Musculoscheletală și Intervenții Ghidate</strong><span class="item-desc">Dețin competență în ecografia musculoscheletală (2025), ceea ce îmi permite să realizez majoritatea gesturilor medicale sub ghidaj ecografic, asigurând o precizie maximă.</span></span></li>
+            <li><span><strong>Medicină Regenerativă</strong><span class="item-desc">Din dorința de a evita rețetele interminabile de medicamente, am dezvoltat o pasiune pentru terapiile regenerative, care folosesc resursele proprii ale organismului pentru vindecare.</span></span></li>
           </ul>
         </div>
 
         <div class="doctor-modal__section">
           <h3>Formare Continuă — 2025</h3>
           <ul class="doctor-modal__list">
-            <li><strong>Curs IRCAD Strasbourg:</strong> Tehnici chirurgicale pentru membrul superior sub ghidaj ecografic.</li>
-            <li><strong>Competență în Ecografie Musculoscheletală</strong> — certificare obținută în 2025.</li>
+            <li><span><strong>Curs IRCAD Strasbourg</strong><span class="item-desc">Tehnici chirurgicale pentru membrul superior sub ghidaj ecografic.</span></span></li>
+            <li><span><strong>Competență în Ecografie Musculoscheletală</strong><span class="item-desc">Certificare obținută în 2025.</span></span></li>
           </ul>
         </div>
 
