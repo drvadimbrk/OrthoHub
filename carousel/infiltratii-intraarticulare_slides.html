@@ -1,0 +1,992 @@
+﻿<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Infiltrații Intraarticulare — Carousel Slides | OrthoHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --black:        #080808;
+    --dark:         #111111;
+    --dark-card:    #1A1A1A;
+    --dark-card2:   #222222;
+    --dark-border:  rgba(255,255,255,0.07);
+    --dark-border2: rgba(255,255,255,0.12);
+    --gold:         #C9A96E;
+    --gold-light:   #D4B98A;
+    --gold-dim:     rgba(201,169,110,0.60);
+    --gold-subtle:  rgba(201,169,110,0.08);
+    --gold-border:  rgba(201,169,110,0.28);
+    --ivory:        #F5F0E8;
+    --muted:        rgba(245,240,232,0.55);
+    --muted2:       rgba(245,240,232,0.38);
+    --green:        #4CAF7D;
+    --green-bg:     rgba(76,175,125,0.12);
+    --red:          #E05A5A;
+    --red-bg:       rgba(224,90,90,0.12);
+    --blue:         #6B9FD4;
+    --blue-bg:      rgba(107,159,212,0.10);
+    --teal:         #7ECBCB;
+    --teal-bg:      rgba(90,175,175,0.10);
+    --f-display: 'Playfair Display', Georgia, serif;
+    --f-body:    'DM Sans', system-ui, sans-serif;
+  }
+
+  body { font-family: var(--f-body); background: #2A2A2A; }
+
+  /* ── SLIDE BASE ── */
+  .slide {
+    width: 1080px;
+    height: 1350px;
+    background: var(--black);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: 40px auto;
+  }
+
+  /* ── NAV ── */
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 56px 0;
+    flex-shrink: 0;
+  }
+  .nav-brand {
+    font-family: var(--f-display);
+    font-size: 22px; font-weight: 400; font-style: italic;
+    color: var(--ivory); letter-spacing: -0.02em;
+  }
+  .nav-counter { font-size: 13px; font-weight: 300; color: var(--muted); letter-spacing: 0.12em; }
+
+  /* ── FOOTER ── */
+  .foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 56px 44px;
+    margin-top: auto;
+    flex-shrink: 0;
+  }
+  .foot-dots { display: flex; gap: 7px; align-items: center; }
+  .foot-dots .d { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.18); }
+  .foot-dots .d.on { width: 22px; border-radius: 3px; background: var(--gold); }
+  .foot-url { font-size: 12px; font-weight: 300; color: var(--muted2); letter-spacing: 0.06em; }
+
+  /* ── CONTENT ── */
+  .content { flex: 1; display: flex; flex-direction: column; padding: 0 56px; }
+
+  /* ── TYPE HELPERS ── */
+  .eyebrow {
+    font-size: 11px; font-weight: 500; letter-spacing: 0.28em;
+    text-transform: uppercase; color: var(--gold-dim);
+    display: flex; align-items: center; gap: 10px; margin-bottom: 18px;
+  }
+  .eyebrow::before {
+    content: ''; display: block; width: 24px; height: 1px;
+    background: var(--gold); opacity: 0.55; flex-shrink: 0;
+  }
+  .headline { font-family: var(--f-display); font-weight: 400; color: var(--ivory); line-height: 1.06; letter-spacing: -0.025em; }
+  .headline .acc { color: var(--gold); font-style: italic; }
+  .gold-bar { width: 40px; height: 2px; background: var(--gold); border-radius: 1px; margin: 0; }
+
+  /* ── SHARED COMPONENTS ── */
+  .tx-desc-card { background: var(--dark-card); border-radius: 14px; border: 1px solid var(--dark-border2); padding: 20px 24px; }
+  .tx-desc-card p { font-size: 15px; font-weight: 300; color: var(--muted); line-height: 1.72; }
+
+  .tx-badge {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: 10px; font-weight: 600; letter-spacing: 0.14em;
+    text-transform: uppercase; padding: 5px 14px; border-radius: 50px; margin-bottom: 16px;
+  }
+  .tx-badge.blue-b  { background: var(--blue-bg); color: #9BC4E8; border: 1px solid rgba(107,159,212,0.28); }
+  .tx-badge.teal-b  { background: var(--teal-bg); color: var(--teal); border: 1px solid rgba(90,175,175,0.28); }
+  .tx-badge.gold-b  { background: var(--gold-subtle); color: var(--gold-light); border: 1px solid var(--gold-border); }
+
+  /* Pros/cons */
+  .proscons-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .pc-card { background: var(--dark-card); border-radius: 14px; border: 1px solid var(--dark-border2); padding: 18px 20px; display: flex; flex-direction: column; gap: 10px; }
+  .pc-title { font-size: 11px; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; padding-bottom: 10px; border-bottom: 1px solid var(--dark-border); }
+  .pc-card.pc-pros .pc-title { color: var(--green); }
+  .pc-card.pc-cons .pc-title { color: var(--red); }
+  .pc-card ul { list-style: none; display: flex; flex-direction: column; gap: 9px; }
+  .pc-card ul li { display: flex; align-items: flex-start; gap: 9px; font-size: 14px; font-weight: 300; color: var(--muted); line-height: 1.5; }
+  .pc-card.pc-pros ul li::before {
+    content: '✓'; flex-shrink: 0; width: 17px; height: 17px; border-radius: 50%;
+    background: var(--green-bg); color: var(--green); font-size: 9px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; margin-top: 1px;
+  }
+  .pc-card.pc-cons ul li::before {
+    content: '–'; flex-shrink: 0; width: 17px; height: 17px; border-radius: 50%;
+    background: var(--red-bg); color: var(--red); font-size: 12px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; margin-top: 1px;
+  }
+  .pc-stat { margin-top: auto; padding-top: 10px; border-top: 1px solid var(--dark-border); text-align: center; }
+  .pc-stat-num { font-family: var(--f-display); font-size: 36px; font-weight: 400; letter-spacing: -0.02em; line-height: 1; }
+  .pc-stat-lbl { font-size: 11px; font-weight: 300; color: var(--muted); margin-top: 4px; }
+
+  /* Deco */
+  .deco-dots { position: absolute; background-image: radial-gradient(circle, rgba(201,169,110,0.30) 1.5px, transparent 1.5px); background-size: 16px 16px; pointer-events: none; }
+  .deco-glow { position: absolute; pointer-events: none; border-radius: 50%; background: radial-gradient(ellipse, rgba(201,169,110,0.07) 0%, transparent 70%); }
+
+  /* ═══════════════════════════
+     SLIDE 1 — COVER
+  ═══════════════════════════ */
+  #s1 { background: linear-gradient(165deg, #0C0C0C 0%, #080808 60%); }
+  #s1 .deco-glow { width: 700px; height: 700px; top: -100px; right: -150px; }
+  #s1 .deco-dots { width: 130px; height: 130px; top: -16px; right: 44px; }
+  #s1 .content { justify-content: center; align-items: center; text-align: center; gap: 0; }
+  #s1 .science-pill {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: 10.5px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--gold-dim); border: 1px solid var(--gold-border); border-radius: 50px;
+    padding: 6px 16px; margin-bottom: 28px;
+  }
+  #s1 .headline { font-size: 62px; max-width: 840px; }
+  #s1 .tagline { font-size: 16px; font-weight: 300; line-height: 1.75; color: var(--muted); max-width: 560px; margin: 20px auto 0; }
+  #s1 .stats-row {
+    display: flex; gap: 0; margin-top: 36px;
+    background: var(--dark-card); border: 1px solid var(--dark-border2);
+    border-radius: 14px; overflow: hidden; width: 100%; max-width: 700px;
+  }
+  #s1 .stat-item { flex: 1; padding: 22px 18px; text-align: center; border-right: 1px solid var(--dark-border); }
+  #s1 .stat-item:last-child { border-right: none; }
+  #s1 .stat-num { font-family: var(--f-display); font-size: 34px; font-weight: 400; color: var(--gold); letter-spacing: -0.02em; line-height: 1; display: block; }
+  #s1 .stat-lbl { font-size: 12px; font-weight: 300; color: var(--muted); margin-top: 6px; letter-spacing: 0.04em; display: block; }
+  #s1 .author-badge {
+    display: inline-flex; align-items: center; gap: 14px;
+    background: rgba(201,169,110,0.08); border: 1px solid var(--gold-border);
+    border-radius: 12px; padding: 14px 22px; margin-top: 36px;
+  }
+  #s1 .icon-ring {
+    width: 42px; height: 42px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--gold) 0%, #D4A85A 100%);
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  #s1 .author-name { font-size: 14px; font-weight: 600; color: var(--ivory); letter-spacing: -0.01em; line-height: 1; display: block; text-align: left; }
+  #s1 .author-sub { font-size: 11.5px; font-weight: 300; color: var(--muted); margin-top: 4px; line-height: 1; display: block; text-align: left; }
+
+  /* ═══════════════════════════
+     SLIDE 2 — CE SUNT
+  ═══════════════════════════ */
+  #s2 .content { justify-content: center; gap: 16px; }
+  #s2 .def-card {
+    background: var(--dark-card); border-radius: 0 14px 14px 0;
+    border: 1px solid var(--dark-border2); border-left: 3px solid var(--gold);
+    padding: 20px 24px;
+  }
+  #s2 .def-card p { font-size: 15.5px; font-weight: 300; color: var(--muted); line-height: 1.80; }
+  #s2 .facts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  #s2 .fact-item {
+    background: var(--dark-card); border-radius: 12px;
+    border: 1px solid var(--dark-border2); padding: 18px 18px;
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  #s2 .fact-num {
+    width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0;
+    background: var(--gold-subtle); border: 1px solid var(--gold-border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px; font-weight: 600; color: var(--gold); font-family: var(--f-display);
+  }
+  #s2 .fact-text strong { display: block; font-size: 14px; font-weight: 600; color: var(--ivory); margin-bottom: 4px; }
+  #s2 .fact-text p { font-size: 13px; font-weight: 300; color: var(--muted); line-height: 1.55; }
+  #s2 .note-box {
+    background: var(--gold-subtle); border: 1px solid var(--gold-border);
+    border-radius: 12px; padding: 16px 20px;
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  #s2 .note-box .ni { font-size: 20px; flex-shrink: 0; }
+  #s2 .note-box p { font-size: 14px; font-weight: 300; color: rgba(245,240,232,0.72); line-height: 1.65; }
+
+  /* ═══════════════════════════
+     SLIDE 3 — INDICAȚII
+  ═══════════════════════════ */
+  #s3 .content { justify-content: center; gap: 14px; }
+  #s3 .indic-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  #s3 .indic-item {
+    background: var(--dark-card); border-radius: 12px;
+    border: 1px solid var(--dark-border2); padding: 15px 16px;
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  #s3 .indic-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--gold); flex-shrink: 0; margin-top: 6px; }
+  #s3 .indic-item h4 { font-size: 14px; font-weight: 600; color: var(--ivory); margin-bottom: 4px; font-family: var(--f-body); }
+  #s3 .indic-item p { font-size: 12.5px; font-weight: 300; color: var(--muted); line-height: 1.45; }
+
+  /* ═══════════════════════════
+     SLIDES 4 / 5 / 6 — TREATMENTS
+  ═══════════════════════════ */
+  #s4 .content, #s5 .content, #s6 .content { justify-content: center; gap: 16px; }
+
+  /* Slide 4 – Cortizon stats */
+  #s4 .stats-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  #s4 .sb {
+    background: var(--blue-bg); border: 1px solid rgba(107,159,212,0.22);
+    border-radius: 12px; padding: 16px; text-align: center;
+  }
+  #s4 .sb .sn { font-family: var(--f-display); font-size: 30px; color: #9BC4E8; letter-spacing: -0.02em; line-height: 1; }
+  #s4 .sb .sl { font-size: 12px; font-weight: 300; color: var(--muted); margin-top: 5px; line-height: 1.3; }
+  #s4 .pc-stat-num { color: #9BC4E8; }
+
+  /* Slide 5 – Acid Hialuronic stats */
+  #s5 .stats-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  #s5 .sb {
+    background: var(--teal-bg); border: 1px solid rgba(90,175,175,0.22);
+    border-radius: 12px; padding: 16px; text-align: center;
+  }
+  #s5 .sb .sn { font-family: var(--f-display); font-size: 30px; color: var(--teal); letter-spacing: -0.02em; line-height: 1; }
+  #s5 .sb .sl { font-size: 12px; font-weight: 300; color: var(--muted); margin-top: 5px; line-height: 1.3; }
+  #s5 .pc-stat-num { color: var(--teal); }
+
+  /* Slide 6 – PRP steps flow */
+  #s6 .steps-wrap { background: var(--dark-card); border-radius: 14px; border: 1px solid var(--dark-border2); padding: 18px 22px; }
+  #s6 .steps-label { font-size: 11px; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold-dim); margin-bottom: 14px; }
+  #s6 .steps-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  #s6 .step-item { display: flex; align-items: center; gap: 10px; font-size: 14px; font-weight: 300; color: rgba(245,240,232,0.72); }
+  #s6 .step-num {
+    width: 26px; height: 26px; border-radius: 50%; flex-shrink: 0;
+    background: var(--gold-subtle); border: 1px solid var(--gold-border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 600; color: var(--gold);
+  }
+  #s6 .pc-stat-num { color: var(--gold); }
+
+  /* ═══════════════════════════
+     SLIDE 7 — ZONE
+  ═══════════════════════════ */
+  #s7 .deco-glow { width: 800px; height: 800px; top: 50%; left: 50%; transform: translate(-50%,-50%); background: radial-gradient(ellipse, rgba(201,169,110,0.045) 0%, transparent 65%); }
+  #s7 .content { justify-content: center; gap: 14px; }
+  #s7 .zones-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  #s7 .zone-item {
+    background: rgba(255,255,255,0.03); border-radius: 12px;
+    border: 1px solid var(--dark-border); padding: 15px 16px;
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  #s7 .zone-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--gold); flex-shrink: 0; margin-top: 6px; }
+  #s7 .zone-item h4 { font-size: 15px; font-weight: 600; color: var(--ivory); margin-bottom: 3px; font-family: var(--f-body); }
+  #s7 .zone-item p { font-size: 12.5px; font-weight: 300; color: var(--muted); line-height: 1.45; }
+
+  /* ═══════════════════════════
+     SLIDE 8 — PAȘI
+  ═══════════════════════════ */
+  #s8 .content { justify-content: center; gap: 16px; }
+  #s8 .steps-list { display: flex; flex-direction: column; gap: 14px; }
+  #s8 .proc-step {
+    display: grid; grid-template-columns: 72px 1fr;
+    background: var(--dark-card); border-radius: 14px;
+    border: 1px solid var(--dark-border2); overflow: hidden;
+  }
+  #s8 .proc-step-num {
+    display: flex; align-items: center; justify-content: center;
+    background: var(--gold-subtle); border-right: 1px solid var(--gold-border);
+    font-family: var(--f-display); font-size: 26px; font-weight: 400;
+    color: var(--gold); letter-spacing: -0.02em; flex-shrink: 0;
+  }
+  #s8 .proc-step-body { padding: 18px 22px; }
+  #s8 .proc-step-body h4 { font-size: 16px; font-weight: 600; color: var(--ivory); margin-bottom: 5px; font-family: var(--f-body); }
+  #s8 .proc-step-body p { font-size: 13.5px; font-weight: 300; color: var(--muted); line-height: 1.60; }
+
+  /* ═══════════════════════════
+     SLIDE 9 — BENEFICII
+  ═══════════════════════════ */
+  #s9 .content { justify-content: center; gap: 16px; }
+  #s9 .benefits-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  #s9 .benefit-item {
+    background: var(--dark-card); border-radius: 12px;
+    border: 1px solid var(--dark-border2); padding: 16px 18px;
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  #s9 .benefit-icon {
+    width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0;
+    background: var(--green-bg); border: 1px solid rgba(76,175,125,0.25);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 700; color: var(--green);
+  }
+  #s9 .benefit-item h4 { font-size: 14px; font-weight: 600; color: var(--ivory); margin-bottom: 4px; font-family: var(--f-body); }
+  #s9 .benefit-item p { font-size: 12.5px; font-weight: 300; color: var(--muted); line-height: 1.5; }
+
+  /* ═══════════════════════════
+     SLIDE 10 — CONTRAINDICAȚII + CTA
+  ═══════════════════════════ */
+  #s10 { background: linear-gradient(170deg, #0A0808 0%, #080808 100%); }
+  #s10 .deco-glow { width: 900px; height: 900px; top: 50%; left: 50%; transform: translate(-50%,-50%); background: radial-gradient(ellipse, rgba(201,169,110,0.045) 0%, transparent 60%); }
+  #s10 .content { justify-content: center; gap: 14px; }
+  #s10 .contra-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  #s10 .contra-item {
+    display: flex; gap: 10px; align-items: flex-start;
+    background: var(--dark-card); border-radius: 10px;
+    border: 1px solid rgba(224,90,90,0.14); padding: 14px 16px;
+  }
+  #s10 .cx {
+    width: 18px; height: 18px; border-radius: 50%; flex-shrink: 0;
+    background: var(--red-bg); display: flex; align-items: center; justify-content: center;
+    font-size: 9px; font-weight: 700; color: var(--red); margin-top: 1px;
+  }
+  #s10 .contra-item p { font-size: 13px; font-weight: 300; color: var(--muted); line-height: 1.5; }
+  #s10 .contra-item strong { color: rgba(245,240,232,0.85); font-weight: 500; }
+  #s10 .cta-box {
+    background: var(--dark-card); border: 1px solid var(--gold-border);
+    border-radius: 14px; padding: 24px 28px; text-align: center;
+  }
+  #s10 .cta-box h3 { font-family: var(--f-display); font-size: 26px; font-weight: 400; color: var(--ivory); margin-bottom: 8px; }
+  #s10 .cta-box p { font-size: 14px; font-weight: 300; color: var(--muted); line-height: 1.65; margin-bottom: 16px; }
+  #s10 .cta-btn {
+    display: inline-flex; align-items: center; gap: 10px;
+    background: var(--gold); color: var(--black);
+    font-size: 15px; font-weight: 600; letter-spacing: 0.04em;
+    border-radius: 6px; padding: 13px 26px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 1 — COVER
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s1">
+  <div class="deco-glow"></div>
+  <div class="deco-dots"></div>
+
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">01 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="science-pill">Proceduri ortopedice minim invazive</div>
+    <h1 class="headline">Infiltrații<br><em class="acc">Intraarticulare</em><br>&amp; Periarticulare</h1>
+    <p class="tagline">O alternativă modernă și eficientă la chirurgie — reducere rapidă a durerii și refacerea mobilității articulare</p>
+    <div class="stats-row">
+      <div class="stat-item">
+        <span class="stat-num">30 min</span>
+        <span class="stat-lbl">durată procedură</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">fără</span>
+        <span class="stat-lbl">spitalizare</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">3 tipuri</span>
+        <span class="stat-lbl">substanțe disponibile</span>
+      </div>
+    </div>
+    <div class="author-badge">
+      <div class="icon-ring">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+          <path d="M12 3C12 3 7.5 8.5 7.5 12.5a4.5 4.5 0 009 0C16.5 8.5 12 3 12 3z" fill="white" opacity="0.95"/>
+          <path d="M12 10v4M10 12h4" stroke="rgba(201,169,110,1)" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div>
+        <span class="author-name">Dr. Vadim Bîrca</span>
+        <span class="author-sub">Ortopedie-Traumatologie · OrthoHub · București</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d on"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 2 — CE SUNT
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s2">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">02 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="eyebrow">Definiție</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;">Ce sunt infiltrațiile<br><em class="acc">articulare?</em></h2>
+    <div class="gold-bar"></div>
+
+    <div class="def-card">
+      <p>Infiltrațiile intraarticulare sunt proceduri minim invazive prin care injectez substanțe terapeutice direct în articulație sau în țesuturile din jur — tendoane, burse sau ligamente — pentru a reduce durerea, inflamația și a reface mobilitatea.</p>
+    </div>
+
+    <div class="facts-grid">
+      <div class="fact-item">
+        <div class="fact-num">1</div>
+        <div class="fact-text">
+          <strong>15–30 minute</strong>
+          <p>Procedura ambulatorie, fără internare, fără anestezie generală</p>
+        </div>
+      </div>
+      <div class="fact-item">
+        <div class="fact-num">2</div>
+        <div class="fact-text">
+          <strong>Efect rapid</strong>
+          <p>Ameliorarea durerii apare uneori în primele 24–48 de ore</p>
+        </div>
+      </div>
+      <div class="fact-item">
+        <div class="fact-num">3</div>
+        <div class="fact-text">
+          <strong>Complement terapeutic</strong>
+          <p>Nu înlocuiesc kinetoterapia sau stilul de viață activ, ci le completează</p>
+        </div>
+      </div>
+      <div class="fact-item">
+        <div class="fact-num">4</div>
+        <div class="fact-text">
+          <strong>Număr limitat per articulație</strong>
+          <p>Intervalul de siguranță este individualizat la fiecare pacient</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="note-box">
+      <div class="ni">💉</div>
+      <p>Recomand infiltrațiile <strong style="color:var(--ivory);">numai după consultație detaliată</strong>, evaluare imagistică și excluderea contraindicațiilor. Procedura se efectuează în condiții sterile, cu ghidaj ecografic când este necesar.</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d on"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 3 — INDICAȚII CLINICE
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s3">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">03 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="eyebrow">Indicații clinice</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;">Când sunt recomandate<br><em class="acc">infiltrațiile?</em></h2>
+    <div class="gold-bar"></div>
+
+    <div class="indic-grid">
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Artroza (osteoartrita)</h4>
+          <p>Genunchi, șold, umăr sau articulații mici — când analgezia orală este insuficientă</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Artrita reumatoidă</h4>
+          <p>Control rapid al puseelor inflamatorii locale, reducând tumefacția și durerea</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Tendinite &amp; tendinopatii</h4>
+          <p>Epicondilită, manșetă rotatoare, tendinită achiliană sau patelară</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Capsulita retractilă</h4>
+          <p>Umărul înghețat — reduc durata și severitatea, combinat cu kinetoterapie</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Bursitele</h4>
+          <p>Bursa sub-acromială, trohanteriană, olecraniană, prepatelară</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Sindromul de tunel carpian</h4>
+          <p>Ameliorare semnificativă în formele ușoare sau moderate</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Degetul în resort</h4>
+          <p>Prima linie de tratament înainte de a considera eliberarea chirurgicală</p>
+        </div>
+      </div>
+      <div class="indic-item">
+        <div class="indic-dot"></div>
+        <div>
+          <h4>Dureri articulare cronice</h4>
+          <p>Când chirurgia nu este indicată sau tratamentul conservator nu controlează durerea</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d on"></div>
+      <div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 4 — CORTICOSTEROIZI
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s4">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">04 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="tx-badge blue-b">Prima linie · Antiinflamator</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;"><em style="color:#9BC4E8; font-style:italic;">Corticosteroizi</em><br><span style="color:var(--ivory);">Intraarticulari</span></h2>
+    <div class="gold-bar" style="margin:0;"></div>
+
+    <div class="tx-desc-card">
+      <p>Substanțe antiinflamatoare puternice care reduc rapid inflamația, durerea și tumefacția articulară. Ideale în artroze simptomatice, artrite, bursiste și tendinite acute. Efect local precis, cu absorbție sistemică minimă.</p>
+    </div>
+
+    <div class="stats-3">
+      <div class="sb"><div class="sn">ore</div><div class="sl">debut efect</div></div>
+      <div class="sb"><div class="sn">4–12</div><div class="sl">săpt. durată</div></div>
+      <div class="sb"><div class="sn">≤4</div><div class="sl">injecții/an per articulație</div></div>
+    </div>
+
+    <div class="proscons-grid">
+      <div class="pc-card pc-pros">
+        <div class="pc-title">Avantaje</div>
+        <ul>
+          <li>Efect rapid — ore sau câteva zile</li>
+          <li>Puternic antiinflamator</li>
+          <li>Cost redus, disponibil larg</li>
+          <li>Util în urgențe funcționale</li>
+          <li>Acțiune locală precisă</li>
+        </ul>
+      </div>
+      <div class="pc-card pc-cons">
+        <div class="pc-title">Limitări</div>
+        <ul>
+          <li>Efect scurt: 4–12 săptămâni</li>
+          <li>Poate degrada cartilajul în timp</li>
+          <li>Crește glicemia la diabetici</li>
+          <li>Maximum 3–4 injecții/an</li>
+        </ul>
+        <div class="pc-stat">
+          <div class="pc-stat-num">4–12</div>
+          <div class="pc-stat-lbl">săpt. durată efect</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d on"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 5 — ACID HIALURONIC
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s5">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">05 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="tx-badge teal-b">Viscosuplimentare · Lubrifiant</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;"><em style="color:var(--teal); font-style:italic;">Acid Hialuronic</em><br><span style="color:var(--ivory);">Intraarticular</span></h2>
+    <div class="gold-bar" style="margin:0;"></div>
+
+    <div class="tx-desc-card">
+      <p>Mimează lichidul sinovial natural, lubrifiind suprafețele articulare și hrănind cartilajul. Recomandat în artrozele genunchiului, șoldului și umărului, mai ales în stadii medii, cu simptomatologie predominant mecanică.</p>
+    </div>
+
+    <div class="stats-3">
+      <div class="sb"><div class="sn">1–3</div><div class="sl">săpt. debut efect</div></div>
+      <div class="sb"><div class="sn">6–12</div><div class="sl">luni durată</div></div>
+      <div class="sb"><div class="sn" style="font-size:18px; padding-top:6px;">Artroze<br>medii</div><div class="sl">indicație principală</div></div>
+    </div>
+
+    <div class="proscons-grid">
+      <div class="pc-card pc-pros">
+        <div class="pc-title">Avantaje</div>
+        <ul>
+          <li>Ameliorare rapidă a durerii</li>
+          <li>Efect lubrifiant demonstrat clinic</li>
+          <li>Bine tolerat de organism</li>
+          <li>Fără substanțe sintetice active</li>
+          <li>Regenerare parțială mediu articular</li>
+        </ul>
+      </div>
+      <div class="pc-card pc-cons">
+        <div class="pc-title">Limitări</div>
+        <ul>
+          <li>Nu regenerează cartilajul</li>
+          <li>Eficiență variabilă în stadii avansate</li>
+          <li>Necesită repetare la 6–12 luni</li>
+        </ul>
+        <div class="pc-stat">
+          <div class="pc-stat-num">6–12</div>
+          <div class="pc-stat-lbl">luni durată efect</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d on"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 6 — PRP
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s6">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">06 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="tx-badge gold-b">Terapie regenerativă · Autolog</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;"><em class="acc">PRP</em> — Plasmă<br><span style="color:var(--ivory);">Bogată în Trombocite</span></h2>
+    <div class="gold-bar" style="margin:0;"></div>
+
+    <div class="tx-desc-card">
+      <p>Preparat din propriul sânge al pacientului, concentrat în factori de creștere. Stimulează procesele de vindecare tisulară și repararea cartilajului. Util în tendinopatii cronice și artroze incipiente sau moderate.</p>
+    </div>
+
+    <div class="steps-wrap">
+      <p class="steps-label">Cum funcționează</p>
+      <div class="steps-grid">
+        <div class="step-item"><div class="step-num">1</div><span>Recoltare sânge — 15–20 ml</span></div>
+        <div class="step-item"><div class="step-num">2</div><span>Centrifugare — concentrare factori</span></div>
+        <div class="step-item"><div class="step-num">3</div><span>Injecție ghidată ecografic</span></div>
+        <div class="step-item"><div class="step-num">4</div><span>2–3 ședințe la 2–4 săpt. interval</span></div>
+      </div>
+    </div>
+
+    <div class="proscons-grid">
+      <div class="pc-card pc-pros">
+        <div class="pc-title">Avantaje</div>
+        <ul>
+          <li>100% autolog — fără risc alergic</li>
+          <li>Stimulează regenerarea tisulară</li>
+          <li>Efect durabil: 12+ luni</li>
+          <li>Potențial regenerativ documentat</li>
+          <li>Compatibil cu stilul de viață activ</li>
+        </ul>
+      </div>
+      <div class="pc-card pc-cons">
+        <div class="pc-title">Limitări</div>
+        <ul>
+          <li>Debut efect: 4–6 săptămâni</li>
+          <li>2–3 ședințe necesare</li>
+          <li>Cost mai ridicat</li>
+        </ul>
+        <div class="pc-stat">
+          <div class="pc-stat-num">12+</div>
+          <div class="pc-stat-lbl">luni durată efect</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d on"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 7 — ZONE ARTICULARE
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s7">
+  <div class="deco-glow"></div>
+
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">07 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="eyebrow">Localizări tratate</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;">Articulații și zone<br><em class="acc">periarticulare</em></h2>
+    <div class="gold-bar"></div>
+    <p style="font-size:15px; font-weight:300; color:var(--muted); line-height:1.7;">Infiltrațiile pot fi efectuate la nivelul majorității articulațiilor mari și mici. Principalele localizări pe care le tratez:</p>
+
+    <div class="zones-grid">
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Genunchi</h4><p>Artroză, efuziune sinovială, bursită prepatelară</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Umăr</h4><p>Capsulită retractilă, manșetă rotatoare, bursă sub-acromială</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Șold</h4><p>Artroză coxofemurală, bursită trohanteriană</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Coloana vertebrală</h4><p>Articulații facetare, infiltrații epidurale selective</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Gleznă &amp; Picior</h4><p>Artroze, fasciită plantară, tendon achilean</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Cot</h4><p>Epicondilită laterală și medială, bursită olecraniană</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Mână &amp; Pumn</h4><p>Deget în resort, rizartroză, sindrom tunel carpian</p></div>
+      </div>
+      <div class="zone-item">
+        <div class="zone-dot"></div>
+        <div><h4>Articulație sacroiliacă</h4><p>Spondilartrite, sacroileite inflamatorii sau mecanice</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d on"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 8 — PAȘII PROCEDURII
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s8">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">08 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="eyebrow">Cum decurge</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;">Pașii<br><em class="acc">procedurii</em></h2>
+    <div class="gold-bar"></div>
+
+    <div class="steps-list">
+      <div class="proc-step">
+        <div class="proc-step-num">01</div>
+        <div class="proc-step-body">
+          <h4>Consultație &amp; evaluare</h4>
+          <p>Analizez istoricul medical, simptomele și imagistica (radiografie, ecografie, RMN) și stabilim împreună dacă infiltrația este indicată și ce substanță este potrivită.</p>
+        </div>
+      </div>
+      <div class="proc-step">
+        <div class="proc-step-num">02</div>
+        <div class="proc-step-body">
+          <h4>Pregătire &amp; consimțământ</h4>
+          <p>Explic procedura în detaliu, răspund la întrebări și obțin consimțământul informat. Zona este dezinfectată riguros în condiții sterile.</p>
+        </div>
+      </div>
+      <div class="proc-step">
+        <div class="proc-step-num">03</div>
+        <div class="proc-step-body">
+          <h4>Injecția propriu-zisă</h4>
+          <p>Efectuez injecția cu ac fin, sub ghidaj clinic sau ecografic când este necesar. Durează 5–10 minute. Disconfortul este minim — comparabil cu un vaccin obișnuit.</p>
+        </div>
+      </div>
+      <div class="proc-step">
+        <div class="proc-step-num">04</div>
+        <div class="proc-step-body">
+          <h4>Monitorizare &amp; recomandări</h4>
+          <p>Rămâi sub observație 10–15 minute. Primești instrucțiuni clare pentru zilele care urmează, inclusiv recomandări de repaus relativ și data controlului.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d on"></div>
+      <div class="d"></div><div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 9 — BENEFICII
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s9">
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">09 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="eyebrow">De ce să alegi</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;">Beneficiile<br><em class="acc">infiltrațiilor</em></h2>
+    <div class="gold-bar"></div>
+    <p style="font-size:15px; font-weight:300; color:var(--muted); line-height:1.7;">Față de chirurgie sau analgezicele orale pe termen lung, infiltrațiile oferă un raport risc-beneficiu favorabil în indicațiile corecte.</p>
+
+    <div class="benefits-grid">
+      <div class="benefit-item">
+        <div class="benefit-icon">✓</div>
+        <div>
+          <h4>Acțiune localizată, precisă</h4>
+          <p>Substanța ajunge direct la sursa problemei, fără efecte sistemice semnificative</p>
+        </div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">✓</div>
+        <div>
+          <h4>Rezultate rapide</h4>
+          <p>Ameliorarea durerii poate apărea în câteva ore–zile, permițând reluarea activității</p>
+        </div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">✓</div>
+        <div>
+          <h4>Evitarea sau amânarea chirurgiei</h4>
+          <p>La mulți pacienți, controlul corect al simptomelor permite amânarea operației cu ani</p>
+        </div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">✓</div>
+        <div>
+          <h4>Fără spitalizare</h4>
+          <p>Procedura ambulatorie — vii, primești infiltrația și pleci acasă în 30–45 minute</p>
+        </div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">✓</div>
+        <div>
+          <h4>Reducerea AINS orale</h4>
+          <p>Scad dependența de antiinflamatoare, cu impact pozitiv asupra stomacului și rinichilor</p>
+        </div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">✓</div>
+        <div>
+          <h4>Compatibil cu kinetoterapia</h4>
+          <p>Efectul analgezic facilitează un program de recuperare mai eficient și mai bine tolerat</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d on"></div>
+      <div class="d"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SLIDE 10 — CONTRAINDICAȚII + CTA
+═══════════════════════════════════════════════════ -->
+<div class="slide" id="s10">
+  <div class="deco-glow"></div>
+
+  <div class="nav">
+    <span class="nav-brand">OrthoHub</span>
+    <span class="nav-counter">10 / 10</span>
+  </div>
+
+  <div class="content">
+    <div class="eyebrow">Limite &amp; siguranță</div>
+    <h2 class="headline" style="font-size:50px; margin-bottom:0;">Contraindicații<br><em class="acc">de cunoscut</em></h2>
+    <div class="gold-bar"></div>
+    <p style="font-size:15px; font-weight:300; color:var(--muted); line-height:1.7;">Nu orice pacient este candidat pentru infiltrație. Evaluez cu atenție fiecare caz înainte de a recomanda procedura.</p>
+
+    <div class="contra-grid">
+      <div class="contra-item">
+        <div class="cx">✕</div>
+        <p><strong>Infecție activă</strong> locală sau sistemică — risc de diseminare articulară</p>
+      </div>
+      <div class="contra-item">
+        <div class="cx">✕</div>
+        <p><strong>Alergie documentată</strong> la substanța ce urmează a fi injectată</p>
+      </div>
+      <div class="contra-item">
+        <div class="cx">✕</div>
+        <p><strong>Tratament anticoagulant</strong> fără întrerupere prealabilă corespunzătoare</p>
+      </div>
+      <div class="contra-item">
+        <div class="cx">✕</div>
+        <p><strong>Diabet dezechilibrat</strong> — corticosteroizii pot crește temporar glicemia</p>
+      </div>
+      <div class="contra-item">
+        <div class="cx">✕</div>
+        <p><strong>Proteză articulară</strong> în zona vizată — risc infectiv crescut</p>
+      </div>
+      <div class="contra-item">
+        <div class="cx">✕</div>
+        <p><strong>Fracturi recente</strong> sau instabilitate ligamentară severă</p>
+      </div>
+    </div>
+
+    <div class="cta-box">
+      <h3>Vrei să știi dacă ești candidat?</h3>
+      <p>Programează o consultație la OrthoHub București. Evaluăm situația ta și îți explic opțiunile fără ambiguități.</p>
+      <div class="cta-btn">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+          <path d="M12 0C5.373 0 0 5.373 0 12c0 2.138.563 4.14 1.547 5.877L.057 23.428a.75.75 0 0 0 .921.915l5.43-1.461A11.937 11.937 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.75a9.74 9.74 0 0 1-4.96-1.355l-.355-.211-3.672.988.997-3.747-.231-.376A9.752 9.752 0 0 1 2.25 12C2.25 6.615 6.615 2.25 12 2.25S21.75 6.615 21.75 12 17.385 21.75 12 21.75z"/>
+        </svg>
+        +40 729 077 770 · orthohub.ro
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <div class="foot-dots">
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d"></div><div class="d"></div><div class="d"></div><div class="d"></div>
+      <div class="d on"></div>
+    </div>
+    <span class="foot-url">orthohub.ro</span>
+  </div>
+</div>
+
+</body>
+</html>

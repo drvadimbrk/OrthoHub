@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- ── PRIMARY SEO ── -->
-  <title>OrthoHub – Dr. Bîrcă Vadim – Tratament PRP București | Ortopedie Regenerativă</title>
-  <meta name="description" content="Tratament PRP în București — Dr. Bîrcă Vadim, medic specialist ortopedie și traumatologie. Injecții PRP ghidate ecografic pentru artroze, tendinite și fasciită plantară. Fără operație, fără pastile. Programează-te online.">
-  <meta name="keywords" content="PRP București, tratament PRP genunchi, injecții PRP, ortopedie București, Dr Bîrcă Vadim, artroză, tendinopatie, fasciită plantară, medicină regenerativă București, gonartroză tratament">
-  <meta name="author" content="Dr. Bîrcă Vadim – OrthoHub">
+  <title>Tratament PRP București – Dr. Vadim Bîrca | OrthoHub</title>
+  <meta name="description" content="Tratament PRP în București — Dr. Vadim Bîrca, medic specialist ortopedie și traumatologie. Injecții PRP ghidate ecografic pentru artroze, tendinite și fasciită plantară. Fără operație, fără pastile. Programează-te online.">
+  <meta name="keywords" content="PRP București, tratament PRP genunchi, injecții PRP, ortopedie București, Dr Vadim Birca, Dr Vadim Bîrca, artroză, tendinopatie, fasciită plantară, medicină regenerativă București, gonartroză tratament">
+  <meta name="author" content="Dr. Vadim Bîrca – OrthoHub">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   <meta name="geo.region" content="RO-B">
   <meta name="geo.placename" content="București, Sector 3">
@@ -18,21 +18,21 @@
   <!-- ── OPEN GRAPH ── -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://orthohub.ro/">
-  <meta property="og:title" content="OrthoHub – Tratament PRP București | Dr. Bîrcă Vadim">
-  <meta property="og:description" content="Scapă de durerile articulare fără operații. Tratament PRP ghidat ecografic, Dr. Bîrcă Vadim — Calea Călărașilor 179, București.">
+  <meta property="og:title" content="OrthoHub – Tratament PRP București | Dr. Vadim Bîrca">
+  <meta property="og:description" content="Scapă de durerile articulare fără operații. Tratament PRP ghidat ecografic, Dr. Vadim Bîrca — Calea Călărașilor 179, București.">
   <meta property="og:image" content="https://orthohub.ro/assets/og-image.webp">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Dr. Bîrcă Vadim – OrthoHub, tratament PRP București">
+  <meta property="og:image:alt" content="Dr. Vadim Bîrca – OrthoHub, tratament PRP București">
   <meta property="og:locale" content="ro_RO">
   <meta property="og:site_name" content="OrthoHub">
 
   <!-- ── TWITTER CARD ── -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="OrthoHub – Tratament PRP București | Dr. Bîrcă Vadim">
+  <meta name="twitter:title" content="OrthoHub – Tratament PRP București | Dr. Vadim Bîrca">
   <meta name="twitter:description" content="Scapă de durerile articulare fără operații. Tratament PRP ghidat ecografic în București.">
   <meta name="twitter:image" content="https://orthohub.ro/assets/og-image.webp">
-  <meta name="twitter:image:alt" content="Dr. Bîrcă Vadim – OrthoHub PRP București">
+  <meta name="twitter:image:alt" content="Dr. Vadim Bîrca – OrthoHub PRP București">
 
   <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
@@ -187,6 +187,39 @@
       font-size: 15px;
       padding: 16px 36px;
       letter-spacing: 0.05em;
+    }
+
+    .btn--secondary {
+      background: transparent;
+      color: var(--c-text);
+      border-color: rgba(10, 10, 10, 0.28);
+    }
+    .btn--secondary:hover {
+      border-color: rgba(10, 10, 10, 0.55);
+      background: rgba(10, 10, 10, 0.04);
+    }
+
+    .btn--ghost {
+      background: transparent;
+      color: rgba(245, 240, 232, 0.55);
+      border-color: transparent;
+      font-size: 14px;
+      padding: 14px 20px;
+    }
+    .btn--ghost:hover {
+      color: var(--c-ivory);
+      background: rgba(245, 240, 232, 0.06);
+    }
+
+    .btn--ghost-dark {
+      background: transparent;
+      color: var(--c-muted);
+      border-color: transparent;
+      font-size: 14px;
+      padding: 14px 20px;
+    }
+    .btn--ghost-dark:hover {
+      color: var(--c-text);
     }
 
     /* ══════════════════════════════════════════
@@ -1090,13 +1123,52 @@
       border-color: rgba(201, 169, 110, 0.22);
     }
 
-    /* Swap each with: <img src="assets/article-N.webp" alt="..." loading="lazy"> */
     .article-card__img {
       width: 100%;
       aspect-ratio: 16/9;
       background: var(--c-cream);
       position: relative;
       overflow: hidden;
+    }
+    .article-card__img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.45s ease;
+    }
+    .article-card:hover .article-card__img img {
+      transform: scale(1.05);
+    }
+    .article-card--hidden {
+      display: none;
+    }
+    .articles__load-more {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      font-family: var(--f-body);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      color: var(--c-text);
+      background: transparent;
+      border: 1px solid rgba(10,10,10,0.18);
+      padding: 14px 30px;
+      border-radius: 50px;
+      cursor: pointer;
+      transition: color var(--t), border-color var(--t), background var(--t);
+    }
+    .articles__load-more:hover {
+      color: var(--c-gold);
+      border-color: var(--c-gold-border);
+      background: var(--c-gold-subtle);
+    }
+    .articles__load-more::after {
+      content: '→';
+      font-size: 14px;
+      font-weight: 400;
     }
 
     .article-card__body {
@@ -1594,9 +1666,32 @@
       .wa-widget svg { width: 28px; height: 28px; }
     }
 
+    /* ══════════════════════════════════════════
+       STICKY MOBILE CALL BAR
+    ══════════════════════════════════════════ */
+    .oh-call-bar {
+      display: none;
+      position: fixed;
+      left: 0; right: 0; bottom: 0;
+      z-index: 9999;
+      background: var(--c-gold);
+      color: var(--c-black);
+      font-family: var(--f-body);
+      font-weight: 700;
+      font-size: 1rem;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      box-shadow: 0 -2px 12px rgba(0,0,0,.18);
+    }
+    @media (max-width: 768px) {
+      .oh-call-bar { display: block; }
+      body { padding-bottom: 58px; }
+    }
+
     @media (max-width: 600px) {
       :root { --section-pad: 52px; }
-      body { font-size: 16px; }
+      body { font-size: 16px; padding-bottom: 58px; }
 
       .container { padding: 0 20px; }
 
@@ -1929,7 +2024,7 @@
       <div class="hero__content">
         <span class="hero__eyebrow">Tratament PRP · București</span>
         <h1 class="hero__title" id="hero-title">
-          Tratează-ți sursa <em class="hero__title-accent">durerii</em>
+          Tratament PRP în București — tratează-ți sursa <em class="hero__title-accent">durerii</em>
         </h1>
         <p class="hero__subtitle">
           PRP este soluția naturală care regenerează sănătatea articulară și musculară.
@@ -1941,19 +2036,15 @@
           <li>Rezultate vizibile instant</li>
         </ul>
         <div class="hero__cta">
-          <a
-            href="https://calendly.com/vadim-brk/30min"
-            class="btn btn--primary btn--lg"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Programează-te pe Calendly"
-          >Programează-te singur</a>
+          <a href="tel:+40729077770" class="btn btn--primary btn--lg" aria-label="Sună la OrthoHub">Sună acum: +40 729 077 770</a>
+          <a href="https://wa.me/40729077770" class="btn btn--secondary btn--lg" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp OrthoHub">WhatsApp</a>
+          <a href="https://calendly.com/vadim-brk/30min" class="btn btn--ghost-dark btn--lg" target="_blank" rel="noopener noreferrer" aria-label="Programare online Calendly">Programare online</a>
         </div>
       </div>
 
       <div class="hero__image">
         <div class="hero__img-card">
-          <img src="assets/durere-articulara-tratament-prp.webp" alt="Durere articulară — tratament PRP fără operație, Dr. Bîrcă Vadim OrthoHub București" width="430" height="516" loading="eager" fetchpriority="high">
+          <img src="assets/terapie-prp-bucuresti-orthohub.webp" alt="Terapie PRP București — tratament cu plasmă îmbogățită în trombocite, Dr. Vadim Bîrca OrthoHub" width="430" height="516" loading="eager" fetchpriority="high">
           <div class="hero__img-badge">
             <div class="hero__badge-icon">
               <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2059,7 +2150,7 @@
 
         <div class="doctor__photo-col anim">
           <div class="doctor__photo-frame">
-            <img src="assets/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Dr. Bârcă Vadim, medic ortoped specialist terapie PRP București" width="300" height="400" loading="lazy">
+            <img src="assets/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Dr. Vadim Bîrca, medic ortoped specialist terapie PRP București" width="300" height="400" loading="lazy">
           </div>
           <div class="doctor__photo-card">
             <strong>17+</strong>
@@ -2068,12 +2159,12 @@
         </div>
 
         <div class="doctor__bio anim anim-d2">
-          <h2 id="doctor-title">Dr. Bîrcă Vadim</h2>
+          <h2 id="doctor-title">Dr. Vadim Bîrca</h2>
           <span class="doctor__credential">Medic Specialist Ortopedie și Traumatologie</span>
           <p>Parcursul meu în medicină a început în anul 2009 la Universitatea de Medicină și Farmacie din Craiova, fiind urmat de o etapă esențială de formare ca medic rezident în Ortopedie și Traumatologie în centrul universitar Târgu Mureș.</p>
           <p>Stagiuri de pregătire în centre medicale prestigioase din Franța au reprezentat un moment definitoriu. Aplic zilnic valori de empatie profundă și tratare dedicată a pacienților.</p>
           <h3>Arii de Expertiză</h3>
-          <ul class="doctor__expertise" aria-label="Arii de expertiză Dr. Bîrcă Vadim">
+          <ul class="doctor__expertise" aria-label="Arii de expertiză Dr. Vadim Bîrca">
             <li>Chirurgia minim invazivă a șoldului cu protezare prin incizii minime</li>
             <li>Chirurgia mâinii sub anestezie locală</li>
             <li>Ecografie Musculoscheletală și Intervenții Ghidate (2025)</li>
@@ -2100,7 +2191,7 @@
 
       <div class="doctor-modal__header">
         <span class="doctor-modal__eyebrow">Profil Medical</span>
-        <h2 id="modalDoctorTitle">Dr. Bîrcă Vadim</h2>
+        <h2 id="modalDoctorTitle">Dr. Vadim Bîrca</h2>
         <span class="doctor-modal__credential">Medic Specialist Ortopedie și Traumatologie</span>
         <p class="doctor-modal__specialty">Expertiză în Chirurgie Minim Invazivă, Chirurgia Mâinii și Medicină Regenerativă</p>
       </div>
@@ -2146,7 +2237,7 @@
           class="btn btn--primary"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Programează o consultație cu Dr. Bîrcă Vadim"
+          aria-label="Programează o consultație cu Dr. Vadim Bîrca"
         >Programează-te acum</a>
       </div>
 
@@ -2240,7 +2331,9 @@
 
         <article class="article-card anim anim-d1">
           <a href="/articole/prp-genunchi-bucuresti-dr-birca" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#0d1b2e 0%,#163354 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/gonartroza-tratament-prp-genunchi-bucuresti.png" alt="Gonartroză tratament PRP Dr. Vadim Bîrca București — regenerare cartilaj genunchi fără operație" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2255,7 +2348,9 @@
 
         <article class="article-card anim anim-d2">
           <a href="/articole/articol-prp-ortopedie" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#1a1e2e 0%,#2e3252 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/tendinopatie-paletara-tratament-prp-genunchi-bucuresti.png" alt="Tendinopatie rotuliană patelară tratament PRP Dr. Vadim Bîrca București — durere genunchi la sărituri" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2270,7 +2365,9 @@
 
         <article class="article-card anim anim-d3">
           <a href="/articole/articol-prp-acid-hialuronic-cortizon" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#1a2616 0%,#2e4228 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/epicondilita-mediala-tratament-prp-cot-bucuresti.png" alt="Epicondilită medială cotul golfistului tratament PRP Dr. Vadim Bîrca București — recuperare cot fără operație" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2285,7 +2382,9 @@
 
         <article class="article-card anim anim-d1">
           <a href="/articole/prp-24-intrebari-orthohub" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#1e1214 0%,#3a1e24 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/tendinopatie-ahiliana-tratament-prp-bucuresti.png" alt="Tendinopatie ahiliană tratament PRP Dr. Vadim Bîrca București — recuperare tendon Ahile fără chirurgie" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2293,14 +2392,16 @@
               <span class="article-card__date">Apr 2025</span>
             </div>
             <h3 class="article-card__title"><a href="/articole/prp-24-intrebari-orthohub">24 de Întrebări despre Infiltrația PRP</a></h3>
-            <p class="article-card__excerpt">Dr. Bîrcă Vadim răspunde exhaustiv: durere, pregătire, contraindicații, număr de ședințe, cost și tot ce vrei să știi înainte de procedură.</p>
+            <p class="article-card__excerpt">Dr. Vadim Bîrca răspunde exhaustiv: durere, pregătire, contraindicații, număr de ședințe, cost și tot ce vrei să știi înainte de procedură.</p>
             <a href="/articole/prp-24-intrebari-orthohub" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card anim anim-d2">
           <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#1e1a0e 0%,#3a3016 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/fasciita-plantara-tratament-prp-picior-bucuresti.png" alt="Fasciită plantară tratament PRP Dr. Vadim Bîrca București — durere talpă picior vindecare fără operație" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2315,7 +2416,9 @@
 
         <article class="article-card anim anim-d3">
           <a href="/articole/prp-vs-celule-stem-vs-exozomi" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#0e1a1e 0%,#163240 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/tendinopatie-ischiogambieri-tratament-prp-bucuresti.png" alt="Tendinopatie ischiogambieri tratament PRP Dr. Vadim Bîrca București — recuperare musculară sportivă" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2328,9 +2431,11 @@
           </div>
         </article>
 
-        <article class="article-card anim anim-d1">
+        <article class="article-card anim anim-d1 article-card--hidden">
           <a href="/articole/orthohub-coxartroza-prp-acid-hialuronic" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#0e1e1a 0%,#163430 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/bursita-sold-coxartroza-tratament-prp-bucuresti.png" alt="Bursită șold coxartroză tratament PRP Dr. Vadim Bîrca București — articulație șold fără protezare" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2343,9 +2448,11 @@
           </div>
         </article>
 
-        <article class="article-card anim anim-d2">
+        <article class="article-card anim anim-d2 article-card--hidden">
           <a href="/articole/orthohub-supraspinos-prp" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#1a0e1e 0%,#301634 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/ruptura-coafa-rotatorie-tratament-prp-umar-bucuresti.png" alt="Ruptură coafă rotatorie tratament PRP Dr. Vadim Bîrca București — recuperare umăr fără operație" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2358,9 +2465,11 @@
           </div>
         </article>
 
-        <article class="article-card anim anim-d3">
+        <article class="article-card anim anim-d3 article-card--hidden">
           <a href="/articole/articol-prp-ortobiologice-birca-OPTIMIZED" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#1a1610 0%,#2e2618 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/tendinopatie-gluteala-tratament-prp-sold-bucuresti.png" alt="Tendinopatie gluteală tratament PRP Dr. Vadim Bîrca București — durere fesă și șold recuperare ortobiologică" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2373,9 +2482,11 @@
           </div>
         </article>
 
-        <article class="article-card anim anim-d1">
+        <article class="article-card anim anim-d1 article-card--hidden">
           <a href="/articole/infiltratii-intraarticulare-orthohub" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#0e1620 0%,#162438 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/tendinopatie-cvadriceps-tratament-prp-coapsa-bucuresti.png" alt="Tendinopatie cvadriceps tratament PRP Dr. Vadim Bîrca București — durere coapsă deasupra genunchiului" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2388,9 +2499,11 @@
           </div>
         </article>
 
-        <article class="article-card anim anim-d2">
+        <article class="article-card anim anim-d2 article-card--hidden">
           <a href="/articole/literatura-ortobiologice-dr-birca" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#0e1618 0%,#142630 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/epicondilita-laterala-tratament-prp-cot-bucuresti.png" alt="Epicondilită laterală cotul tenismenului tratament PRP Dr. Vadim Bîrca București — studii clinice ortobiologice" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2398,14 +2511,16 @@
               <span class="article-card__date">2025</span>
             </div>
             <h3 class="article-card__title"><a href="/articole/literatura-ortobiologice-dr-birca">Studii Clinice: PRP și Terapii Regenerative</a></h3>
-            <p class="article-card__excerpt">Bază de date cu RCT-uri și meta-analize recente despre PRP, unde de șoc și ortobiologice, comentată de Dr. Bîrcă Vadim.</p>
+            <p class="article-card__excerpt">Bază de date cu RCT-uri și meta-analize recente despre PRP, unde de șoc și ortobiologice, comentată de Dr. Vadim Bîrca.</p>
             <a href="/articole/literatura-ortobiologice-dr-birca" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
-        <article class="article-card anim anim-d3">
+        <article class="article-card anim anim-d3 article-card--hidden">
           <a href="/articole/terapie-exozomi-articulara" aria-hidden="true" tabindex="-1">
-            <div class="article-card__img" style="background:linear-gradient(135deg,#16101e 0%,#261a34 100%)" aria-hidden="true"></div>
+            <div class="article-card__img">
+              <img src="/assets/gonartroza-tratament-prp-genunchi-bucuresti.png" alt="Terapie exozomi articulații Dr. Vadim Bîrca București — regenerare cartilaj inovație biologică" loading="lazy" width="800" height="450">
+            </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
@@ -2419,6 +2534,26 @@
         </article>
 
       </div>
+
+      <div class="articles__footer">
+        <button class="articles__load-more" id="articlesLoadMore" onclick="loadMoreArticles()">Citește mai multe articole</button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════
+       PRICE / TARIFE
+  ═══════════════════════════════════════ -->
+  <section id="tarife" aria-labelledby="tarife-h" style="background:var(--c-off-white);padding:var(--section-pad) 0;">
+    <div class="container" style="max-width:720px;">
+      <h2 id="tarife-h" class="section-title anim">Cât costă tratamentul PRP în București?</h2>
+      <p class="anim anim-d1" style="color:var(--c-muted);font-size:1.05rem;line-height:1.7;">
+        Prețul unui tratament PRP ghidat ecografic la OrthoHub variază în funcție de afecțiune, numărul de infiltrații și investigațiile necesare — toate stabilite la consultație, fără costuri ascunse.
+        Consultația inițială include evaluarea completă, analiza imagistică și planul personalizat de tratament.
+        Sună la <a href="tel:+40729077770" style="color:var(--c-gold);font-weight:600;">+40 729 077 770</a> sau trimite un mesaj pe WhatsApp pentru o ofertă personalizată.
+        <!-- TODO Dr. Bîrca: adaugă un preț orientativ „de la X RON" dacă dorești să captezi și căutările cu „preț PRP București" -->
+      </p>
     </div>
   </section>
 
@@ -2501,17 +2636,24 @@
       <p class="anim anim-d2">Fă primul pas spre mișcare fără durere. Alege metoda care ți se potrivește.</p>
       <div class="cta-banner__buttons anim anim-d3">
         <a
-          href="https://calendly.com/vadim-brk/30min"
-          class="btn btn--primary btn--lg"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Programează online consultația PRP"
-        >Programează online</a>
-        <a
           href="tel:+40729077770"
-          class="btn btn--outline btn--lg"
+          class="btn btn--primary btn--lg"
           aria-label="Sună acum la clinică"
         >Sună acum: +40 729 077 770</a>
+        <a
+          href="https://wa.me/40729077770"
+          class="btn btn--outline btn--lg"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="WhatsApp OrthoHub"
+        >WhatsApp</a>
+        <a
+          href="https://calendly.com/vadim-brk/30min"
+          class="btn btn--ghost btn--lg"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Programare online Calendly"
+        >Programare online</a>
       </div>
     </div>
   </section>
@@ -2536,7 +2678,7 @@
         <div class="footer__col">
           <h3 class="footer__col-title">Contact &amp; Locație</h3>
           <ul>
-            <li>Dr. Bîrcă Vadim</li>
+            <li>Dr. Vadim Bîrca</li>
             <li>Calea Călărașilor 179</li>
             <li>Sector 3, București, România</li>
             <li><a href="tel:+40729077770" class="footer__phone-link">+40 729 077 770</a></li>
@@ -2566,6 +2708,7 @@
             <li><a href="#doctor">Despre doctor</a></li>
             <li><a href="#recenzii">Recenzii pacienți</a></li>
             <li><a href="#articole">Articole medicale</a></li>
+            <li><a href="#tarife">Tarife</a></li>
             <li><a href="#intrebari-frecvente">Întrebări frecvente</a></li>
             <li><a href="#programare">Programare</a></li>
           </ul>
@@ -2585,7 +2728,7 @@
 
       <!-- Bottom bar -->
       <div class="footer__bottom">
-        <p class="footer__copyright">© 2026 OrthoHub — Dr. Bîrcă Vadim. Toate drepturile rezervate.</p>
+        <p class="footer__copyright">© 2026 OrthoHub — Dr. Vadim Bîrca. Toate drepturile rezervate.</p>
         <p class="footer__credit">Creat cu &#128525; &amp; &#9749; de WebtasticAI</p>
       </div>
     </div>
@@ -2614,68 +2757,95 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": ["MedicalClinic", "LocalBusiness"],
-    "@id": "https://orthohub.ro/#clinic",
-    "name": "OrthoHub — Dr. Bîrcă Vadim",
-    "alternateName": "OrthoHub PRP București",
-    "description": "Clinică de ortopedie și medicină regenerativă (PRP) — tratament cu Plasmă Bogată în Trombocite pentru artroze, tendinite și fasciită plantară în București.",
-    "url": "https://orthohub.ro",
-    "telephone": "+40729077770",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Calea Călărașilor 179",
-      "addressLocality": "București",
-      "addressRegion": "Sector 3",
-      "addressCountry": "RO"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 44.4268,
-      "longitude": 26.1136
-    },
-    "openingHoursSpecification": [
+    "@graph": [
       {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-        "opens": "09:00",
-        "closes": "18:00"
+        "@type": ["MedicalClinic", "MedicalBusiness", "LocalBusiness"],
+        "@id": "https://orthohub.ro/#clinic",
+        "name": "OrthoHub — Dr. Vadim Bîrca",
+        "alternateName": "OrthoHub PRP București",
+        "description": "Clinică de ortopedie și medicină regenerativă (PRP) — tratament cu Plasmă Bogată în Trombocite ghidat ecografic pentru artroze, tendinite și fasciită plantară în București.",
+        "url": "https://orthohub.ro/",
+        "logo": "https://orthohub.ro/assets/og-image.webp",
+        "image": "https://orthohub.ro/assets/terapie-prp-bucuresti-orthohub.webp",
+        "telephone": "+40729077770",
+        "priceRange": "$$",
+        "medicalSpecialty": "Orthopedic",
+        "currenciesAccepted": "RON",
+        "paymentAccepted": "Cash, Card",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calea Călărașilor 179",
+          "addressLocality": "București",
+          "addressRegion": "Sector 3",
+          "postalCode": "030614",
+          "addressCountry": "RO"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 44.4268,
+          "longitude": 26.1136
+        },
+        "areaServed": [
+          { "@type": "City", "name": "București" },
+          { "@type": "AdministrativeArea", "name": "Ilfov" }
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ],
+        "availableService": [
+          { "@type": "MedicalTherapy", "name": "Tratament PRP — Plasmă Bogată în Trombocite" },
+          { "@type": "MedicalTherapy", "name": "Injecții PRP ghidate ecografic" },
+          { "@type": "MedicalProcedure", "name": "Ecografie musculoscheletală" },
+          { "@type": "MedicalTherapy", "name": "Medicină regenerativă" }
+        ],
+        "sameAs": [
+          "https://www.google.com/maps/search/OrthoHub+Calea+Calarasilor+179+Bucuresti",
+          "https://drvadim.ro/"
+        ],
+        "founder": { "@id": "https://orthohub.ro/#physician" },
+        "employee": { "@id": "https://orthohub.ro/#physician" }
+      },
+      {
+        "@type": "Physician",
+        "@id": "https://orthohub.ro/#physician",
+        "name": "Dr. Vadim Bîrca",
+        "givenName": "Vadim",
+        "familyName": "Bîrca",
+        "alternateName": ["Vadim Birca", "Dr. Bîrca"],
+        "jobTitle": "Medic Specialist Ortopedie și Traumatologie",
+        "description": "Medic specialist ortopedie și traumatologie, format la UMF Craiova, rezidențiat la Târgu Mureș, cu stagii în Franța. Specializat în PRP ghidat ecografic, chirurgie minim invazivă și ecografie musculoscheletală.",
+        "url": "https://orthohub.ro/",
+        "image": "https://orthohub.ro/assets/dr-barca-vadim-medic-ortoped-bucuresti.webp",
+        "medicalSpecialty": "Orthopedic",
+        "worksFor": { "@id": "https://orthohub.ro/#clinic" },
+        "alumniOf": [
+          { "@type": "CollegeOrUniversity", "name": "Universitatea de Medicină și Farmacie din Craiova" },
+          { "@type": "CollegeOrUniversity", "name": "Universitatea de Medicină și Farmacie din Târgu Mureș" }
+        ],
+        "knowsAbout": [
+          "Terapie PRP", "Medicină regenerativă", "Ecografie musculoscheletală",
+          "Chirurgie minim invazivă", "Gonartroză", "Tendinopatii",
+          "Fasciită plantară", "Coxartroză", "Sindrom de tunel carpian", "Chirurgia mâinii"
+        ],
+        "sameAs": [
+          "https://www.linkedin.com/in/vadim-b%C3%AErca-06769732b/",
+          "https://drvadim.ro/"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://orthohub.ro/#website",
+        "url": "https://orthohub.ro/",
+        "name": "OrthoHub",
+        "inLanguage": "ro-RO",
+        "publisher": { "@id": "https://orthohub.ro/#clinic" }
       }
-    ],
-    "priceRange": "$$",
-    "currenciesAccepted": "RON",
-    "paymentAccepted": "Cash, Card",
-    "medicalSpecialty": { "@type": "MedicalSpecialty", "name": "Orthopedic Surgery" },
-    "availableService": [
-      { "@type": "MedicalTherapy", "name": "Tratament PRP — Plasmă Bogată în Trombocite" },
-      { "@type": "MedicalTherapy", "name": "Injecții PRP ghidate ecografic" },
-      { "@type": "MedicalProcedure", "name": "Ecografie musculoscheletală" },
-      { "@type": "MedicalTherapy", "name": "Medicină regenerativă" }
-    ],
-    "image": "https://orthohub.ro/assets/og-image.webp",
-    "logo": "https://orthohub.ro/assets/logo.webp"
-  }
-  </script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Physician",
-    "@id": "https://orthohub.ro/#doctor",
-    "name": "Dr. Bîrcă Vadim",
-    "givenName": "Vadim",
-    "familyName": "Bîrcă",
-    "jobTitle": "Medic Specialist Ortopedie și Traumatologie",
-    "description": "Medic specialist ortopedie și traumatologie, format la UMF Craiova, rezidențiat la Târgu Mureș, cu stagii în Franța. Specializat în PRP, chirurgie minim invazivă și ecografie musculoscheletală.",
-    "worksFor": { "@id": "https://orthohub.ro/#clinic" },
-    "medicalSpecialty": [
-      { "@type": "MedicalSpecialty", "name": "Orthopedic Surgery" },
-      { "@type": "MedicalSpecialty", "name": "Regenerative Medicine" }
-    ],
-    "alumniOf": [
-      { "@type": "EducationalOrganization", "name": "Universitatea de Medicină și Farmacie din Craiova" }
-    ],
-    "image": "https://orthohub.ro/assets/dr-vadim-birca.webp",
-    "url": "https://orthohub.ro/#doctor"
+    ]
   }
   </script>
 
@@ -2683,11 +2853,12 @@
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
+    "@id": "https://orthohub.ro/#faq",
     "mainEntity": [
       {
         "@type": "Question",
         "name": "Ce este PRP și cum funcționează pentru articulații și mușchi?",
-        "acceptedAnswer": { "@type": "Answer", "text": "PRP (Plasmă Îmbogățită cu Trombocite) este un tratament regenerativ care folosește propriul tău sânge. Dintr-o probă recoltată, extragem plasma bogată în factori de creștere și o reinjectăm direct în zona afectată. Acești factori stimulează repararea fără intervenție chirurgicală." }
+        "acceptedAnswer": { "@type": "Answer", "text": "PRP (Plasmă Îmbogățită cu Trombocite) este un tratament regenerativ care folosește propriul tău sânge. Dintr-o probă recoltată, extragem plasma bogată în factori de creștere și o reinjectăm direct în zona afectată sub ghidaj ecografic. Acești factori stimulează repararea fără intervenție chirurgicală." }
       },
       {
         "@type": "Question",
@@ -2717,7 +2888,7 @@
       {
         "@type": "Question",
         "name": "Pentru ce afecțiuni musculoscheletale este recomandat PRP?",
-        "acceptedAnswer": { "@type": "Answer", "text": "PRP este indicat pentru: gonartroză, tendinite cronice, fasciită plantară, dureri de umăr, coxartroză, leziuni musculare și ligamentare, hernie de disc în faze incipiente, și recuperare post-accidentare sportivă." }
+        "acceptedAnswer": { "@type": "Answer", "text": "PRP este indicat pentru: gonartroză, tendinite cronice, fasciită plantară, dureri de umăr, coxartroză, leziuni musculare și ligamentare, și recuperare post-accidentare sportivă." }
       }
     ]
   }
@@ -2790,6 +2961,29 @@
         });
       });
     })();
+  </script>
+
+  <!-- Sticky mobile call bar -->
+  <a href="tel:+40729077770" class="oh-call-bar" aria-label="Sună la OrthoHub">
+    Sună acum: +40 729 077 770
+  </a>
+
+  <script>
+    function loadMoreArticles() {
+      var btn = document.getElementById('articlesLoadMore');
+      var hidden = document.querySelectorAll('.article-card--hidden');
+      hidden.forEach(function(card) {
+        card.classList.remove('article-card--hidden');
+        card.style.opacity = '0';
+        card.style.transform = 'translateY(16px)';
+        requestAnimationFrame(function() {
+          card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+          card.style.opacity = '1';
+          card.style.transform = 'translateY(0)';
+        });
+      });
+      btn.style.display = 'none';
+    }
   </script>
 
 </body>
