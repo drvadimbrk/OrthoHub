@@ -1527,6 +1527,48 @@
 
     .footer__nav-section { margin-top: 36px; }
 
+    .footer__map {
+      margin: 48px 0 0;
+      border-top: 1px solid rgba(245, 240, 232, 0.08);
+      padding-top: 40px;
+    }
+
+    .footer__map-header {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .footer__map-title {
+      font-family: var(--f-body);
+      font-size: 10.5px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(245, 240, 232, 0.45);
+    }
+
+    .footer__map-address {
+      font-size: 13px;
+      font-weight: 300;
+      color: rgba(245, 240, 232, 0.55);
+    }
+
+    .footer__map iframe {
+      display: block;
+      width: 100%;
+      height: 320px;
+      border: 0;
+      border-radius: 8px;
+      filter: grayscale(30%) brightness(0.85);
+      transition: filter var(--t);
+    }
+
+    .footer__map iframe:hover {
+      filter: grayscale(0%) brightness(0.95);
+    }
+
     .footer__bottom {
       display: flex;
       justify-content: space-between;
@@ -2724,6 +2766,21 @@
           </div>
         </div>
 
+      </div>
+
+      <!-- Map -->
+      <div class="footer__map">
+        <div class="footer__map-header">
+          <span class="footer__map-title">Locație</span>
+          <span class="footer__map-address">Calea Călărașilor 179, Sector 3, București</span>
+        </div>
+        <iframe
+          src="https://maps.google.com/maps?q=Calea+Calarasilor+179+Sector+3+Bucuresti+Romania&t=&z=16&ie=UTF8&iwloc=&output=embed"
+          title="Locație OrthoHub — Calea Călărașilor 179, Sector 3, București"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen
+        ></iframe>
       </div>
 
       <!-- Bottom bar -->
