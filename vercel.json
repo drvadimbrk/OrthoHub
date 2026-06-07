@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "redirects": [
-    {
-      "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.orthohub.ro" }],
-      "destination": "https://orthohub.ro/:path*",
-      "permanent": true
-    }
-  ],
   "headers": [
     {
-      "source": "/assets/(.*)",
+      "source": "/articole/(.*\\.(webp|png|jpg|jpeg|svg|gif|ico|woff2|woff|ttf))",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
       ]
