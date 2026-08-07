@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIR = path.join(__dirname, 'articole');
+const DIR = path.join(__dirname, '..', 'articole');
 const OG_IMAGE = 'https://orthohub.ro/assets/og-image.webp';
 
 const ARTICLES = [
@@ -18,18 +18,11 @@ const ARTICLES = [
     noindex: false,
   },
   {
-    file: 'articol-prp-ortobiologice-birca-OPTIMIZED.html',
-    slug: 'articol-prp-ortobiologice-birca-OPTIMIZED',
+    file: 'articol-prp-ortobiologice-birca.html',
+    slug: 'articol-prp-ortobiologice-birca',
     title: 'Tratamente Ortobiologice PRP: Alternativă la Operație',
     hasOrthoHubNav: true,
     noindex: false,
-  },
-  {
-    file: 'articol-prp-ortobiologice-birca.html',
-    slug: 'articol-prp-ortobiologice-birca-OPTIMIZED', // canonical points to OPTIMIZED
-    title: 'Tratamente Ortobiologice PRP',
-    hasOrthoHubNav: true,
-    noindex: true, // duplicate — suppress from index
   },
   {
     file: 'articol-prp-ortopedie.html',

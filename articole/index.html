@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ── PRIMARY SEO ── -->
+  <title>Articole Medicale PRP și Ortopedie | Dr. Vadim Bîrca – OrthoHub București</title>
+  <meta name="description" content="Toate articolele medicale OrthoHub despre terapia PRP, ortobiologice și medicină regenerativă, redactate și revizuite de Dr. Vadim Bîrca, medic specialist ortopedie și traumatologie în București.">
+  <meta name="keywords" content="articole PRP, ghid PRP ortopedie, articole medicale ortopedie București, medicină regenerativă articole, Dr Vadim Bîrca articole">
+  <meta name="author" content="Dr. Vadim Bîrca – OrthoHub">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://orthohub.ro/articole">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+
+  <!-- ── OPEN GRAPH ── -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://orthohub.ro/articole">
+  <meta property="og:title" content="Articole Medicale PRP și Ortopedie | Dr. Vadim Bîrca – OrthoHub">
+  <meta property="og:description" content="Ghiduri și analize medicale despre terapia PRP, ortobiologice și regenerare articulară, susținute de studii clinice. Dr. Vadim Bîrca, București.">
+  <meta property="og:image" content="https://orthohub.ro/assets/og-image.webp">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Articole medicale OrthoHub – Dr. Vadim Bîrca, PRP București">
+  <meta property="og:locale" content="ro_RO">
+  <meta property="og:site_name" content="OrthoHub">
+
+  <!-- ── TWITTER CARD ── -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Articole Medicale PRP și Ortopedie | Dr. Vadim Bîrca">
+  <meta name="twitter:description" content="Ghiduri medicale despre PRP, ortobiologice și regenerare articulară. Dr. Vadim Bîrca, ortopedie București.">
+  <meta name="twitter:image" content="https://orthohub.ro/assets/og-image.webp">
+
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+  <!-- ── FONTS: Playfair Display (display) + DM Sans (body) ── -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+
+    /* ══════════════════════════════════════════
+       RESET
+    ══════════════════════════════════════════ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+    a { text-decoration: none; color: inherit; }
+    ul { list-style: none; }
+    img { max-width: 100%; height: auto; display: block; }
+
+    /* ══════════════════════════════════════════
+       DESIGN TOKENS — Pure Black + Warm Gold
+    ══════════════════════════════════════════ */
+    :root {
+      --c-black:        #080808;
+      --c-dark:         #111111;
+      --c-dark-border:  rgba(255, 255, 255, 0.07);
+
+      --c-gold:         #C9A96E;
+      --c-gold-hover:   #B89556;
+      --c-gold-subtle:  rgba(201, 169, 110, 0.08);
+      --c-gold-border:  rgba(201, 169, 110, 0.28);
+
+      --c-ivory:        #F5F0E8;
+      --c-off-white:    #F8F6F2;
+      --c-white:        #FFFFFF;
+      --c-border:       rgba(10, 10, 10, 0.07);
+
+      --c-text:         #0A0A0A;
+      --c-muted:        #6B6558;
+
+      --f-display: 'Playfair Display', Georgia, serif;
+      --f-body:    'DM Sans', system-ui, -apple-system, sans-serif;
+
+      --section-pad: 96px;
+      --container:   1140px;
+      --nav-h:       68px;
+
+      --shadow-sm: 0 1px 8px rgba(10, 10, 10, 0.05);
+      --shadow-md: 0 4px 24px rgba(10, 10, 10, 0.09);
+
+      --r-sm: 4px;
+      --r-md: 10px;
+      --r-lg: 16px;
+
+      --t: 0.25s ease;
+    }
+
+    body {
+      font-family: var(--f-body);
+      font-size: 17px;
+      line-height: 1.7;
+      color: var(--c-text);
+      background: var(--c-off-white);
+      font-weight: 400;
+    }
+
+    .container { max-width: var(--container); margin: 0 auto; padding: 0 24px; }
+
+    /* ══════════════════════════════════════════
+       NAV
+    ══════════════════════════════════════════ */
+    .nav {
+      position: sticky; top: 0; z-index: 100;
+      height: var(--nav-h);
+      background: rgba(8, 8, 8, 0.96);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--c-dark-border);
+      display: flex; align-items: center;
+    }
+    .nav__inner {
+      max-width: var(--container); width: 100%;
+      margin: 0 auto; padding: 0 24px;
+      display: flex; align-items: center; justify-content: space-between; gap: 20px;
+    }
+    .nav__logo {
+      font-family: var(--f-display);
+      font-size: 1.32rem; font-weight: 600;
+      color: var(--c-ivory); letter-spacing: 0.01em;
+    }
+    .nav__logo span { color: var(--c-gold); }
+    .nav__links { display: flex; align-items: center; gap: 28px; }
+    .nav__links a {
+      font-size: 0.9rem; font-weight: 400;
+      color: rgba(245, 240, 232, 0.72);
+      transition: color var(--t);
+    }
+    .nav__links a:hover { color: var(--c-gold); }
+    .nav__cta {
+      display: inline-block;
+      padding: 10px 22px;
+      background: var(--c-gold); color: var(--c-black) !important;
+      font-size: 0.88rem; font-weight: 500;
+      border-radius: var(--r-sm);
+      transition: background var(--t);
+    }
+    .nav__cta:hover { background: var(--c-gold-hover); }
+
+    /* ══════════════════════════════════════════
+       HERO
+    ══════════════════════════════════════════ */
+    .hub-hero {
+      background: var(--c-black);
+      color: var(--c-ivory);
+      padding: 72px 0 80px;
+      text-align: center;
+    }
+    .breadcrumb {
+      font-size: 0.83rem;
+      color: rgba(245, 240, 232, 0.55);
+      margin-bottom: 26px;
+    }
+    .breadcrumb a { color: rgba(245, 240, 232, 0.72); transition: color var(--t); }
+    .breadcrumb a:hover { color: var(--c-gold); }
+    .breadcrumb span { margin: 0 8px; opacity: 0.5; }
+
+    .hub-hero__eyebrow {
+      display: inline-block;
+      font-size: 0.76rem; font-weight: 500;
+      letter-spacing: 0.16em; text-transform: uppercase;
+      color: var(--c-gold);
+      padding: 6px 16px;
+      border: 1px solid var(--c-gold-border);
+      border-radius: 100px;
+      margin-bottom: 22px;
+    }
+    .hub-hero h1 {
+      font-family: var(--f-display);
+      font-size: clamp(2rem, 5vw, 3.15rem);
+      font-weight: 500; line-height: 1.16;
+      letter-spacing: -0.015em;
+      margin-bottom: 20px;
+    }
+    .hub-hero p {
+      max-width: 660px; margin: 0 auto;
+      font-size: 1.05rem; font-weight: 300;
+      color: rgba(245, 240, 232, 0.74);
+    }
+
+    /* ══════════════════════════════════════════
+       ARTICLE GRID
+    ══════════════════════════════════════════ */
+    .articles { padding: var(--section-pad) 0; }
+    .articles__grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 32px;
+    }
+
+    .article-card {
+      background: var(--c-white);
+      border: 1px solid var(--c-border);
+      border-radius: var(--r-lg);
+      overflow: hidden;
+      display: flex; flex-direction: column;
+      box-shadow: var(--shadow-sm);
+      transition: transform var(--t), box-shadow var(--t);
+    }
+    .article-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); }
+
+    .article-card__img { overflow: hidden; aspect-ratio: 16 / 9; }
+    .article-card__img img {
+      width: 100%; height: 100%; object-fit: cover;
+      transition: transform 0.5s ease;
+    }
+    .article-card:hover .article-card__img img { transform: scale(1.04); }
+
+    .article-card__body { padding: 24px; display: flex; flex-direction: column; flex: 1; }
+    .article-card__meta {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 14px; flex-wrap: wrap;
+    }
+    .article-card__tag {
+      font-size: 0.7rem; font-weight: 500;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--c-gold-hover);
+      background: var(--c-gold-subtle);
+      padding: 4px 10px; border-radius: var(--r-sm);
+    }
+    .article-card__date { font-size: 0.78rem; color: var(--c-muted); }
+    .article-card__title {
+      font-family: var(--f-display);
+      font-size: 1.22rem; font-weight: 500;
+      line-height: 1.32; margin-bottom: 12px;
+    }
+    .article-card__title a { transition: color var(--t); }
+    .article-card__title a:hover { color: var(--c-gold); }
+    .article-card__excerpt {
+      font-size: 0.94rem; font-weight: 300;
+      color: var(--c-muted); line-height: 1.65;
+      margin-bottom: 20px; flex: 1;
+    }
+    .article-card__link {
+      font-size: 0.88rem; font-weight: 500;
+      color: var(--c-gold-hover);
+      align-self: flex-start;
+      border-bottom: 1px solid transparent;
+      transition: border-color var(--t);
+    }
+    .article-card__link:hover { border-color: var(--c-gold-hover); }
+
+    /* ══════════════════════════════════════════
+       CTA BAND
+    ══════════════════════════════════════════ */
+    .hub-cta {
+      background: var(--c-black); color: var(--c-ivory);
+      padding: 76px 0; text-align: center;
+    }
+    .hub-cta h2 {
+      font-family: var(--f-display);
+      font-size: clamp(1.6rem, 3.6vw, 2.3rem);
+      font-weight: 500; margin-bottom: 16px;
+    }
+    .hub-cta p {
+      max-width: 560px; margin: 0 auto 32px;
+      font-weight: 300; color: rgba(245, 240, 232, 0.72);
+    }
+    .btn-gold {
+      display: inline-block;
+      padding: 15px 36px;
+      background: var(--c-gold); color: var(--c-black);
+      font-weight: 500; font-size: 0.98rem;
+      border-radius: var(--r-sm);
+      transition: background var(--t), transform var(--t);
+    }
+    .btn-gold:hover { background: var(--c-gold-hover); transform: translateY(-2px); }
+
+    /* ══════════════════════════════════════════
+       FOOTER
+    ══════════════════════════════════════════ */
+    .footer {
+      background: var(--c-dark); color: rgba(245, 240, 232, 0.6);
+      padding: 44px 0; font-size: 0.87rem; text-align: center;
+    }
+    .footer a { color: rgba(245, 240, 232, 0.78); transition: color var(--t); }
+    .footer a:hover { color: var(--c-gold); }
+    .footer__links { display: flex; justify-content: center; gap: 22px; flex-wrap: wrap; margin-bottom: 16px; }
+
+    /* ══════════════════════════════════════════
+       RESPONSIVE
+    ══════════════════════════════════════════ */
+    @media (max-width: 980px) {
+      :root { --section-pad: 64px; }
+      .articles__grid { grid-template-columns: repeat(2, 1fr); }
+      .nav__links a:not(.nav__cta) { display: none; }
+    }
+    @media (max-width: 620px) {
+      :root { --section-pad: 52px; }
+      body { font-size: 16px; }
+      .articles__grid { grid-template-columns: 1fr; }
+      .hub-hero { padding: 52px 0 58px; }
+    }
+  </style>
+
+  <!-- ── STRUCTURED DATA ── -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Acasă", "item": "https://orthohub.ro/"},
+          {"@type": "ListItem", "position": 2, "name": "Articole medicale", "item": "https://orthohub.ro/articole"}
+        ]
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://orthohub.ro/articole#collection",
+        "url": "https://orthohub.ro/articole",
+        "name": "Articole Medicale PRP și Ortopedie – OrthoHub",
+        "description": "Toate articolele medicale OrthoHub despre terapia PRP, ortobiologice și medicină regenerativă, redactate și revizuite de Dr. Vadim Bîrca.",
+        "inLanguage": "ro-RO",
+        "isPartOf": { "@type": "WebSite", "name": "OrthoHub", "url": "https://orthohub.ro/" },
+        "about": { "@type": "MedicalSpecialty", "name": "Ortopedie și Traumatologie" },
+        "author": {
+          "@type": "Person",
+          "name": "Dr. Vadim Bîrca",
+          "jobTitle": "Medic Specialist Ortopedie și Traumatologie",
+          "url": "https://orthohub.ro/"
+        },
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 12,
+          "itemListElement": [
+            {"@type": "ListItem", "position": 1,  "url": "https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca",        "name": "Injecții PRP pentru Durerea de Genunchi în București"},
+            {"@type": "ListItem", "position": 2,  "url": "https://orthohub.ro/articole/articol-prp-ortopedie",                  "name": "PRP în Ortopedie: Ce Este și Cum Funcționează"},
+            {"@type": "ListItem", "position": 3,  "url": "https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon",   "name": "PRP, Acid Hialuronic sau Cortizon? Ce Spun Studiile"},
+            {"@type": "ListItem", "position": 4,  "url": "https://orthohub.ro/articole/prp-24-intrebari-orthohub",              "name": "24 de Întrebări despre Infiltrația PRP"},
+            {"@type": "ListItem", "position": 5,  "url": "https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani",   "name": "Sănătatea Articulațiilor după 40 de Ani"},
+            {"@type": "ListItem", "position": 6,  "url": "https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi",          "name": "PRP vs. Celule Stem vs. Exozomi: Ghid 2026"},
+            {"@type": "ListItem", "position": 7,  "url": "https://orthohub.ro/articole/orthohub-coxartroza-prp-acid-hialuronic","name": "Coxartroza Tratată Fără Bisturiu: PRP & Acid Hialuronic"},
+            {"@type": "ListItem", "position": 8,  "url": "https://orthohub.ro/articole/orthohub-supraspinos-prp",               "name": "Ruptura de Supraspinos: PRP + Kinetoterapie"},
+            {"@type": "ListItem", "position": 9,  "url": "https://orthohub.ro/articole/articol-prp-ortobiologice-birca",        "name": "Tratamente Ortobiologice: Alternativă la Operație"},
+            {"@type": "ListItem", "position": 10, "url": "https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub",   "name": "Ghid: Infiltrații Intraarticulare & Periarticulare"},
+            {"@type": "ListItem", "position": 11, "url": "https://orthohub.ro/articole/literatura-ortobiologice-dr-birca",      "name": "Studii Clinice: PRP și Terapii Regenerative"},
+            {"@type": "ListItem", "position": 12, "url": "https://orthohub.ro/articole/terapie-exozomi-articulara",             "name": "Terapia cu Exozomi pentru Articulații"}
+          ]
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ══════════ NAV ══════════ -->
+  <nav class="nav">
+    <div class="nav__inner">
+      <a href="/" class="nav__logo">Ortho<span>Hub</span></a>
+      <div class="nav__links">
+        <a href="/#afectiuni">Afecțiuni tratate</a>
+        <a href="/#procedura">Procedura</a>
+        <a href="/#doctor">Despre doctor</a>
+        <a href="/#tarife">Tarife</a>
+        <a href="https://calendly.com/vadim-brk/30min" class="nav__cta" rel="noopener">Programare</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ══════════ HERO ══════════ -->
+  <header class="hub-hero">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Cale de navigare">
+        <a href="/">Acasă</a><span>/</span>Articole medicale
+      </nav>
+      <span class="hub-hero__eyebrow">Educație Medicală</span>
+      <h1>Articole medicale despre PRP și medicină regenerativă</h1>
+      <p>
+        Ghiduri, comparații și analize de studii clinice despre terapia PRP, ortobiologice
+        și regenerarea articulară — redactate și revizuite medical de Dr. Vadim Bîrca,
+        medic specialist Ortopedie și Traumatologie în București.
+      </p>
+    </div>
+  </header>
+
+  <!-- ══════════ ARTICLE GRID ══════════ -->
+  <main class="articles">
+    <div class="container">
+      <div class="articles__grid">
+
+        <article class="article-card">
+          <a href="/articole/prp-genunchi-bucuresti-dr-birca" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Gonartroză tratament PRP Dr. Vadim Bîrca București — regenerare cartilaj genunchi fără operație" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">PRP Genunchi</span>
+              <span class="article-card__date">3 Mai 2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/prp-genunchi-bucuresti-dr-birca">Injecții PRP pentru Durerea de Genunchi în București</a></h2>
+            <p class="article-card__excerpt">Tratament non-chirurgical pentru gonartroză și leziuni articulare, bazat pe studii clinice recente. Protocoale, costuri și ce să aștepți.</p>
+            <a href="/articole/prp-genunchi-bucuresti-dr-birca" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/articol-prp-ortopedie" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/tendinopatie-paletara-tratament-prp-genunchi-bucuresti.webp" alt="Tendinopatie rotuliană patelară tratament PRP Dr. Vadim Bîrca București — durere genunchi la sărituri" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Ghid Complet</span>
+              <span class="article-card__date">3 Mai 2025</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/articol-prp-ortopedie">PRP în Ortopedie: Ce Este și Cum Funcționează</a></h2>
+            <p class="article-card__excerpt">Tot ce trebuie să știi: procedura pas cu pas, afecțiunile tratate, rezultatele așteptate și contraindicațiile. Ghid medical complet 2025.</p>
+            <a href="/articole/articol-prp-ortopedie" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/articol-prp-acid-hialuronic-cortizon" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/epicondilita-mediala-tratament-prp-cot-bucuresti.webp" alt="Epicondilită medială cotul golfistului tratament PRP Dr. Vadim Bîrca București — recuperare cot fără operație" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Comparație</span>
+              <span class="article-card__date">Ian 2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/articol-prp-acid-hialuronic-cortizon">PRP, Acid Hialuronic sau Cortizon? Ce Spun Studiile</a></h2>
+            <p class="article-card__excerpt">Comparație bazată pe studii din reviste de prestigiu. Care tratament este mai eficient pe termen lung și când să alegi fiecare.</p>
+            <a href="/articole/articol-prp-acid-hialuronic-cortizon" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/prp-24-intrebari-orthohub" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/tendinopatie-ahiliana-tratament-prp-bucuresti.webp" alt="Tendinopatie ahiliană tratament PRP Dr. Vadim Bîrca București — recuperare tendon Ahile fără chirurgie" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Ghid Pacienți</span>
+              <span class="article-card__date">Apr 2025</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/prp-24-intrebari-orthohub">24 de Întrebări despre Infiltrația PRP</a></h2>
+            <p class="article-card__excerpt">Dr. Vadim Bîrca răspunde exhaustiv: durere, pregătire, contraindicații, număr de ședințe, cost și tot ce vrei să știi înainte de procedură.</p>
+            <a href="/articole/prp-24-intrebari-orthohub" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/fasciita-plantara-tratament-prp-picior-bucuresti.webp" alt="Fasciită plantară tratament PRP Dr. Vadim Bîrca București — durere talpă picior vindecare fără operație" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Prevenție</span>
+              <span class="article-card__date">4 Mai 2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/sanatatea-articulatiilor-dupa-40-ani">Sănătatea Articulațiilor după 40 de Ani</a></h2>
+            <p class="article-card__excerpt">Cauze, prevenție, tratament și exerciții recomandate pentru longevitate articulară, susținute de studii clinice internaționale.</p>
+            <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/prp-vs-celule-stem-vs-exozomi" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/tendinopatie-ischiogambieri-tratament-prp-bucuresti.webp" alt="Tendinopatie ischiogambieri tratament PRP Dr. Vadim Bîrca București — recuperare musculară sportivă" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Cercetare</span>
+              <span class="article-card__date">1 Mai 2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/prp-vs-celule-stem-vs-exozomi">PRP vs. Celule Stem vs. Exozomi: Ghid 2026</a></h2>
+            <p class="article-card__excerpt">Comparație bazată pe dovezi: cum alegi tratamentul biologic potrivit pentru articulațiile tale și ce spune cercetarea actuală.</p>
+            <a href="/articole/prp-vs-celule-stem-vs-exozomi" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/orthohub-coxartroza-prp-acid-hialuronic" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/bursita-sold-coxartroza-tratament-prp-bucuresti.webp" alt="Bursită șold coxartroză tratament PRP Dr. Vadim Bîrca București — articulație șold fără protezare" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Coxartroză</span>
+              <span class="article-card__date">1 Mai 2025</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/orthohub-coxartroza-prp-acid-hialuronic">Coxartroza Tratată Fără Bisturiu: PRP & Acid Hialuronic</a></h2>
+            <p class="article-card__excerpt">Alternativa eficientă la înlocuirea protezei de șold în fazele incipiente. Tratament ghidat ecografic în București.</p>
+            <a href="/articole/orthohub-coxartroza-prp-acid-hialuronic" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/orthohub-supraspinos-prp" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/ruptura-coafa-rotatorie-tratament-prp-umar-bucuresti.webp" alt="Ruptură coafă rotatorie tratament PRP Dr. Vadim Bîrca București — recuperare umăr fără operație" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Umăr</span>
+              <span class="article-card__date">3 Mai 2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/orthohub-supraspinos-prp">Ruptura de Supraspinos: PRP + Kinetoterapie</a></h2>
+            <p class="article-card__excerpt">Studiu clinic 2026: PRP combinat cu kinetoterapie reduce volumul rupturii parțiale și îmbunătățește funcția umărului mai eficient.</p>
+            <a href="/articole/orthohub-supraspinos-prp" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/articol-prp-ortobiologice-birca" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/tendinopatie-gluteala-tratament-prp-sold-bucuresti.webp" alt="Tendinopatie gluteală tratament PRP Dr. Vadim Bîrca București — durere fesă și șold recuperare ortobiologică" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Ortopedie</span>
+              <span class="article-card__date">15 Ian 2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/articol-prp-ortobiologice-birca">Tratamente Ortobiologice: Alternativă la Operație</a></h2>
+            <p class="article-card__excerpt">Cum ortobiologicele pe bază de PRP înlocuiesc chirurgia pentru artroze și tendinopatii — fără spitalizare, recuperare rapidă.</p>
+            <a href="/articole/articol-prp-ortobiologice-birca" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/infiltratii-intraarticulare-orthohub" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/tendinopatie-cvadriceps-tratament-prp-coapsa-bucuresti.webp" alt="Tendinopatie cvadriceps tratament PRP Dr. Vadim Bîrca București — durere coapsă deasupra genunchiului" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Tratament</span>
+              <span class="article-card__date">2025</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/infiltratii-intraarticulare-orthohub">Ghid: Infiltrații Intraarticulare & Periarticulare</a></h2>
+            <p class="article-card__excerpt">Tipuri de infiltrații, indicații clinice, protocoale de administrare și tot ce trebuie să știi despre siguranța și eficiența procedurii.</p>
+            <a href="/articole/infiltratii-intraarticulare-orthohub" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/literatura-ortobiologice-dr-birca" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/epicondilita-laterala-tratament-prp-cot-bucuresti.webp" alt="Epicondilită laterală cotul tenismenului tratament PRP Dr. Vadim Bîrca București — studii clinice ortobiologice" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Știință</span>
+              <span class="article-card__date">2025</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/literatura-ortobiologice-dr-birca">Studii Clinice: PRP și Terapii Regenerative</a></h2>
+            <p class="article-card__excerpt">Bază de date cu RCT-uri și meta-analize recente despre PRP, unde de șoc și ortobiologice, comentată de Dr. Vadim Bîrca.</p>
+            <a href="/articole/literatura-ortobiologice-dr-birca" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/terapie-exozomi-articulara" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Terapie exozomi articulații Dr. Vadim Bîrca București — regenerare cartilaj inovație biologică" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Inovație</span>
+              <span class="article-card__date">2026</span>
+            </div>
+            <h2 class="article-card__title"><a href="/articole/terapie-exozomi-articulara">Terapia cu Exozomi pentru Articulații</a></h2>
+            <p class="article-card__excerpt">Cea mai recentă frontieră în regenerarea articulară: cum funcționează exozomii, ce spun studiile și când este recomandată.</p>
+            <a href="/articole/terapie-exozomi-articulara" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </main>
+
+  <!-- ══════════ CTA ══════════ -->
+  <section class="hub-cta">
+    <div class="container">
+      <h2>Ai o întrebare despre tratamentul tău?</h2>
+      <p>
+        Dr. Vadim Bîrca evaluează fiecare caz individual, cu ecografie musculoscheletală
+        la prima consultație. Programează-te și află dacă terapia PRP este potrivită pentru tine.
+      </p>
+      <a href="https://calendly.com/vadim-brk/30min" class="btn-gold" rel="noopener">Programează o consultație</a>
+    </div>
+  </section>
+
+  <!-- ══════════ FOOTER ══════════ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__links">
+        <a href="/">Acasă</a>
+        <a href="/#afectiuni">Afecțiuni tratate</a>
+        <a href="/#procedura">Procedura</a>
+        <a href="/#doctor">Despre doctor</a>
+        <a href="/#tarife">Tarife</a>
+        <a href="/#intrebari-frecvente">Întrebări frecvente</a>
+      </div>
+      <p>
+        OrthoHub — Dr. Vadim Bîrca · Calea Călărașilor 179, Sector 3, București ·
+        <a href="tel:+40729077770">+40 729 077 770</a>
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>

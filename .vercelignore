@@ -1,0 +1,7 @@
+# Build/maintenance tooling — must never be publicly served
+scripts/
+
+# Planning + internal docs
+.planning/
+CLAUDE.md
+SEO-REPORT.md
