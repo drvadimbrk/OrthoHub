@@ -50,6 +50,8 @@ Tratamente cu PRP, acid hialuronic sau combinații, adaptate fiecărui caz.
 
 Toate articolele sunt redactate sau revizuite medical de Dr. Vadim Bîrca și susținute cu referințe din literatura de specialitate (RCT-uri, meta-analize AJSM, BJSM, Arthroscopy).
 
+Index complet al articolelor: https://orthohub.ro/articole
+
 - [Injecții PRP pentru Genunchi și Articulații în București](https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca)
 - [PRP vs Acid Hialuronic vs Cortizon — Ce Spun Studiile](https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon)
 - [PRP în Ortopedie: Ce Este, Cum Funcționează și Când Este Recomandat](https://orthohub.ro/articole/articol-prp-ortopedie)
@@ -59,7 +61,7 @@ Toate articolele sunt redactate sau revizuite medical de Dr. Vadim Bîrca și su
 - [Terapia cu Exozomi pentru Articulații](https://orthohub.ro/articole/terapie-exozomi-articulara)
 - [PRP vs. Celule Stem vs. Exozomi — Ghid Complet 2026](https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi)
 - [Sănătatea Articulațiilor după 40 de Ani](https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani)
-- [Tratamente Ortobiologice PRP — Fără Operație](https://orthohub.ro/articole/articol-prp-ortobiologice-birca-OPTIMIZED)
+- [Tratamente Ortobiologice PRP — Fără Operație](https://orthohub.ro/articole/articol-prp-ortobiologice-birca)
 - [Infiltrații Intraarticulare și Periarticulare](https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub)
 - [Studii Clinice Ortobiologice — PRP, Unde de Șoc](https://orthohub.ro/articole/literatura-ortobiologice-dr-birca)
 
@@ -97,5 +99,5 @@ Boli autoimune active, trombocitopenie, anticoagulante (necesită evaluare indiv
 - Localizare: București, Ilfov, România
 - Domeniu medical: Ortopedie, Traumatologie, Medicină Regenerativă
 - Tip conținut: pagini medicale, articole revizuite medical, ghiduri de pacient
-- Actualizat: 2026-06-07
+- Actualizat: 2026-08-07
 - Autor și reviewer: Dr. Vadim Bîrca, Medic Specialist Ortopedie și Traumatologie

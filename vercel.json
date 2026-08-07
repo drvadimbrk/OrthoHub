@@ -1,5 +1,12 @@
 {
   "version": 2,
+  "redirects": [
+    {
+      "source": "/articole/articol-prp-ortobiologice-birca-OPTIMIZED",
+      "destination": "/articole/articol-prp-ortobiologice-birca",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*\\.webp)",
