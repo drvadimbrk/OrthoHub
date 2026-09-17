@@ -1,0 +1,157 @@
+/* ══════════════════════════════════════════════════════════
+   OrthoHub — shared article shell
+   Used by every page in /articole. Classes are prefixed "oh-"
+   so they never collide with an article's own component CSS.
+══════════════════════════════════════════════════════════ */
+:root {
+  --oh-black: #080808;
+  --oh-dark: #111111;
+  --oh-dark-border: rgba(255, 255, 255, 0.07);
+  --oh-gold: #C9A96E;
+  --oh-gold-hover: #B89556;
+  --oh-gold-subtle: rgba(201, 169, 110, 0.08);
+  --oh-gold-border: rgba(201, 169, 110, 0.28);
+  --oh-ivory: #F5F0E8;
+  --oh-off-white: #F8F6F2;
+  --oh-text: #0A0A0A;
+  --oh-muted: #6B6558;
+  --oh-display: 'Playfair Display', Georgia, serif;
+  --oh-body: 'DM Sans', system-ui, -apple-system, sans-serif;
+  --oh-container: 1140px;
+  --oh-nav-h: 68px;
+  --oh-t: 0.25s ease;
+}
+
+body.oh-article { margin: 0; background: var(--oh-off-white); color: var(--oh-text); font-family: var(--oh-body); }
+/* Neutralise legacy element rules (nav{}, footer{}, header{}) that article CSS may still carry */
+.oh-nav, .oh-crumbs, .oh-footer {
+  margin: 0; padding: 0; width: auto; max-width: none; min-height: 0; left: auto; right: auto;
+  border-radius: 0; box-shadow: none; transform: none; opacity: 1; text-align: left;
+}
+.oh-crumbs, .oh-footer { position: static; height: auto; display: block; }
+.oh-footer { padding: 44px 0; text-align: center; }
+.oh-cta { border: 0; }
+/* One heading voice across every article: Playfair at medium weight */
+body.oh-article h1, body.oh-article h2 { font-weight: 500; }
+body.oh-article h3 { font-weight: 500; }
+body.oh-article .oh-related h2 { font-weight: 600; }
+.oh-article ::selection { background: var(--oh-gold); color: var(--oh-black); }
+.oh-inner { max-width: var(--oh-container); margin: 0 auto; padding: 0 24px; box-sizing: border-box; }
+
+/* ── NAV ── */
+.oh-nav {
+  position: sticky; top: 0; z-index: 1000;
+  height: var(--oh-nav-h);
+  background: rgba(8, 8, 8, 0.96);
+  -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--oh-dark-border);
+  display: flex; align-items: center;
+  font-family: var(--oh-body);
+}
+.oh-nav .oh-inner { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.oh-nav__logo {
+  font-family: var(--oh-display); font-size: 1.32rem; font-weight: 600;
+  color: var(--oh-ivory); letter-spacing: 0.01em; text-decoration: none;
+}
+.oh-nav__logo span { color: var(--oh-gold); }
+.oh-nav__links { display: flex; align-items: center; gap: 28px; }
+.oh-nav__links a { font-size: 0.9rem; font-weight: 400; color: rgba(245, 240, 232, 0.72); text-decoration: none; transition: color var(--oh-t); }
+.oh-nav__links a:hover { color: var(--oh-gold); }
+.oh-nav__links a.oh-nav__cta {
+  padding: 10px 22px; background: var(--oh-gold); color: var(--oh-black);
+  font-size: 0.88rem; font-weight: 500; border-radius: 4px; transition: background var(--oh-t);
+}
+.oh-nav__links a.oh-nav__cta:hover { background: var(--oh-gold-hover); color: var(--oh-black); }
+
+/* ── BREADCRUMB BAR ── */
+.oh-crumbs { background: var(--oh-black); border-bottom: 1px solid var(--oh-dark-border); font-family: var(--oh-body); }
+.oh-crumbs ol { list-style: none; margin: 0; padding: 12px 0; display: flex; flex-wrap: wrap; font-size: 0.82rem; line-height: 1.5; color: rgba(245, 240, 232, 0.5); }
+.oh-crumbs li { margin: 0; padding: 0; }
+.oh-crumbs li::before { display: none; }
+.oh-crumbs li + li::before { content: "/"; display: inline; margin: 0 8px; opacity: 0.5; }
+.oh-crumbs a { color: rgba(245, 240, 232, 0.72); text-decoration: none; transition: color var(--oh-t); }
+.oh-crumbs a:hover { color: var(--oh-gold); }
+
+/* ── RELATED ARTICLES ── */
+.oh-related { background: var(--oh-off-white); padding: 56px 0; border-top: 1px solid rgba(10, 10, 10, 0.07); font-family: var(--oh-body); }
+.oh-related h2 {
+  font-family: var(--oh-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--oh-muted); margin: 0 0 20px; line-height: 1.4;
+}
+.oh-related ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.oh-related li { margin: 0; padding: 0; }
+.oh-related li::before { display: none; }
+.oh-related a {
+  display: block; height: 100%; box-sizing: border-box; padding: 20px 22px;
+  background: #fff; border: 1px solid rgba(10, 10, 10, 0.07); border-radius: 10px;
+  font-family: var(--oh-display); font-size: 1.05rem; line-height: 1.35; color: var(--oh-text);
+  text-decoration: none; transition: transform var(--oh-t), box-shadow var(--oh-t), color var(--oh-t);
+}
+.oh-related a::after { content: "Citește articolul →"; display: block; margin-top: 10px; font-family: var(--oh-body); font-size: 0.82rem; color: var(--oh-gold-hover); }
+.oh-related:lang(en) a::after { content: "Read article →"; }
+.oh-related a:hover { transform: translateY(-3px); box-shadow: 0 4px 24px rgba(10, 10, 10, 0.09); color: var(--oh-gold-hover); text-decoration: none; }
+/* Guard against legacy element rules in article CSS (aside{position:sticky}, h2{max-width}) */
+aside.oh-related { position: static; top: auto; width: auto; float: none; }
+.oh-related h2 { max-width: none; }
+.oh-related h2::before, .oh-related h2::after { content: none; display: none; }
+
+/* ── CTA BAND ── */
+.oh-cta { background: var(--oh-black); color: var(--oh-ivory); padding: 72px 0; text-align: center; font-family: var(--oh-body); }
+.oh-cta h2 { font-family: var(--oh-display); font-size: clamp(1.6rem, 3.6vw, 2.3rem); font-weight: 500; color: var(--oh-ivory); margin: 0 0 16px; line-height: 1.2; }
+.oh-cta p { max-width: 560px; margin: 0 auto 30px; font-weight: 300; color: rgba(245, 240, 232, 0.72); line-height: 1.7; }
+.oh-cta__actions { display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; }
+.oh-btn {
+  display: inline-block; padding: 15px 34px; border-radius: 4px;
+  font-family: var(--oh-body); font-weight: 500; font-size: 0.98rem; text-decoration: none;
+  transition: background var(--oh-t), transform var(--oh-t), color var(--oh-t), border-color var(--oh-t);
+}
+.oh-btn--gold { background: var(--oh-gold); color: var(--oh-black); border: 1px solid var(--oh-gold); }
+.oh-btn--gold:hover { background: var(--oh-gold-hover); border-color: var(--oh-gold-hover); transform: translateY(-2px); }
+.oh-btn--ghost { background: transparent; color: var(--oh-ivory); border: 1px solid var(--oh-gold-border); }
+.oh-btn--ghost:hover { border-color: var(--oh-gold); color: var(--oh-gold); }
+
+/* ── FOOTER ── */
+.oh-footer { background: var(--oh-dark); color: rgba(245, 240, 232, 0.6); padding: 44px 0; font-size: 0.87rem; text-align: center; font-family: var(--oh-body); line-height: 1.7; }
+.oh-footer a { color: rgba(245, 240, 232, 0.78); text-decoration: none; transition: color var(--oh-t); }
+.oh-footer a:hover { color: var(--oh-gold); }
+.oh-footer__links { display: flex; justify-content: center; gap: 22px; flex-wrap: wrap; margin-bottom: 16px; }
+.oh-footer p { margin: 0; color: inherit; }
+
+/* ── WHATSAPP FLOAT + MOBILE CALL BAR ── */
+.oh-wa {
+  position: fixed; bottom: 24px; right: 24px; z-index: 9999;
+  width: 58px; height: 58px; border-radius: 50%; background: #25D366;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 4px 20px rgba(37, 211, 102, 0.5); animation: ohWaPulse 2.8s ease-in-out infinite;
+}
+.oh-wa svg { width: 30px; height: 30px; fill: #fff; }
+@keyframes ohWaPulse {
+  0%, 100% { box-shadow: 0 4px 20px rgba(37, 211, 102, 0.5); }
+  50% { box-shadow: 0 4px 32px rgba(37, 211, 102, 0.8), 0 0 0 8px rgba(37, 211, 102, 0.1); }
+}
+.oh-call-bar {
+  display: none; position: fixed; left: 0; right: 0; bottom: 0; z-index: 9998;
+  background: var(--oh-gold); color: var(--oh-black); font-family: var(--oh-body);
+  font-weight: 700; font-size: 1rem; text-align: center; padding: 14px 16px; text-decoration: none;
+  box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.18);
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 980px) {
+  .oh-nav__links a:not(.oh-nav__cta) { display: none; }
+  .oh-related ul { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 768px) {
+  .oh-call-bar { display: block; }
+  body.oh-article { padding-bottom: 54px; }
+  .oh-wa { bottom: 70px; right: 16px; }
+}
+@media (max-width: 620px) {
+  .oh-related ul { grid-template-columns: 1fr; }
+  .oh-cta { padding: 56px 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .oh-wa { animation: none; }
+  .oh-related a:hover, .oh-btn--gold:hover { transform: none; }
+}
+.oh-footer p.oh-footer__note { max-width: 720px; margin: 14px auto 0; font-size: 0.76rem; line-height: 1.6; color: rgba(245, 240, 232, 0.42); }

@@ -123,3 +123,17 @@ C:\Users\fraul\Documents\Orthohub\
 - Blog/article section
 - Multilingual (RO + EN)
 - Google Business Profile integration
+
+## Quick Tasks Completed
+
+| Date | Slug | Description | Status |
+|------|------|-------------|--------|
+| 2026-09-17 | copy-new-articles | Copied 22 missing articles from "Articole site/" into articole/ (flat, kebab-case) | complete |
+| 2026-09-17 | article-shell | assets/article.css shell + tunel-carpian.html reference restyle | complete |
+| 2026-09-17 | restyle-carpal-cluster | Restyled 6 carpal-tunnel/neuropathy pages to the shell; removed fake reviews; real price 6.000 lei on tunel-carpian | complete |
+| 2026-09-17 | restyle-teal-batch | Generic theme tool + 7 teal/Fraunces pages restyled, dead links remapped, Calendly fixed | complete |
+| 2026-09-17 | restyle-published-12 | 12 live articles restyled; injected widgets cleaned; placeholders & jeffreypengmd links removed; footer disclaimer | complete |
+| 2026-09-17 | restyle-final-8 | Last 8 pages (incl. 2 EN) restyled; fake reviews/badges removed; schema address filled; all 34 links pass | complete |
+| 2026-09-17 | seo-head-articole | All 34: canonical/og:url on /articole/<slug>, og/twitter tags, one JSON-LD @graph (page + breadcrumb + own FAQ/condition + homepage clinic/physician); spelling Bîrca | complete |
+| 2026-09-17 | titluri-crosslinks | Distinct titles/meta for menisc + knee-PRP pairs; related-articles block on all 33 articles; CSS guards | complete |
+| 2026-09-17 | hub-sitemap-llms | Hub with 34 grouped cards + ItemList 34; homepage 12 cards; sitemap 36 URLs; llms.txt 34 links | complete |

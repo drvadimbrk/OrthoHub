@@ -4,7 +4,7 @@
   <!-- ── Homepage ── -->
   <url>
     <loc>https://orthohub.ro/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,83 +12,215 @@
   <!-- ── Article hub ── -->
   <url>
     <loc>https://orthohub.ro/articole</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles ── -->
+  <!-- ── Articles (34) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://orthohub.ro/articole/articol-prp-ortopedie</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://orthohub.ro/articole/prp-24-intrebari-orthohub</loc>
-    <lastmod>2026-06-07</lastmod>
+    <loc>https://orthohub.ro/articole/articol-gonartroza-prp</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani</loc>
-    <lastmod>2026-06-07</lastmod>
+    <loc>https://orthohub.ro/articole/acid-hialuronic-genunchi</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi</loc>
-    <lastmod>2026-06-07</lastmod>
+    <loc>https://orthohub.ro/articole/ruptura-de-menisc</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/articol-leziune-menisc-prp-kineto</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/studiu-menisc-10-ani</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/hidartroza-genunchi-artrita-psoriazica</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://orthohub.ro/articole/orthohub-coxartroza-prp-acid-hialuronic</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/durere-sold-noaptea</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://orthohub.ro/articole/meralgie-parestezica</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/leziune-hamstring-prp</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/durere-umar-orthohub</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://orthohub.ro/articole/orthohub-supraspinos-prp</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/tunel-carpian</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/tunel-carpian-simptome</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/tunel-carpian-ecoghidat-vs-clasic</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/operatie-tunel-carpian-cost</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/diabet-zaharat-tunel-carpian</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/sindrom-metabolic-tunel-carpian</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/amiloidoza-sindrom-tunel-carpian</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/amiloidoza-de-dializa</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/tenosinovita-de-quervain</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/articol-prp-ortopedie</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/prp-24-intrebari-orthohub</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/ecografie-musculoscheletala</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/terapie-exozomi-articulara</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://orthohub.ro/articole/articol-prp-ortobiologice-birca</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://orthohub.ro/articole/literatura-ortobiologice-dr-birca</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://orthohub.ro/articole/terapie-exozomi-articulara</loc>
-    <lastmod>2026-06-07</lastmod>
+    <loc>https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/prp-knee-bucharest-dr-vadim-birca</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/dr-vadim-birca-regenerative-orthopedics-bucharest</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>

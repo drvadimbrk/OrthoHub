@@ -52,18 +52,57 @@ Toate articolele sunt redactate sau revizuite medical de Dr. Vadim Bîrca și su
 
 Index complet al articolelor: https://orthohub.ro/articole
 
-- [Injecții PRP pentru Genunchi și Articulații în București](https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca)
-- [PRP vs Acid Hialuronic vs Cortizon — Ce Spun Studiile](https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon)
-- [PRP în Ortopedie: Ce Este, Cum Funcționează și Când Este Recomandat](https://orthohub.ro/articole/articol-prp-ortopedie)
-- [24 Întrebări înainte de infiltrație cu PRP](https://orthohub.ro/articole/prp-24-intrebari-orthohub)
-- [Tratament Coxartroză — Infiltrații PRP și Acid Hialuronic](https://orthohub.ro/articole/orthohub-coxartroza-prp-acid-hialuronic)
-- [Ruptura Parțială de Supraspinos: PRP + Kinetoterapie](https://orthohub.ro/articole/orthohub-supraspinos-prp)
-- [Terapia cu Exozomi pentru Articulații](https://orthohub.ro/articole/terapie-exozomi-articulara)
-- [PRP vs. Celule Stem vs. Exozomi — Ghid Complet 2026](https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi)
-- [Sănătatea Articulațiilor după 40 de Ani](https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani)
-- [Tratamente Ortobiologice PRP — Fără Operație](https://orthohub.ro/articole/articol-prp-ortobiologice-birca)
-- [Infiltrații Intraarticulare și Periarticulare](https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub)
-- [Studii Clinice Ortobiologice — PRP, Unde de Șoc](https://orthohub.ro/articole/literatura-ortobiologice-dr-birca)
+### Genunchi
+
+- [Injecții PRP la genunchi în București: indicații, procedură, rezultate](https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca): Pentru cine sunt indicate injecțiile PRP ghidate ecografic, cum decurge procedura și ce rezultate arată studiile.
+- [Gonartroza (artroza genunchiului): cauze, simptome și tratament](https://orthohub.ro/articole/articol-gonartroza-prp): Ce este artroza genunchiului, de ce apare, cum se diagnostichează și ce opțiuni de tratament există.
+- [Infiltrații cu Acid Hialuronic la Genunchi – Ghid Complet](https://orthohub.ro/articole/acid-hialuronic-genunchi): Cum funcționează, cât durează efectul, câte ședințe sunt necesare și când sunt recomandate.
+- [Ruptură de menisc: când NU se operează](https://orthohub.ro/articole/ruptura-de-menisc): Ghid clinic bazat pe dovezi: cine are nevoie de operație, cine nu și ce program conservator funcționează.
+- [Leziune de menisc: PRP + kinetoterapie vs artroscopie – ce arată studiile](https://orthohub.ro/articole/articol-leziune-menisc-prp-kineto): Simptome, diagnostic și ce arată studiile clinice care compară tratamentul conservator cu artroscopia.
+- [Operația de menisc la 10 ani: ce arată studiul NEJM 2026](https://orthohub.ro/articole/studiu-menisc-10-ani): Studiul FIDELITY a comparat 10 ani operația de menisc cu operația placebo. Ce înseamnă rezultatele pentru tine.
+- [Hidartroza genunchiului în artrita psoriazică](https://orthohub.ro/articole/hidartroza-genunchi-artrita-psoriazica): De ce se strânge lichid în genunchi, cum se diagnostichează ecografic și ce opțiuni de tratament există.
+
+### Șold și coapsă
+
+- [Tratament Coxartroză București – Infiltrații PRP & Acid Hialuronic](https://orthohub.ro/articole/orthohub-coxartroza-prp-acid-hialuronic): Infiltrații ghidate ecografic pentru artroza de șold: indicații, protocol și ce rezultate să aștepți.
+- [Durerea de șold noaptea: când e semn că trebuie un consult ortopedic](https://orthohub.ro/articole/durere-sold-noaptea): Când durerea care te trezește noaptea cere consult ortopedic și ce cauze pot sta în spatele ei.
+- [Meralgia parestezică: tratament cu hidrodisecție eco-ghidată în București](https://orthohub.ro/articole/meralgie-parestezica): Arsură sau amorțeală pe partea laterală a coapsei: cauze, diagnostic și hidrodisecția ghidată ecografic.
+- [Leziunea de hamstring (ischiogambieri): tratament cu PRP ecoghidat](https://orthohub.ro/articole/leziune-hamstring-prp): Gradele leziunii, diagnosticul ecografic, kinetoterapia și când ajută infiltrația cu PRP.
+
+### Umăr
+
+- [Durerea de Umăr — Cauze, Diagnostic și Tratament](https://orthohub.ro/articole/durere-umar-orthohub): De unde poate veni durerea de umăr, ce investigații sunt utile și ce opțiuni de tratament există.
+- [Ruptura Parțială de Supraspinos: PRP + Kinetoterapie Reduce Leziunea și Ameliorează Durerea](https://orthohub.ro/articole/orthohub-supraspinos-prp): Ce arată un studiu clinic recent despre PRP combinat cu kinetoterapie în leziunile coafei rotatorilor.
+
+### Mână și încheietură
+
+- [Operație Tunel Carpian Minim Invazivă Ghidată Ecografic — București](https://orthohub.ro/articole/tunel-carpian): Intervenție minim invazivă cu anestezie locală pentru amorțeli, furnicături și dureri nocturne în mână.
+- [Simptomele Sindromului de Tunel Carpian: Semne, Cauze și Când să Mergi la Medic](https://orthohub.ro/articole/tunel-carpian-simptome): Ce degete sunt afectate, de ce simptomele apar noaptea și când trebuie să mergi la medic.
+- [Operație Tunel Carpian: Clasică vs. Ecoghidată — Care e Diferența](https://orthohub.ro/articole/tunel-carpian-ecoghidat-vs-clasic): Incizie, anestezie, recuperare și cicatrice: diferențele explicate onest, ca să alegi informat.
+- [Cât Costă Operația de Tunel Carpian în București și Ilfov](https://orthohub.ro/articole/operatie-tunel-carpian-cost): Ce include pachetul „Mâna Liberă”, de la consultație și ecografie până la controalele post-operatorii.
+- [Diabetul Zaharat și Sindromul de Tunel Carpian: Legătura și Soluția](https://orthohub.ro/articole/diabet-zaharat-tunel-carpian): Amorțelile din mâini la pacientul cu diabet nu sunt mereu neuropatie. Legătura și opțiunile de tratament.
+- [Sindromul Metabolic și Sindromul de Tunel Carpian: Legătura și Soluția](https://orthohub.ro/articole/sindrom-metabolic-tunel-carpian): De ce tunelul carpian este mai frecvent la pacienții cu sindrom metabolic și ce poți face concret.
+- [Amiloidoza și sindromul de tunel carpian: semnalul care apare cu ani înainte](https://orthohub.ro/articole/amiloidoza-sindrom-tunel-carpian): Tunelul carpian bilateral poate fi un semnal precoce de amiloidoză. Cine trebuie evaluat și de ce.
+- [Durerea de mână și umăr la pacientul dializat](https://orthohub.ro/articole/amiloidoza-de-dializa): Amiloidoza de dializă: tunel carpian, umăr dureros și chisturi osoase. Cauze, diagnostic și tratament.
+- [Tenosinovita De Quervain: cauze, simptome, tratament](https://orthohub.ro/articole/tenosinovita-de-quervain): Durerea pe partea degetului mare a încheieturii: cauze, testul Finkelstein, ecografie și infiltrație ghidată.
+
+### PRP, infiltrații și terapii regenerative
+
+- [PRP în Ortopedie: Ce Este, Cum Funcționează și Când Este Recomandat](https://orthohub.ro/articole/articol-prp-ortopedie): Cum funcționează plasma bogată în trombocite, ce afecțiuni tratează și la ce rezultate să te aștepți.
+- [24 Întrebări la care să răspunzi înainte să-ți faci infiltrație cu PRP](https://orthohub.ro/articole/prp-24-intrebari-orthohub): Durere, pregătire, contraindicații, număr de ședințe: răspunsuri înainte de procedură.
+- [PRP vs Acid Hialuronic vs Cortizon – Ce Spun Studiile Științifice](https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon): Ce tratament este mai eficient pe termen lung și când se alege fiecare, conform studiilor.
+- [Infiltrații Intraarticulare & Periarticulare](https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub): Tipuri de infiltrații, indicații, protocoale și siguranță, explicate pentru pacienți.
+- [Ecografia musculoscheletală: ce este și cum te ajută. Diagnostic și tratament](https://orthohub.ro/articole/ecografie-musculoscheletala): Ce vede și ce nu vede ecografia, când este mai utilă decât RMN-ul și cum ghidează tratamentul.
+- [PRP vs. Celule Stem vs. Exozomi: Ghidul Complet 2026](https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi): Diferențele dintre terapiile biologice pentru articulații și ce spune cercetarea actuală.
+- [Terapia cu Exozomi pentru Articulații](https://orthohub.ro/articole/terapie-exozomi-articulara): Cum funcționează exozomii, ce arată studiile de până acum și care sunt limitele dovezilor.
+- [Tratamente ortobiologice PRP București – Fără operație](https://orthohub.ro/articole/articol-prp-ortobiologice-birca): Când pot tratamentele ortobiologice amâna sau evita o intervenție chirurgicală.
+- [Studii Clinice Ortobiologice – PRP, Unde de Șoc, Terapii Regenerative](https://orthohub.ro/articole/literatura-ortobiologice-dr-birca): Selecție comentată de studii recente despre PRP, unde de șoc și ortobiologice.
+- [Sănătatea Articulațiilor după 40 de Ani](https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani): Cauze, prevenție, exerciții și tratament pentru articulații sănătoase pe termen lung.
+
+### In English
+
+- [PRP Knee Treatment in Bucharest: What to Expect, Cost & Results](https://orthohub.ro/articole/prp-knee-bucharest-dr-vadim-birca): What to expect from ultrasound-guided PRP for knee pain: the procedure, the patient journey and results.
+- [Regenerative Orthopedics in Bucharest](https://orthohub.ro/articole/dr-vadim-birca-regenerative-orthopedics-bucharest): PRP and regenerative joint treatments in Bucharest for patients travelling from abroad.
 
 ## Avantaje cheie față de concurență
 

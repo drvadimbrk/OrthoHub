@@ -278,6 +278,20 @@
     .footer a:hover { color: var(--c-gold); }
     .footer__links { display: flex; justify-content: center; gap: 22px; flex-wrap: wrap; margin-bottom: 16px; }
 
+    /* Topic groups */
+    .topics { display: flex; flex-wrap: wrap; gap: 10px; margin: 0 0 12px; }
+    .topics a {
+      padding: 8px 16px; border: 1px solid var(--c-gold-border); border-radius: 999px;
+      font-size: 0.86rem; color: var(--c-text); transition: background var(--t), border-color var(--t);
+    }
+    .topics a:hover { background: var(--c-gold-subtle); border-color: var(--c-gold); }
+    .topic { padding-top: 52px; scroll-margin-top: 72px; }
+    .topic__title {
+      font-family: var(--f-display); font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 500;
+      margin: 0 0 24px; padding-bottom: 14px; border-bottom: 1px solid rgba(10, 10, 10, 0.08);
+    }
+    .topic__title span { font-family: var(--f-body); font-size: 0.9rem; font-weight: 400; color: var(--c-muted); margin-left: 6px; }
+
     /* ══════════════════════════════════════════
        RESPONSIVE
     ══════════════════════════════════════════ */
@@ -323,20 +337,42 @@
         },
         "mainEntity": {
           "@type": "ItemList",
-          "numberOfItems": 12,
+          "numberOfItems": 34,
           "itemListElement": [
-            {"@type": "ListItem", "position": 1,  "url": "https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca",        "name": "Injecții PRP pentru Durerea de Genunchi în București"},
-            {"@type": "ListItem", "position": 2,  "url": "https://orthohub.ro/articole/articol-prp-ortopedie",                  "name": "PRP în Ortopedie: Ce Este și Cum Funcționează"},
-            {"@type": "ListItem", "position": 3,  "url": "https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon",   "name": "PRP, Acid Hialuronic sau Cortizon? Ce Spun Studiile"},
-            {"@type": "ListItem", "position": 4,  "url": "https://orthohub.ro/articole/prp-24-intrebari-orthohub",              "name": "24 de Întrebări despre Infiltrația PRP"},
-            {"@type": "ListItem", "position": 5,  "url": "https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani",   "name": "Sănătatea Articulațiilor după 40 de Ani"},
-            {"@type": "ListItem", "position": 6,  "url": "https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi",          "name": "PRP vs. Celule Stem vs. Exozomi: Ghid 2026"},
-            {"@type": "ListItem", "position": 7,  "url": "https://orthohub.ro/articole/orthohub-coxartroza-prp-acid-hialuronic","name": "Coxartroza Tratată Fără Bisturiu: PRP & Acid Hialuronic"},
-            {"@type": "ListItem", "position": 8,  "url": "https://orthohub.ro/articole/orthohub-supraspinos-prp",               "name": "Ruptura de Supraspinos: PRP + Kinetoterapie"},
-            {"@type": "ListItem", "position": 9,  "url": "https://orthohub.ro/articole/articol-prp-ortobiologice-birca",        "name": "Tratamente Ortobiologice: Alternativă la Operație"},
-            {"@type": "ListItem", "position": 10, "url": "https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub",   "name": "Ghid: Infiltrații Intraarticulare & Periarticulare"},
-            {"@type": "ListItem", "position": 11, "url": "https://orthohub.ro/articole/literatura-ortobiologice-dr-birca",      "name": "Studii Clinice: PRP și Terapii Regenerative"},
-            {"@type": "ListItem", "position": 12, "url": "https://orthohub.ro/articole/terapie-exozomi-articulara",             "name": "Terapia cu Exozomi pentru Articulații"}
+            {"@type": "ListItem", "position": 1, "url": "https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca", "name": "Injecții PRP la genunchi în București"},
+            {"@type": "ListItem", "position": 2, "url": "https://orthohub.ro/articole/articol-gonartroza-prp", "name": "Gonartroza: cauze, simptome și tratament"},
+            {"@type": "ListItem", "position": 3, "url": "https://orthohub.ro/articole/acid-hialuronic-genunchi", "name": "Infiltrații cu acid hialuronic la genunchi"},
+            {"@type": "ListItem", "position": 4, "url": "https://orthohub.ro/articole/ruptura-de-menisc", "name": "Ruptura de menisc: când nu se operează"},
+            {"@type": "ListItem", "position": 5, "url": "https://orthohub.ro/articole/articol-leziune-menisc-prp-kineto", "name": "Leziune de menisc: PRP + kinetoterapie vs artroscopie"},
+            {"@type": "ListItem", "position": 6, "url": "https://orthohub.ro/articole/studiu-menisc-10-ani", "name": "Operația de menisc la 10 ani: studiul NEJM"},
+            {"@type": "ListItem", "position": 7, "url": "https://orthohub.ro/articole/hidartroza-genunchi-artrita-psoriazica", "name": "Hidartroza genunchiului în artrita psoriazică"},
+            {"@type": "ListItem", "position": 8, "url": "https://orthohub.ro/articole/orthohub-coxartroza-prp-acid-hialuronic", "name": "Tratament coxartroză: PRP și acid hialuronic"},
+            {"@type": "ListItem", "position": 9, "url": "https://orthohub.ro/articole/durere-sold-noaptea", "name": "Durerea de șold noaptea"},
+            {"@type": "ListItem", "position": 10, "url": "https://orthohub.ro/articole/meralgie-parestezica", "name": "Meralgia parestezică"},
+            {"@type": "ListItem", "position": 11, "url": "https://orthohub.ro/articole/leziune-hamstring-prp", "name": "Leziunea de hamstring: tratament cu PRP ecoghidat"},
+            {"@type": "ListItem", "position": 12, "url": "https://orthohub.ro/articole/durere-umar-orthohub", "name": "Durerea de umăr: cauze, diagnostic, tratament"},
+            {"@type": "ListItem", "position": 13, "url": "https://orthohub.ro/articole/orthohub-supraspinos-prp", "name": "Ruptura parțială de supraspinos: PRP + kinetoterapie"},
+            {"@type": "ListItem", "position": 14, "url": "https://orthohub.ro/articole/tunel-carpian", "name": "Operație tunel carpian ghidată ecografic"},
+            {"@type": "ListItem", "position": 15, "url": "https://orthohub.ro/articole/tunel-carpian-simptome", "name": "Simptomele sindromului de tunel carpian"},
+            {"@type": "ListItem", "position": 16, "url": "https://orthohub.ro/articole/tunel-carpian-ecoghidat-vs-clasic", "name": "Tunel carpian: operație clasică vs ecoghidată"},
+            {"@type": "ListItem", "position": 17, "url": "https://orthohub.ro/articole/operatie-tunel-carpian-cost", "name": "Cât costă operația de tunel carpian"},
+            {"@type": "ListItem", "position": 18, "url": "https://orthohub.ro/articole/diabet-zaharat-tunel-carpian", "name": "Diabetul zaharat și tunelul carpian"},
+            {"@type": "ListItem", "position": 19, "url": "https://orthohub.ro/articole/sindrom-metabolic-tunel-carpian", "name": "Sindromul metabolic și tunelul carpian"},
+            {"@type": "ListItem", "position": 20, "url": "https://orthohub.ro/articole/amiloidoza-sindrom-tunel-carpian", "name": "Amiloidoza și sindromul de tunel carpian"},
+            {"@type": "ListItem", "position": 21, "url": "https://orthohub.ro/articole/amiloidoza-de-dializa", "name": "Durerea de mână și umăr la pacientul dializat"},
+            {"@type": "ListItem", "position": 22, "url": "https://orthohub.ro/articole/tenosinovita-de-quervain", "name": "Tenosinovita De Quervain"},
+            {"@type": "ListItem", "position": 23, "url": "https://orthohub.ro/articole/articol-prp-ortopedie", "name": "PRP în ortopedie: ce este și când se recomandă"},
+            {"@type": "ListItem", "position": 24, "url": "https://orthohub.ro/articole/prp-24-intrebari-orthohub", "name": "24 de întrebări înainte de infiltrația cu PRP"},
+            {"@type": "ListItem", "position": 25, "url": "https://orthohub.ro/articole/articol-prp-acid-hialuronic-cortizon", "name": "PRP vs acid hialuronic vs cortizon"},
+            {"@type": "ListItem", "position": 26, "url": "https://orthohub.ro/articole/infiltratii-intraarticulare-orthohub", "name": "Infiltrații intraarticulare și periarticulare"},
+            {"@type": "ListItem", "position": 27, "url": "https://orthohub.ro/articole/ecografie-musculoscheletala", "name": "Ecografia musculoscheletală"},
+            {"@type": "ListItem", "position": 28, "url": "https://orthohub.ro/articole/prp-vs-celule-stem-vs-exozomi", "name": "PRP vs celule stem vs exozomi"},
+            {"@type": "ListItem", "position": 29, "url": "https://orthohub.ro/articole/terapie-exozomi-articulara", "name": "Terapia cu exozomi pentru articulații"},
+            {"@type": "ListItem", "position": 30, "url": "https://orthohub.ro/articole/articol-prp-ortobiologice-birca", "name": "Tratamente ortobiologice: alternativă la operație"},
+            {"@type": "ListItem", "position": 31, "url": "https://orthohub.ro/articole/literatura-ortobiologice-dr-birca", "name": "Studii clinice: PRP și terapii regenerative"},
+            {"@type": "ListItem", "position": 32, "url": "https://orthohub.ro/articole/sanatatea-articulatiilor-dupa-40-ani", "name": "Sănătatea articulațiilor după 40 de ani"},
+            {"@type": "ListItem", "position": 33, "url": "https://orthohub.ro/articole/prp-knee-bucharest-dr-vadim-birca", "name": "PRP Knee Treatment in Bucharest"},
+            {"@type": "ListItem", "position": 34, "url": "https://orthohub.ro/articole/dr-vadim-birca-regenerative-orthopedics-bucharest", "name": "Regenerative Orthopedics in Bucharest"}
           ]
         }
       }
@@ -367,10 +403,9 @@
         <a href="/">Acasă</a><span>/</span>Articole medicale
       </nav>
       <span class="hub-hero__eyebrow">Educație Medicală</span>
-      <h1>Articole medicale despre PRP și medicină regenerativă</h1>
+      <h1>Articole medicale despre ortopedie, PRP și medicină regenerativă</h1>
       <p>
-        Ghiduri, comparații și analize de studii clinice despre terapia PRP, ortobiologice
-        și regenerarea articulară — redactate și revizuite medical de Dr. Vadim Bîrca,
+        Ghiduri, comparații și analize de studii clinice despre genunchi, șold, umăr, mână și terapiile regenerative — redactate și revizuite medical de Dr. Vadim Bîrca,
         medic specialist Ortopedie și Traumatologie în București.
       </p>
     </div>
@@ -379,213 +414,588 @@
   <!-- ══════════ ARTICLE GRID ══════════ -->
   <main class="articles">
     <div class="container">
-      <div class="articles__grid">
+      <nav class="topics" aria-label="Categorii de articole">
+        <a href="#genunchi">Genunchi</a>
+        <a href="#sold">Șold și coapsă</a>
+        <a href="#umar">Umăr</a>
+        <a href="#mana">Mână și încheietură</a>
+        <a href="#prp">PRP, infiltrații și terapii regenerative</a>
+        <a href="#english">In English</a>
+      </nav>
 
+      <section class="topic" id="genunchi" aria-labelledby="topic-genunchi">
+        <h2 class="topic__title" id="topic-genunchi">Genunchi <span>7</span></h2>
+        <div class="articles__grid">
         <article class="article-card">
           <a href="/articole/prp-genunchi-bucuresti-dr-birca" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Gonartroză tratament PRP Dr. Vadim Bîrca București — regenerare cartilaj genunchi fără operație" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Injecții PRP la genunchi în București" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
               <span class="article-card__tag">PRP Genunchi</span>
-              <span class="article-card__date">3 Mai 2026</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/prp-genunchi-bucuresti-dr-birca">Injecții PRP pentru Durerea de Genunchi în București</a></h2>
-            <p class="article-card__excerpt">Tratament non-chirurgical pentru gonartroză și leziuni articulare, bazat pe studii clinice recente. Protocoale, costuri și ce să aștepți.</p>
+            <h3 class="article-card__title"><a href="/articole/prp-genunchi-bucuresti-dr-birca">Injecții PRP la genunchi în București</a></h3>
+            <p class="article-card__excerpt">Pentru cine sunt indicate injecțiile PRP ghidate ecografic, cum decurge procedura și ce rezultate arată studiile.</p>
             <a href="/articole/prp-genunchi-bucuresti-dr-birca" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/articol-prp-ortopedie" aria-hidden="true" tabindex="-1">
+          <a href="/articole/articol-gonartroza-prp" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/tendinopatie-paletara-tratament-prp-genunchi-bucuresti.webp" alt="Tendinopatie rotuliană patelară tratament PRP Dr. Vadim Bîrca București — durere genunchi la sărituri" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Gonartroza: cauze, simptome și tratament" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Ghid Complet</span>
-              <span class="article-card__date">3 Mai 2025</span>
+              <span class="article-card__tag">Gonartroză</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/articol-prp-ortopedie">PRP în Ortopedie: Ce Este și Cum Funcționează</a></h2>
-            <p class="article-card__excerpt">Tot ce trebuie să știi: procedura pas cu pas, afecțiunile tratate, rezultatele așteptate și contraindicațiile. Ghid medical complet 2025.</p>
-            <a href="/articole/articol-prp-ortopedie" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/articol-gonartroza-prp">Gonartroza: cauze, simptome și tratament</a></h3>
+            <p class="article-card__excerpt">Ce este artroza genunchiului, de ce apare, cum se diagnostichează și ce opțiuni de tratament există.</p>
+            <a href="/articole/articol-gonartroza-prp" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/articol-prp-acid-hialuronic-cortizon" aria-hidden="true" tabindex="-1">
+          <a href="/articole/acid-hialuronic-genunchi" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/epicondilita-mediala-tratament-prp-cot-bucuresti.webp" alt="Epicondilită medială cotul golfistului tratament PRP Dr. Vadim Bîrca București — recuperare cot fără operație" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Infiltrații cu acid hialuronic la genunchi" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Comparație</span>
-              <span class="article-card__date">Ian 2026</span>
+              <span class="article-card__tag">Acid hialuronic</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/articol-prp-acid-hialuronic-cortizon">PRP, Acid Hialuronic sau Cortizon? Ce Spun Studiile</a></h2>
-            <p class="article-card__excerpt">Comparație bazată pe studii din reviste de prestigiu. Care tratament este mai eficient pe termen lung și când să alegi fiecare.</p>
-            <a href="/articole/articol-prp-acid-hialuronic-cortizon" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/acid-hialuronic-genunchi">Infiltrații cu acid hialuronic la genunchi</a></h3>
+            <p class="article-card__excerpt">Cum funcționează, cât durează efectul, câte ședințe sunt necesare și când sunt recomandate.</p>
+            <a href="/articole/acid-hialuronic-genunchi" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/prp-24-intrebari-orthohub" aria-hidden="true" tabindex="-1">
+          <a href="/articole/ruptura-de-menisc" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/tendinopatie-ahiliana-tratament-prp-bucuresti.webp" alt="Tendinopatie ahiliană tratament PRP Dr. Vadim Bîrca București — recuperare tendon Ahile fără chirurgie" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Ruptura de menisc: când nu se operează" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Ghid Pacienți</span>
-              <span class="article-card__date">Apr 2025</span>
+              <span class="article-card__tag">Menisc</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/prp-24-intrebari-orthohub">24 de Întrebări despre Infiltrația PRP</a></h2>
-            <p class="article-card__excerpt">Dr. Vadim Bîrca răspunde exhaustiv: durere, pregătire, contraindicații, număr de ședințe, cost și tot ce vrei să știi înainte de procedură.</p>
-            <a href="/articole/prp-24-intrebari-orthohub" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/ruptura-de-menisc">Ruptura de menisc: când nu se operează</a></h3>
+            <p class="article-card__excerpt">Ghid clinic bazat pe dovezi: cine are nevoie de operație, cine nu și ce program conservator funcționează.</p>
+            <a href="/articole/ruptura-de-menisc" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" aria-hidden="true" tabindex="-1">
+          <a href="/articole/articol-leziune-menisc-prp-kineto" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/fasciita-plantara-tratament-prp-picior-bucuresti.webp" alt="Fasciită plantară tratament PRP Dr. Vadim Bîrca București — durere talpă picior vindecare fără operație" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Leziune de menisc: PRP + kinetoterapie vs artroscopie" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Prevenție</span>
-              <span class="article-card__date">4 Mai 2026</span>
+              <span class="article-card__tag">Menisc</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/sanatatea-articulatiilor-dupa-40-ani">Sănătatea Articulațiilor după 40 de Ani</a></h2>
-            <p class="article-card__excerpt">Cauze, prevenție, tratament și exerciții recomandate pentru longevitate articulară, susținute de studii clinice internaționale.</p>
-            <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/articol-leziune-menisc-prp-kineto">Leziune de menisc: PRP + kinetoterapie vs artroscopie</a></h3>
+            <p class="article-card__excerpt">Simptome, diagnostic și ce arată studiile clinice care compară tratamentul conservator cu artroscopia.</p>
+            <a href="/articole/articol-leziune-menisc-prp-kineto" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/prp-vs-celule-stem-vs-exozomi" aria-hidden="true" tabindex="-1">
+          <a href="/articole/studiu-menisc-10-ani" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/tendinopatie-ischiogambieri-tratament-prp-bucuresti.webp" alt="Tendinopatie ischiogambieri tratament PRP Dr. Vadim Bîrca București — recuperare musculară sportivă" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Operația de menisc la 10 ani: studiul NEJM" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Cercetare</span>
-              <span class="article-card__date">1 Mai 2026</span>
+              <span class="article-card__tag">Studiu clinic</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/prp-vs-celule-stem-vs-exozomi">PRP vs. Celule Stem vs. Exozomi: Ghid 2026</a></h2>
-            <p class="article-card__excerpt">Comparație bazată pe dovezi: cum alegi tratamentul biologic potrivit pentru articulațiile tale și ce spune cercetarea actuală.</p>
-            <a href="/articole/prp-vs-celule-stem-vs-exozomi" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/studiu-menisc-10-ani">Operația de menisc la 10 ani: studiul NEJM</a></h3>
+            <p class="article-card__excerpt">Studiul FIDELITY a comparat 10 ani operația de menisc cu operația placebo. Ce înseamnă rezultatele pentru tine.</p>
+            <a href="/articole/studiu-menisc-10-ani" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
+        <article class="article-card">
+          <a href="/articole/hidartroza-genunchi-artrita-psoriazica" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Hidartroza genunchiului în artrita psoriazică" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Reumatologie</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/hidartroza-genunchi-artrita-psoriazica">Hidartroza genunchiului în artrita psoriazică</a></h3>
+            <p class="article-card__excerpt">De ce se strânge lichid în genunchi, cum se diagnostichează ecografic și ce opțiuni de tratament există.</p>
+            <a href="/articole/hidartroza-genunchi-artrita-psoriazica" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+        </div>
+      </section>
+
+      <section class="topic" id="sold" aria-labelledby="topic-sold">
+        <h2 class="topic__title" id="topic-sold">Șold și coapsă <span>4</span></h2>
+        <div class="articles__grid">
         <article class="article-card">
           <a href="/articole/orthohub-coxartroza-prp-acid-hialuronic" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/bursita-sold-coxartroza-tratament-prp-bucuresti.webp" alt="Bursită șold coxartroză tratament PRP Dr. Vadim Bîrca București — articulație șold fără protezare" loading="lazy" width="800" height="450">
+              <img src="/articole/bursita-sold-coxartroza-tratament-prp-bucuresti.webp" alt="Tratament coxartroză: PRP și acid hialuronic" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
               <span class="article-card__tag">Coxartroză</span>
-              <span class="article-card__date">1 Mai 2025</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/orthohub-coxartroza-prp-acid-hialuronic">Coxartroza Tratată Fără Bisturiu: PRP & Acid Hialuronic</a></h2>
-            <p class="article-card__excerpt">Alternativa eficientă la înlocuirea protezei de șold în fazele incipiente. Tratament ghidat ecografic în București.</p>
+            <h3 class="article-card__title"><a href="/articole/orthohub-coxartroza-prp-acid-hialuronic">Tratament coxartroză: PRP și acid hialuronic</a></h3>
+            <p class="article-card__excerpt">Infiltrații ghidate ecografic pentru artroza de șold: indicații, protocol și ce rezultate să aștepți.</p>
             <a href="/articole/orthohub-coxartroza-prp-acid-hialuronic" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/durere-sold-noaptea" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/bursita-sold-coxartroza-tratament-prp-bucuresti.webp" alt="Durerea de șold noaptea" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Durere de șold</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/durere-sold-noaptea">Durerea de șold noaptea</a></h3>
+            <p class="article-card__excerpt">Când durerea care te trezește noaptea cere consult ortopedic și ce cauze pot sta în spatele ei.</p>
+            <a href="/articole/durere-sold-noaptea" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/meralgie-parestezica" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Meralgia parestezică" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Nerv comprimat</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/meralgie-parestezica">Meralgia parestezică</a></h3>
+            <p class="article-card__excerpt">Arsură sau amorțeală pe partea laterală a coapsei: cauze, diagnostic și hidrodisecția ghidată ecografic.</p>
+            <a href="/articole/meralgie-parestezica" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/leziune-hamstring-prp" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/tendinopatie-ischiogambieri-tratament-prp-bucuresti.webp" alt="Leziunea de hamstring: tratament cu PRP ecoghidat" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Medicina sportivă</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/leziune-hamstring-prp">Leziunea de hamstring: tratament cu PRP ecoghidat</a></h3>
+            <p class="article-card__excerpt">Gradele leziunii, diagnosticul ecografic, kinetoterapia și când ajută infiltrația cu PRP.</p>
+            <a href="/articole/leziune-hamstring-prp" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+        </div>
+      </section>
+
+      <section class="topic" id="umar" aria-labelledby="topic-umar">
+        <h2 class="topic__title" id="topic-umar">Umăr <span>2</span></h2>
+        <div class="articles__grid">
+        <article class="article-card">
+          <a href="/articole/durere-umar-orthohub" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/ruptura-coafa-rotatorie-tratament-prp-umar-bucuresti.webp" alt="Durerea de umăr: cauze, diagnostic, tratament" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Durere de umăr</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/durere-umar-orthohub">Durerea de umăr: cauze, diagnostic, tratament</a></h3>
+            <p class="article-card__excerpt">De unde poate veni durerea de umăr, ce investigații sunt utile și ce opțiuni de tratament există.</p>
+            <a href="/articole/durere-umar-orthohub" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
           <a href="/articole/orthohub-supraspinos-prp" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/ruptura-coafa-rotatorie-tratament-prp-umar-bucuresti.webp" alt="Ruptură coafă rotatorie tratament PRP Dr. Vadim Bîrca București — recuperare umăr fără operație" loading="lazy" width="800" height="450">
+              <img src="/articole/ruptura-coafa-rotatorie-tratament-prp-umar-bucuresti.webp" alt="Ruptura parțială de supraspinos: PRP + kinetoterapie" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Umăr</span>
-              <span class="article-card__date">3 Mai 2026</span>
+              <span class="article-card__tag">Coafa rotatorilor</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/orthohub-supraspinos-prp">Ruptura de Supraspinos: PRP + Kinetoterapie</a></h2>
-            <p class="article-card__excerpt">Studiu clinic 2026: PRP combinat cu kinetoterapie reduce volumul rupturii parțiale și îmbunătățește funcția umărului mai eficient.</p>
+            <h3 class="article-card__title"><a href="/articole/orthohub-supraspinos-prp">Ruptura parțială de supraspinos: PRP + kinetoterapie</a></h3>
+            <p class="article-card__excerpt">Ce arată un studiu clinic recent despre PRP combinat cu kinetoterapie în leziunile coafei rotatorilor.</p>
             <a href="/articole/orthohub-supraspinos-prp" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+        </div>
+      </section>
+
+      <section class="topic" id="mana" aria-labelledby="topic-mana">
+        <h2 class="topic__title" id="topic-mana">Mână și încheietură <span>9</span></h2>
+        <div class="articles__grid">
+        <article class="article-card">
+          <a href="/articole/tunel-carpian" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Operație tunel carpian ghidată ecografic" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Tunel carpian</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/tunel-carpian">Operație tunel carpian ghidată ecografic</a></h3>
+            <p class="article-card__excerpt">Intervenție minim invazivă cu anestezie locală pentru amorțeli, furnicături și dureri nocturne în mână.</p>
+            <a href="/articole/tunel-carpian" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/articol-prp-ortobiologice-birca" aria-hidden="true" tabindex="-1">
+          <a href="/articole/tunel-carpian-simptome" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/tendinopatie-gluteala-tratament-prp-sold-bucuresti.webp" alt="Tendinopatie gluteală tratament PRP Dr. Vadim Bîrca București — durere fesă și șold recuperare ortobiologică" loading="lazy" width="800" height="450">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Simptomele sindromului de tunel carpian" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Ortopedie</span>
-              <span class="article-card__date">15 Ian 2026</span>
+              <span class="article-card__tag">Tunel carpian</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/articol-prp-ortobiologice-birca">Tratamente Ortobiologice: Alternativă la Operație</a></h2>
-            <p class="article-card__excerpt">Cum ortobiologicele pe bază de PRP înlocuiesc chirurgia pentru artroze și tendinopatii — fără spitalizare, recuperare rapidă.</p>
-            <a href="/articole/articol-prp-ortobiologice-birca" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/tunel-carpian-simptome">Simptomele sindromului de tunel carpian</a></h3>
+            <p class="article-card__excerpt">Ce degete sunt afectate, de ce simptomele apar noaptea și când trebuie să mergi la medic.</p>
+            <a href="/articole/tunel-carpian-simptome" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/tunel-carpian-ecoghidat-vs-clasic" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Tunel carpian: operație clasică vs ecoghidată" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Comparație</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/tunel-carpian-ecoghidat-vs-clasic">Tunel carpian: operație clasică vs ecoghidată</a></h3>
+            <p class="article-card__excerpt">Incizie, anestezie, recuperare și cicatrice: diferențele explicate onest, ca să alegi informat.</p>
+            <a href="/articole/tunel-carpian-ecoghidat-vs-clasic" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/operatie-tunel-carpian-cost" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Cât costă operația de tunel carpian" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Costuri</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/operatie-tunel-carpian-cost">Cât costă operația de tunel carpian</a></h3>
+            <p class="article-card__excerpt">Ce include pachetul „Mâna Liberă”, de la consultație și ecografie până la controalele post-operatorii.</p>
+            <a href="/articole/operatie-tunel-carpian-cost" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/diabet-zaharat-tunel-carpian" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Diabetul zaharat și tunelul carpian" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Diabet</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/diabet-zaharat-tunel-carpian">Diabetul zaharat și tunelul carpian</a></h3>
+            <p class="article-card__excerpt">Amorțelile din mâini la pacientul cu diabet nu sunt mereu neuropatie. Legătura și opțiunile de tratament.</p>
+            <a href="/articole/diabet-zaharat-tunel-carpian" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/sindrom-metabolic-tunel-carpian" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Sindromul metabolic și tunelul carpian" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Sindrom metabolic</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/sindrom-metabolic-tunel-carpian">Sindromul metabolic și tunelul carpian</a></h3>
+            <p class="article-card__excerpt">De ce tunelul carpian este mai frecvent la pacienții cu sindrom metabolic și ce poți face concret.</p>
+            <a href="/articole/sindrom-metabolic-tunel-carpian" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/amiloidoza-sindrom-tunel-carpian" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Amiloidoza și sindromul de tunel carpian" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Amiloidoză</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/amiloidoza-sindrom-tunel-carpian">Amiloidoza și sindromul de tunel carpian</a></h3>
+            <p class="article-card__excerpt">Tunelul carpian bilateral poate fi un semnal precoce de amiloidoză. Cine trebuie evaluat și de ce.</p>
+            <a href="/articole/amiloidoza-sindrom-tunel-carpian" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/amiloidoza-de-dializa" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Durerea de mână și umăr la pacientul dializat" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Dializă</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/amiloidoza-de-dializa">Durerea de mână și umăr la pacientul dializat</a></h3>
+            <p class="article-card__excerpt">Amiloidoza de dializă: tunel carpian, umăr dureros și chisturi osoase. Cauze, diagnostic și tratament.</p>
+            <a href="/articole/amiloidoza-de-dializa" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/tenosinovita-de-quervain" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Tenosinovita De Quervain" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Încheietură</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/tenosinovita-de-quervain">Tenosinovita De Quervain</a></h3>
+            <p class="article-card__excerpt">Durerea pe partea degetului mare a încheieturii: cauze, testul Finkelstein, ecografie și infiltrație ghidată.</p>
+            <a href="/articole/tenosinovita-de-quervain" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+        </div>
+      </section>
+
+      <section class="topic" id="prp" aria-labelledby="topic-prp">
+        <h2 class="topic__title" id="topic-prp">PRP, infiltrații și terapii regenerative <span>10</span></h2>
+        <div class="articles__grid">
+        <article class="article-card">
+          <a href="/articole/articol-prp-ortopedie" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="PRP în ortopedie: ce este și când se recomandă" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Ghid complet</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/articol-prp-ortopedie">PRP în ortopedie: ce este și când se recomandă</a></h3>
+            <p class="article-card__excerpt">Cum funcționează plasma bogată în trombocite, ce afecțiuni tratează și la ce rezultate să te aștepți.</p>
+            <a href="/articole/articol-prp-ortopedie" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/prp-24-intrebari-orthohub" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="24 de întrebări înainte de infiltrația cu PRP" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Ghid pacienți</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/prp-24-intrebari-orthohub">24 de întrebări înainte de infiltrația cu PRP</a></h3>
+            <p class="article-card__excerpt">Durere, pregătire, contraindicații, număr de ședințe: răspunsuri înainte de procedură.</p>
+            <a href="/articole/prp-24-intrebari-orthohub" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/articol-prp-acid-hialuronic-cortizon" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="PRP vs acid hialuronic vs cortizon" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Comparație</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/articol-prp-acid-hialuronic-cortizon">PRP vs acid hialuronic vs cortizon</a></h3>
+            <p class="article-card__excerpt">Ce tratament este mai eficient pe termen lung și când se alege fiecare, conform studiilor.</p>
+            <a href="/articole/articol-prp-acid-hialuronic-cortizon" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
           <a href="/articole/infiltratii-intraarticulare-orthohub" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/tendinopatie-cvadriceps-tratament-prp-coapsa-bucuresti.webp" alt="Tendinopatie cvadriceps tratament PRP Dr. Vadim Bîrca București — durere coapsă deasupra genunchiului" loading="lazy" width="800" height="450">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Infiltrații intraarticulare și periarticulare" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Tratament</span>
-              <span class="article-card__date">2025</span>
+              <span class="article-card__tag">Infiltrații</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/infiltratii-intraarticulare-orthohub">Ghid: Infiltrații Intraarticulare & Periarticulare</a></h2>
-            <p class="article-card__excerpt">Tipuri de infiltrații, indicații clinice, protocoale de administrare și tot ce trebuie să știi despre siguranța și eficiența procedurii.</p>
+            <h3 class="article-card__title"><a href="/articole/infiltratii-intraarticulare-orthohub">Infiltrații intraarticulare și periarticulare</a></h3>
+            <p class="article-card__excerpt">Tipuri de infiltrații, indicații, protocoale și siguranță, explicate pentru pacienți.</p>
             <a href="/articole/infiltratii-intraarticulare-orthohub" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
-          <a href="/articole/literatura-ortobiologice-dr-birca" aria-hidden="true" tabindex="-1">
+          <a href="/articole/ecografie-musculoscheletala" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/epicondilita-laterala-tratament-prp-cot-bucuresti.webp" alt="Epicondilită laterală cotul tenismenului tratament PRP Dr. Vadim Bîrca București — studii clinice ortobiologice" loading="lazy" width="800" height="450">
+              <img src="/articole/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Ecografia musculoscheletală" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
-              <span class="article-card__tag">Știință</span>
-              <span class="article-card__date">2025</span>
+              <span class="article-card__tag">Diagnostic</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/literatura-ortobiologice-dr-birca">Studii Clinice: PRP și Terapii Regenerative</a></h2>
-            <p class="article-card__excerpt">Bază de date cu RCT-uri și meta-analize recente despre PRP, unde de șoc și ortobiologice, comentată de Dr. Vadim Bîrca.</p>
-            <a href="/articole/literatura-ortobiologice-dr-birca" class="article-card__link">Citește articolul</a>
+            <h3 class="article-card__title"><a href="/articole/ecografie-musculoscheletala">Ecografia musculoscheletală</a></h3>
+            <p class="article-card__excerpt">Ce vede și ce nu vede ecografia, când este mai utilă decât RMN-ul și cum ghidează tratamentul.</p>
+            <a href="/articole/ecografie-musculoscheletala" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/prp-vs-celule-stem-vs-exozomi" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="PRP vs celule stem vs exozomi" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Cercetare</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/prp-vs-celule-stem-vs-exozomi">PRP vs celule stem vs exozomi</a></h3>
+            <p class="article-card__excerpt">Diferențele dintre terapiile biologice pentru articulații și ce spune cercetarea actuală.</p>
+            <a href="/articole/prp-vs-celule-stem-vs-exozomi" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
         <article class="article-card">
           <a href="/articole/terapie-exozomi-articulara" aria-hidden="true" tabindex="-1">
             <div class="article-card__img">
-              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Terapie exozomi articulații Dr. Vadim Bîrca București — regenerare cartilaj inovație biologică" loading="lazy" width="800" height="450">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="Terapia cu exozomi pentru articulații" loading="lazy" width="800" height="450">
             </div>
           </a>
           <div class="article-card__body">
             <div class="article-card__meta">
               <span class="article-card__tag">Inovație</span>
-              <span class="article-card__date">2026</span>
             </div>
-            <h2 class="article-card__title"><a href="/articole/terapie-exozomi-articulara">Terapia cu Exozomi pentru Articulații</a></h2>
-            <p class="article-card__excerpt">Cea mai recentă frontieră în regenerarea articulară: cum funcționează exozomii, ce spun studiile și când este recomandată.</p>
+            <h3 class="article-card__title"><a href="/articole/terapie-exozomi-articulara">Terapia cu exozomi pentru articulații</a></h3>
+            <p class="article-card__excerpt">Cum funcționează exozomii, ce arată studiile de până acum și care sunt limitele dovezilor.</p>
             <a href="/articole/terapie-exozomi-articulara" class="article-card__link">Citește articolul</a>
           </div>
         </article>
 
-      </div>
+        <article class="article-card">
+          <a href="/articole/articol-prp-ortobiologice-birca" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Tratamente ortobiologice: alternativă la operație" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Ortobiologice</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/articol-prp-ortobiologice-birca">Tratamente ortobiologice: alternativă la operație</a></h3>
+            <p class="article-card__excerpt">Când pot tratamentele ortobiologice amâna sau evita o intervenție chirurgicală.</p>
+            <a href="/articole/articol-prp-ortobiologice-birca" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/literatura-ortobiologice-dr-birca" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Studii clinice: PRP și terapii regenerative" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Studii clinice</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/literatura-ortobiologice-dr-birca">Studii clinice: PRP și terapii regenerative</a></h3>
+            <p class="article-card__excerpt">Selecție comentată de studii recente despre PRP, unde de șoc și ortobiologice.</p>
+            <a href="/articole/literatura-ortobiologice-dr-birca" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+
+        <article class="article-card">
+          <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/terapie-prp-bucuresti-orthohub.webp" alt="Sănătatea articulațiilor după 40 de ani" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">Prevenție</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/sanatatea-articulatiilor-dupa-40-ani">Sănătatea articulațiilor după 40 de ani</a></h3>
+            <p class="article-card__excerpt">Cauze, prevenție, exerciții și tratament pentru articulații sănătoase pe termen lung.</p>
+            <a href="/articole/sanatatea-articulatiilor-dupa-40-ani" class="article-card__link">Citește articolul</a>
+          </div>
+        </article>
+        </div>
+      </section>
+
+      <section class="topic" id="english" aria-labelledby="topic-english" lang="en">
+        <h2 class="topic__title" id="topic-english">In English <span>2</span></h2>
+        <div class="articles__grid">
+        <article class="article-card" lang="en">
+          <a href="/articole/prp-knee-bucharest-dr-vadim-birca" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/gonartroza-tratament-prp-genunchi-bucuresti.webp" alt="PRP Knee Treatment in Bucharest" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">PRP Knee</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/prp-knee-bucharest-dr-vadim-birca">PRP Knee Treatment in Bucharest</a></h3>
+            <p class="article-card__excerpt">What to expect from ultrasound-guided PRP for knee pain: the procedure, the patient journey and results.</p>
+            <a href="/articole/prp-knee-bucharest-dr-vadim-birca" class="article-card__link">Read article</a>
+          </div>
+        </article>
+
+        <article class="article-card" lang="en">
+          <a href="/articole/dr-vadim-birca-regenerative-orthopedics-bucharest" aria-hidden="true" tabindex="-1">
+            <div class="article-card__img">
+              <img src="/articole/dr-barca-vadim-medic-ortoped-bucuresti.webp" alt="Regenerative Orthopedics in Bucharest" loading="lazy" width="800" height="450">
+            </div>
+          </a>
+          <div class="article-card__body">
+            <div class="article-card__meta">
+              <span class="article-card__tag">International patients</span>
+            </div>
+            <h3 class="article-card__title"><a href="/articole/dr-vadim-birca-regenerative-orthopedics-bucharest">Regenerative Orthopedics in Bucharest</a></h3>
+            <p class="article-card__excerpt">PRP and regenerative joint treatments in Bucharest for patients travelling from abroad.</p>
+            <a href="/articole/dr-vadim-birca-regenerative-orthopedics-bucharest" class="article-card__link">Read article</a>
+          </div>
+        </article>
+        </div>
+      </section>
     </div>
   </main>
 

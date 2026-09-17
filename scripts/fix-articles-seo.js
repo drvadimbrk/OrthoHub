@@ -1,4 +1,8 @@
 /**
+ * SUPERSEDED (2026-09-17): article heads are now normalised (canonical /articole/<slug>, single
+ * JSON-LD @graph with homepage clinic/physician nodes). Do not re-run — it would reintroduce
+ * the old og-image and breadcrumb markup.
+ *
  * OrthoHub — Bulk article SEO fixer
  * Fixes: canonical URLs, og:url, og:site_name, og:image,
  *        breadcrumb JSON-LD, author meta, nav back-link
