@@ -246,12 +246,26 @@
 
     .nav__brand {
       font-family: var(--f-display);
-      font-size: 21px;
-      font-weight: 400;
+      font-size: 25px;
+      font-weight: 600;
       font-style: italic;
       color: var(--c-ivory);
       letter-spacing: -0.02em;
       white-space: nowrap;
+      padding-right: 2px;
+    }
+    .nav__brand span,
+    .footer__brand span { color: var(--c-gold-light); }
+    .nav__brand::after,
+    .footer__brand::after {
+      content: '';
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      margin-left: 3px;
+      border-radius: 50%;
+      background: var(--c-gold);
+      vertical-align: baseline;
     }
 
     .nav__sep {
@@ -262,11 +276,25 @@
     }
 
     .nav__address {
-      font-size: 12px;
-      font-weight: 300;
-      color: rgba(245, 240, 232, 0.72);
+      font-size: 15px;
+      font-weight: 400;
+      color: var(--c-ivory);
       font-style: normal;
       line-height: 1.3;
+    }
+    .nav__address a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: color var(--t);
+    }
+    .nav__address a:hover { color: var(--c-gold-light); }
+    .nav__address svg,
+    .nav__phone svg {
+      width: 17px;
+      height: 17px;
+      flex-shrink: 0;
+      stroke: var(--c-gold);
     }
 
     .nav__right {
@@ -276,9 +304,12 @@
     }
 
     .nav__phone {
-      font-size: 14px;
-      font-weight: 500;
-      color: var(--c-gold);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--c-gold-light);
       letter-spacing: 0.02em;
       transition: opacity var(--t);
       white-space: nowrap;
@@ -466,6 +497,62 @@
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23C9A96E' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'/%3E%3C/svg%3E");
       background-size: contain;
       background-repeat: no-repeat;
+    }
+
+    .hero__rating {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 28px;
+      font-size: 15px;
+      color: var(--c-text);
+    }
+    .hero__rating-stars {
+      color: #E8A317;
+      font-size: 17px;
+      letter-spacing: 1px;
+    }
+    .hero__rating:hover { text-decoration: underline; }
+
+    .hero__contact {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 20px;
+    }
+    .hero__contact-item {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 14px 20px 14px 16px;
+      background: var(--c-off-white);
+      border: 1px solid var(--c-gold-border);
+      border-radius: 14px;
+      color: var(--c-text);
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.3;
+      text-align: left;
+      transition: border-color var(--t), background var(--t);
+    }
+    .hero__contact-item:hover {
+      border-color: var(--c-gold);
+      background: var(--c-gold-subtle);
+    }
+    .hero__contact-item svg {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      stroke: var(--c-gold-hover);
+    }
+    .hero__contact-item small {
+      display: block;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--c-muted);
+      margin-bottom: 2px;
     }
 
     .hero__image {
@@ -1456,8 +1543,8 @@
 
     .footer__brand {
       font-family: var(--f-display);
-      font-size: 22px;
-      font-weight: 400;
+      font-size: 26px;
+      font-weight: 600;
       font-style: italic;
       color: var(--c-ivory);
       margin-bottom: 16px;
@@ -1524,7 +1611,14 @@
     .footer__col ul li a:hover { color: var(--c-gold); }
 
     .footer__phone-link {
-      color: var(--c-gold) !important;
+      color: var(--c-gold-light) !important;
+      font-size: 18px;
+      font-weight: 600;
+    }
+    .footer__col ul li.footer__addr {
+      font-size: 15px;
+      font-weight: 400;
+      color: var(--c-ivory);
     }
     .footer__phone-link:hover { opacity: 0.72; }
 
@@ -1553,9 +1647,9 @@
     }
 
     .footer__map-address {
-      font-size: 13px;
-      font-weight: 300;
-      color: rgba(245, 240, 232, 0.55);
+      font-size: 15px;
+      font-weight: 400;
+      color: rgba(245, 240, 232, 0.88);
     }
 
     .footer__map iframe {
@@ -1640,6 +1734,8 @@
       .nav       { padding: 0 32px; }
       .hero      { padding: 64px 32px; }
       .hero__img-card { height: clamp(460px, 54vh, 600px); }
+      .nav__address { font-size: 13px; }
+      .nav__phone   { font-size: 16px; }
 
       .doctor__layout {
         grid-template-columns: 240px 1fr;
@@ -1670,8 +1766,10 @@
         flex-wrap: nowrap;
       }
       .nav__sep, .nav__address { display: none; }
-      .nav__brand  { font-size: 18px; }
-      .nav__phone  { font-size: 13px; }
+      .nav__brand  { font-size: 21px; }
+      .nav__phone  { font-size: 15px; gap: 6px; }
+      .nav__phone svg { width: 15px; height: 15px; }
+      .nav__right  { gap: 14px; }
       .btn         { font-size: 13px; padding: 11px 18px; }
 
       .hero {
@@ -1683,7 +1781,14 @@
       .hero__eyebrow  { justify-content: center; }
       .hero__subtitle { max-width: 100%; }
       .hero__props li { justify-content: center; }
-      .hero__image    { display: none; }
+      .hero__contact  { flex-direction: column; }
+      .hero__contact-item { width: 100%; }
+      .hero__image    { width: 100%; }
+      .hero__image::after { display: none; }
+      .hero__img-card { height: clamp(240px, 62vw, 340px); border-radius: 18px; }
+      .hero__img-card img { object-position: center 35%; }
+      .hero__img-badge { bottom: 14px; left: 12px; padding: 8px 14px 8px 8px; }
+      .hero__badge-icon { width: 34px; height: 34px; }
 
       .conditions__grid { grid-template-columns: repeat(2, 1fr); }
 
@@ -1737,6 +1842,12 @@
     @media (max-width: 600px) {
       :root { --section-pad: 52px; }
       body { font-size: 16px; padding-bottom: 58px; }
+
+      .nav { padding: 10px 14px; }
+      .nav__brand { font-size: 20px; }
+      .nav__right { gap: 10px; }
+      .nav__phone svg { display: none; }
+      .nav .btn--primary { padding: 10px 12px; font-size: 12.5px; letter-spacing: 0.02em; }
 
       .container { padding: 0 20px; }
 
@@ -2043,14 +2154,18 @@
   ═══════════════════════════════════════ -->
   <header class="nav" role="banner">
     <div class="nav__left">
-      <span class="nav__brand">OrthoHub</span>
+      <span class="nav__brand">Ortho<span>Hub</span></span>
       <div class="nav__sep" aria-hidden="true"></div>
       <address class="nav__address" aria-label="Adresă clinică">
-        Calea Călărașilor 179, Sector 3, București
+        <a href="https://maps.google.com/?q=Calea+Calarasilor+179+Sector+3+Bucuresti" target="_blank" rel="noopener noreferrer" aria-label="Deschide în Google Maps: Calea Călărașilor 179, Sector 3, București">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.1-7-11.5a7 7 0 0 1 14 0C19 14.9 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+          Calea Călărașilor 179, Sector 3, București
+        </a>
       </address>
     </div>
     <div class="nav__right">
       <a href="tel:+40729077770" class="nav__phone" aria-label="Sună la clinică: +40 729 077 770">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
         +40 729 077 770
       </a>
       <a
@@ -2072,7 +2187,7 @@
       <div class="hero__content">
         <span class="hero__eyebrow">Tratament PRP · București</span>
         <h1 class="hero__title" id="hero-title">
-          Tratament PRP în București — tratează-ți sursa <em class="hero__title-accent">durerii</em>
+          Întoarce-te la activitatea care îți place, <em class="hero__title-accent">fără operație!</em>
         </h1>
         <p class="hero__subtitle">
           PRP este soluția naturală care regenerează sănătatea articulară și musculară.
@@ -2087,6 +2202,20 @@
           <a href="tel:+40729077770" class="btn btn--primary btn--lg" aria-label="Sună la OrthoHub">Sună acum: +40 729 077 770</a>
           <a href="https://wa.me/40729077770" class="btn btn--secondary btn--lg" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp OrthoHub">WhatsApp</a>
           <a href="https://calendly.com/vadim-brk/30min" class="btn btn--ghost-dark btn--lg" target="_blank" rel="noopener noreferrer" aria-label="Programare online Calendly">Programare online</a>
+        </div>
+        <a href="#recenzii" class="hero__rating" aria-label="Nota 5.0 din 5 pe Google, 175 de recenzii">
+          <span class="hero__rating-stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+          <strong>5.0</strong> · 175 recenzii Google
+        </a>
+        <div class="hero__contact">
+          <a href="tel:+40729077770" class="hero__contact-item" aria-label="Sună la clinică: +40 729 077 770">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+            <span><small>Telefon</small>+40 729 077 770</span>
+          </a>
+          <a href="https://maps.google.com/?q=Calea+Calarasilor+179+Sector+3+Bucuresti" class="hero__contact-item" target="_blank" rel="noopener noreferrer" aria-label="Deschide în Google Maps: Calea Călărașilor 179, Sector 3, București">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.1-7-11.5a7 7 0 0 1 14 0C19 14.9 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+            <span><small>Adresă · vezi pe hartă</small>Calea Călărașilor 179, Sector 3, București</span>
+          </a>
         </div>
       </div>
 
@@ -2315,7 +2444,7 @@
         <div class="testimonials__overall">
           <span class="testimonials__overall-score">5.0</span>
           <span class="testimonials__overall-stars" aria-label="5 stele">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-          <span class="testimonials__overall-count">· 40+ recenzii</span>
+          <span class="testimonials__overall-count">· 175 recenzii</span>
         </div>
       </div>
 
@@ -2738,7 +2867,7 @@
 
         <!-- Brand + description -->
         <div class="footer__col footer__col--brand">
-          <span class="footer__brand">OrthoHub</span>
+          <span class="footer__brand">Ortho<span>Hub</span></span>
           <p class="footer__desc">
             Clinică de ortopedie și medicină regenerativă din București, specializată în tratamente PRP ghidate ecografic. Redăm mobilitatea fără operații, fără pastile — prin resursele naturale ale propriului tău organism.
           </p>
@@ -2750,8 +2879,8 @@
           <h3 class="footer__col-title">Contact &amp; Locație</h3>
           <ul>
             <li>Dr. Vadim Bîrca</li>
-            <li>Calea Călărașilor 179</li>
-            <li>Sector 3, București, România</li>
+            <li class="footer__addr">Calea Călărașilor 179</li>
+            <li class="footer__addr">Sector 3, București, România</li>
             <li><a href="tel:+40729077770" class="footer__phone-link">+40 729 077 770</a></li>
             <li>
               <a href="https://calendly.com/vadim-brk/30min" target="_blank" rel="noopener noreferrer">
