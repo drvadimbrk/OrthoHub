@@ -155,3 +155,26 @@ aside.oh-related { position: static; top: auto; width: auto; float: none; }
   .oh-related a:hover, .oh-btn--gold:hover { transform: none; }
 }
 .oh-footer p.oh-footer__note { max-width: 720px; margin: 14px auto 0; font-size: 0.76rem; line-height: 1.6; color: rgba(245, 240, 232, 0.42); }
+
+/* Imaginea de copertă a articolului (figure.oh-cover), inserată după hero */
+figure.oh-cover {
+  display: block; float: none; position: relative; box-sizing: border-box;
+  width: min(var(--oh-container), calc(100% - 32px)); max-width: none;
+  margin: 32px auto 8px; padding: 0; grid-column: 1 / -1;
+}
+figure.oh-cover img {
+  display: block; width: 100%; height: auto; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  margin: 0; border: 0; border-radius: 6px; box-shadow: 0 10px 30px rgba(17, 17, 17, 0.10); background: #e9e4da;
+}
+figure.oh-cover figcaption {
+  margin: 10px 2px 0; padding: 0; font-family: var(--oh-body); font-size: 0.82rem; line-height: 1.5;
+  color: var(--oh-muted); text-align: left; font-style: normal;
+}
+figure.oh-cover .oh-cover__credit { white-space: nowrap; opacity: 0.8; }
+figure.oh-cover .oh-cover__credit a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+@media (max-width: 620px) {
+  figure.oh-cover { margin-top: 20px; }
+  figure.oh-cover img { border-radius: 4px; }
+  figure.oh-cover .oh-cover__credit { white-space: normal; }
+}
+figure.oh-cover .oh-cover__credit::before { content: "· "; }
