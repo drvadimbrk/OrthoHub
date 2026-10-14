@@ -117,16 +117,19 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Regenerare cartilaj genunchi: ce știm azi](https://orthohub.ro/articole/regenerare-cartilaj-genunchi): Cartilajul din genunchi se poate reface? Ce a arătat noul studiu Stanford din Science, ce nu a arătat și ce tratamente pentru artroză funcționează azi.
 - [Ozempic și artroza genunchiului: ce arată STEP 9](https://orthohub.ro/articole/glp1-ozempic-artroza-genunchi): Semaglutida (GLP-1) și artroza genunchiului: ce a arătat studiul STEP 9 din NEJM, ce nu a arătat, riscul de pierdere musculară și ce face ortopedul.
 - [Stadiile artrozei de genunchi: gradele 1–4 explicate](https://orthohub.ro/articole/stadii-artroza-genunchi): Ce înseamnă gradul 1, 2, 3 sau 4 de artroză pe radiografia de genunchi, de ce imaginea nu spune tot despre durere și ce tratament are sens la fiecare stadiu.
+- [Durere în partea interioară a genunchiului: 5 cauze](https://orthohub.ro/articole/durere-genunchi-interior): Durerea pe interiorul genunchiului vine cel mai des din menisc, din artroză, din bursa anserină sau din ligamentul colateral medial. Cum le deosebești și ce faci.
 
 ### Șold și coapsă
 
 - [Bursită de șold: tratament fără operație](https://orthohub.ro/articole/tendinopatie-gluteala-sold): Durerea pe partea laterală a șoldului, numită des bursită, vine de obicei din tendoanele fesierilor. Ce arată studiile despre exerciții, cortizon și PRP.
+- [Durerea de șold: cauze după locul în care doare](https://orthohub.ro/articole/durere-sold-cauze): Durerea de șold are cauze diferite în față, în lateral și în spate: artroză, tendoane fesiere, coloană sau nervi. Harta după locul durerii și ce investigații ajută.
 
 ### Umăr
 
 - [Durere de umăr: ce faci și când mergi la ortoped](https://orthohub.ro/articole/durere-umar-cand-mergi-la-ortoped): Durere de umăr: ce faci în primele zile, regula celor 6 săptămâni, semnele care nu suportă amânare și ce arată ecografia. Ghid de la Dr. Vadim Bîrca, ortoped.
 - [Umăr înghețat (capsulită adezivă): tratament](https://orthohub.ro/articole/umar-inghetat): Umăr înghețat sau capsulită adezivă: de ce se blochează umărul, legătura cu diabetul și ce arată studiile despre infiltrații, kinetoterapie și operație.
 - [Tendinita calcară a umărului: barbotaj sau unde de șoc](https://orthohub.ro/articole/tendinita-calcara-umar): Calcificarea din tendonul umărului poate durea foarte tare, dar de multe ori se resoarbe singură. Ce arată studiile despre barbotajul ecoghidat și undele de șoc.
+- [Bursita de umăr: cauze, tratament și ce nu ajută](https://orthohub.ro/articole/bursita-umar): Bursita de umăr merge aproape mereu cu suferința tendoanelor coafei rotatorilor. Ce tratament ajută și ce arată studiile despre operația de decompresie.
 
 ### Cot
 
@@ -145,12 +148,14 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Tendinita ahiliană: tratament și exerciții](https://orthohub.ro/articole/tendinopatie-ahiliana): Tendinopatia ahiliană: de ce doare tendonul dimineața, ce exerciții funcționează, ce arată studiile despre PRP și cortizon și când e urgență. Dr. Vadim Bîrca.
 - [Entorsă de gleznă: tratament și recuperare](https://orthohub.ro/articole/entorsa-glezna): Entorsa de gleznă: când ai nevoie de radiografie (regulile Ottawa), cum se tratează, cât contează exercițiile și cum previi recidiva și instabilitatea cronică.
 - [Pintenul calcanear: ce înseamnă și ce tratament ajută](https://orthohub.ro/articole/pinten-calcanear): Pintenul calcanear apare des pe radiografie, dar tratamentul se adresează fasciei plantare, nu osului. Ce arată studiile și ce exerciții reduc durerea din călcâi.
+- [Hallux valgus (monturi): ce ajută și când operezi](https://orthohub.ro/articole/hallux-valgus): Hallux valgus (montul de la degetul mare) apare la aproape un sfert dintre adulți. Ce ajută fără operație, ce arată studiile despre orteze și când are sens operația.
 
 ### Coloană și oase
 
 - [Durere lombară: ce faci și când mergi la medic](https://orthohub.ro/articole/durere-lombara-cand-mergi-la-medic): Majoritatea durerilor lombare trec în câteva săptămâni. Semnele de alarmă, ce faci singur, când e util un RMN și când mergi la medic, explicate de un ortoped.
 - [Osteoporoză: fractura după 50 de ani ca semnal](https://orthohub.ro/articole/osteoporoza-fractura-de-fragilitate): Osteoporoza nu doare până la prima fractură. Ce înseamnă o fractură de fragilitate după 50 de ani, cum se citește T-score-ul DEXA și ce face ortopedul.
 - [Hernia de disc lombară: trece singură sau se operează?](https://orthohub.ro/articole/hernie-de-disc-lombara): Hernia de disc lombară se retrage adesea singură în câteva luni. Ce arată studiile despre operație și tratament conservator și semnele care cer intervenție urgentă.
+- [Sciatica: cauze, cât durează și ce tratament ajută](https://orthohub.ro/articole/sciatica): Sciatica e durerea care coboară pe fesă și pe picior, de obicei de la un nerv iritat în coloana lombară. Cauze, cât durează, ce medicamente ajută și când faci RMN.
 
 ### Mișcare, forță și prevenție
 
