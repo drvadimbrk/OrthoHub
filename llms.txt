@@ -116,6 +116,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Chist Baker: cauze, diagnostic și tratament](https://orthohub.ro/articole/chist-baker): Chistul Baker apare de obicei din cauza unei probleme din genunchi: artroză, menisc, lichid. Cum se vede la ecografie, când e urgență și ce tratamente există.
 - [Regenerare cartilaj genunchi: ce știm azi](https://orthohub.ro/articole/regenerare-cartilaj-genunchi): Cartilajul din genunchi se poate reface? Ce a arătat noul studiu Stanford din Science, ce nu a arătat și ce tratamente pentru artroză funcționează azi.
 - [Ozempic și artroza genunchiului: ce arată STEP 9](https://orthohub.ro/articole/glp1-ozempic-artroza-genunchi): Semaglutida (GLP-1) și artroza genunchiului: ce a arătat studiul STEP 9 din NEJM, ce nu a arătat, riscul de pierdere musculară și ce face ortopedul.
+- [Stadiile artrozei de genunchi: gradele 1–4 explicate](https://orthohub.ro/articole/stadii-artroza-genunchi): Ce înseamnă gradul 1, 2, 3 sau 4 de artroză pe radiografia de genunchi, de ce imaginea nu spune tot despre durere și ce tratament are sens la fiecare stadiu.
 
 ### Șold și coapsă
 
@@ -125,6 +126,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 
 - [Durere de umăr: ce faci și când mergi la ortoped](https://orthohub.ro/articole/durere-umar-cand-mergi-la-ortoped): Durere de umăr: ce faci în primele zile, regula celor 6 săptămâni, semnele care nu suportă amânare și ce arată ecografia. Ghid de la Dr. Vadim Bîrca, ortoped.
 - [Umăr înghețat (capsulită adezivă): tratament](https://orthohub.ro/articole/umar-inghetat): Umăr înghețat sau capsulită adezivă: de ce se blochează umărul, legătura cu diabetul și ce arată studiile despre infiltrații, kinetoterapie și operație.
+- [Tendinita calcară a umărului: barbotaj sau unde de șoc](https://orthohub.ro/articole/tendinita-calcara-umar): Calcificarea din tendonul umărului poate durea foarte tare, dar de multe ori se resoarbe singură. Ce arată studiile despre barbotajul ecoghidat și undele de șoc.
 
 ### Cot
 
@@ -142,11 +144,13 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fasciita plantară: tratament, exerciții și PRP](https://orthohub.ro/articole/fasciita-plantara-prp): Fasciita plantară și pintenul calcanean: de ce doare călcâiul la primii pași, ce exerciții ajută și când are sens infiltrația PRP ecoghidată. Dr. Vadim Bîrca.
 - [Tendinita ahiliană: tratament și exerciții](https://orthohub.ro/articole/tendinopatie-ahiliana): Tendinopatia ahiliană: de ce doare tendonul dimineața, ce exerciții funcționează, ce arată studiile despre PRP și cortizon și când e urgență. Dr. Vadim Bîrca.
 - [Entorsă de gleznă: tratament și recuperare](https://orthohub.ro/articole/entorsa-glezna): Entorsa de gleznă: când ai nevoie de radiografie (regulile Ottawa), cum se tratează, cât contează exercițiile și cum previi recidiva și instabilitatea cronică.
+- [Pintenul calcanear: ce înseamnă și ce tratament ajută](https://orthohub.ro/articole/pinten-calcanear): Pintenul calcanear apare des pe radiografie, dar tratamentul se adresează fasciei plantare, nu osului. Ce arată studiile și ce exerciții reduc durerea din călcâi.
 
 ### Coloană și oase
 
 - [Durere lombară: ce faci și când mergi la medic](https://orthohub.ro/articole/durere-lombara-cand-mergi-la-medic): Majoritatea durerilor lombare trec în câteva săptămâni. Semnele de alarmă, ce faci singur, când e util un RMN și când mergi la medic, explicate de un ortoped.
 - [Osteoporoză: fractura după 50 de ani ca semnal](https://orthohub.ro/articole/osteoporoza-fractura-de-fragilitate): Osteoporoza nu doare până la prima fractură. Ce înseamnă o fractură de fragilitate după 50 de ani, cum se citește T-score-ul DEXA și ce face ortopedul.
+- [Hernia de disc lombară: trece singură sau se operează?](https://orthohub.ro/articole/hernie-de-disc-lombara): Hernia de disc lombară se retrage adesea singură în câteva luni. Ce arată studiile despre operație și tratament conservator și semnele care cer intervenție urgentă.
 
 ### Mișcare, forță și prevenție
 
@@ -156,6 +160,10 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Mers cu dureri de genunchi: pași sau ritm?](https://orthohub.ro/articole/mers-pasi-pe-zi-dureri-genunchi): Câți pași pe zi și în ce ritm merită să mergi când te dor genunchii sau șoldul. Ce arată cel mai nou studiu din BJSM și cum îl adaptezi articulațiilor.
 - [Alergarea strică genunchii? Ce arată studiile](https://orthohub.ro/articole/alergare-genunchi): Alergarea strică genunchii? O meta-analiză pe peste 100.000 de oameni arată altceva. Când alergarea e un risc, ce dureri sunt semnal de oprire și cum previi.
 - [Leziuni la padel: cot, umăr, genunchi, gleznă](https://orthohub.ro/articole/leziuni-padel): Leziuni la padel: cât de des apar, ce zone sunt afectate (cot, gleznă, genunchi, umăr), ce factori cresc riscul și când mergi la ortoped. Ghid de la Dr. Bîrca.
+
+### Artrite, gută și boli inflamatorii
+
+- [Atacul de gută: ce faci în primele 24 de ore](https://orthohub.ro/articole/atac-de-guta): Atacul de gută începe brusc, de obicei noaptea, la degetul mare. Ce faci în primele ore, ce tratamente au aceeași eficiență și cum previi următorul atac.
 
 ### In English
 
