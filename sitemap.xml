@@ -17,7 +17,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles (80) ── -->
+  <!-- ── Articles (85) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
     <lastmod>2026-10-13</lastmod>
@@ -734,6 +734,51 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://orthohub.ro/articole/foto/durere-ceafa-dimineata-femeie-pat.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/genunchi-umflat</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/genunchi-umflat-lichid-articular.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/bursita-anserina</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/examinare-genunchi-interior.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/metatarsalgie</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/metatarsalgie-pantofi-cu-toc.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/stenoza-canal-lombar</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/stenoza-lombara-varstnici-plimbare.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/acid-uric-mare</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/analiza-sange-acid-uric-laborator.webp</image:loc>
     </image:image>
   </url>
 </urlset>
