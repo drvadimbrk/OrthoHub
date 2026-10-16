@@ -104,6 +104,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Artroză sau artrită: diferențe și ce medic alegi](https://orthohub.ro/articole/artroza-sau-artrita): Artroză sau artrită? Cum deosebești uzura articulației de bolile inflamatorii, ce tratează ortopedul, ce tratează reumatologul și când nu mai aștepți.
 - [Dureri articulare la menopauză: cauze și ce ajută](https://orthohub.ro/articole/menopauza-dureri-articulare): De ce apar durerile articulare la menopauză, ce este sindromul musculo-scheletal al menopauzei, ce ajută realist și când mergi la ortoped sau la reumatolog.
 - [Suplimente pentru articulații: ce arată studiile](https://orthohub.ro/articole/suplimente-articulatii): Colagen, glucozamină, condroitină: ce arată studiile despre suplimentele pentru articulații, ce spun ghidurile și când banii merg mai bine în altă parte.
+- [Ecografie sau RMN: ce investigație îți trebuie](https://orthohub.ro/articole/ecografie-sau-rmn): Ecografie, RMN sau radiografie? Ce vede fiecare, de ce ecografia arată tendonul în mișcare, când RMN-ul e obligatoriu și de ce la artroză începi cu radiografia.
 
 ### Genunchi
 
@@ -118,6 +119,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Ozempic și artroza genunchiului: ce arată STEP 9](https://orthohub.ro/articole/glp1-ozempic-artroza-genunchi): Semaglutida (GLP-1) și artroza genunchiului: ce a arătat studiul STEP 9 din NEJM, ce nu a arătat, riscul de pierdere musculară și ce face ortopedul.
 - [Stadiile artrozei de genunchi: gradele 1–4 explicate](https://orthohub.ro/articole/stadii-artroza-genunchi): Ce înseamnă gradul 1, 2, 3 sau 4 de artroză pe radiografia de genunchi, de ce imaginea nu spune tot despre durere și ce tratament are sens la fiecare stadiu.
 - [Durere în partea interioară a genunchiului: 5 cauze](https://orthohub.ro/articole/durere-genunchi-interior): Durerea pe interiorul genunchiului vine cel mai des din menisc, din artroză, din bursa anserină sau din ligamentul colateral medial. Cum le deosebești și ce faci.
+- [Durere în partea exterioară a genunchiului](https://orthohub.ro/articole/durere-genunchi-exterior): Durerea pe exteriorul genunchiului vine des din banda iliotibială la alergători, din meniscul lateral sau din artroză. Cum le deosebesc și ce tratament ajută.
 
 ### Șold și coapsă
 
@@ -130,6 +132,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Umăr înghețat (capsulită adezivă): tratament](https://orthohub.ro/articole/umar-inghetat): Umăr înghețat sau capsulită adezivă: de ce se blochează umărul, legătura cu diabetul și ce arată studiile despre infiltrații, kinetoterapie și operație.
 - [Tendinita calcară a umărului: barbotaj sau unde de șoc](https://orthohub.ro/articole/tendinita-calcara-umar): Calcificarea din tendonul umărului poate durea foarte tare, dar de multe ori se resoarbe singură. Ce arată studiile despre barbotajul ecoghidat și undele de șoc.
 - [Bursita de umăr: cauze, tratament și ce nu ajută](https://orthohub.ro/articole/bursita-umar): Bursita de umăr merge aproape mereu cu suferința tendoanelor coafei rotatorilor. Ce tratament ajută și ce arată studiile despre operația de decompresie.
+- [Ruptura de coafă rotatorie: operație sau nu](https://orthohub.ro/articole/ruptura-coafa-rotatori): Ruptura completă de coafă rotatorie nu înseamnă mereu operație. Ce arată studiile despre tratamentul conservator, cine are nevoie de sutură și când.
 
 ### Cot
 
@@ -149,6 +152,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Entorsă de gleznă: tratament și recuperare](https://orthohub.ro/articole/entorsa-glezna): Entorsa de gleznă: când ai nevoie de radiografie (regulile Ottawa), cum se tratează, cât contează exercițiile și cum previi recidiva și instabilitatea cronică.
 - [Pintenul calcanear: ce înseamnă și ce tratament ajută](https://orthohub.ro/articole/pinten-calcanear): Pintenul calcanear apare des pe radiografie, dar tratamentul se adresează fasciei plantare, nu osului. Ce arată studiile și ce exerciții reduc durerea din călcâi.
 - [Hallux valgus (monturi): ce ajută și când operezi](https://orthohub.ro/articole/hallux-valgus): Hallux valgus (montul de la degetul mare) apare la aproape un sfert dintre adulți. Ce ajută fără operație, ce arată studiile despre orteze și când are sens operația.
+- [Neuromul Morton: arsura dintre degete](https://orthohub.ro/articole/neuroma-morton): Neuromul Morton dă arsură și amorțeală între degetele 3 și 4, ca o pietricică în pantof. Cum se vede pe ecografie și ce ajută, de la încălțăminte la infiltrații.
 
 ### Coloană și oase
 
@@ -156,6 +160,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Osteoporoză: fractura după 50 de ani ca semnal](https://orthohub.ro/articole/osteoporoza-fractura-de-fragilitate): Osteoporoza nu doare până la prima fractură. Ce înseamnă o fractură de fragilitate după 50 de ani, cum se citește T-score-ul DEXA și ce face ortopedul.
 - [Hernia de disc lombară: trece singură sau se operează?](https://orthohub.ro/articole/hernie-de-disc-lombara): Hernia de disc lombară se retrage adesea singură în câteva luni. Ce arată studiile despre operație și tratament conservator și semnele care cer intervenție urgentă.
 - [Sciatica: cauze, cât durează și ce tratament ajută](https://orthohub.ro/articole/sciatica): Sciatica e durerea care coboară pe fesă și pe picior, de obicei de la un nerv iritat în coloana lombară. Cauze, cât durează, ce medicamente ajută și când faci RMN.
+- [Hernia de disc cervicală: durerea din gât în braț](https://orthohub.ro/articole/hernie-de-disc-cervicala): Hernia de disc cervicală dă durere din gât care coboară în braț, cu amorțeli în degete. Cum o deosebești de tunelul carpian, cum evoluează și când se operează.
 
 ### Mișcare, forță și prevenție
 
