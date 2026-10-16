@@ -126,6 +126,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Condromalacie rotuliană: ce înseamnă pe RMN](https://orthohub.ro/articole/condromalacie-rotuliana): Condromalacia rotuliană descrie cartilajul înmuiat din spatele rotulei. Ce înseamnă gradele de pe RMN, de ce nu explică singure durerea și ce faci concret.
 - [Entorsa de genunchi: ligamentul colateral medial](https://orthohub.ro/articole/leziune-ligament-colateral-medial): Leziunea de ligament colateral medial al genunchiului: gradele I-III, orteza articulată și de ce majoritatea se recuperează fără operație, cu plan clar.
 - [Proteza de genunchi: cum știi că a venit momentul](https://orthohub.ro/articole/proteza-genunchi): Criteriile reale pentru proteza de genunchi: durere, funcție și eșecul tratamentelor conservatoare, mai mult decât radiografia. Ce poți încerca înainte.
+- [Bursita prepatelară: genunchiul umflat în față](https://orthohub.ro/articole/bursita-prepatelara): Bursita prepatelară umflă genunchiul în față, după îngenunchieri repetate. Cum deosebești bursita septică de cea aseptică și când se aspiră lichidul.
 
 ### Șold și coapsă
 
@@ -134,6 +135,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere inghinală: șold, hernie sau altceva?](https://orthohub.ro/articole/durere-inghinala): Durerea inghinală poate veni din șold, din mușchii adductori, dintr-o hernie sau din coloană. Cum le deosebești, ce investigații ajută și când mergi la urgențe.
 - [Impingement femuroacetabular: șoldul la tineri](https://orthohub.ro/articole/impingement-femuroacetabular): Impingementul femuroacetabular dă durere în pliul inghinal la tineri activi. Ce înseamnă cam și pincer, legătura cu labrumul și ce arată studiile despre operație.
 - [Necroza capului femural: semnele timpurii](https://orthohub.ro/articole/necroza-cap-femural): Necroza aseptică a capului femural începe cu durere în zona inghinală și radiografie normală. Cine e la risc, de ce contează RMN-ul precoce și ce salvează șoldul.
+- [Fractura de șold la vârstnici: primele 48 de ore](https://orthohub.ro/articole/fractura-sold-varstnici): Fractura de șold la vârstnici se operează repede, ideal în primele 48 de ore. De ce contează timpul, ce operație se face și cum previi următoarea cădere.
 
 ### Umăr
 
@@ -146,6 +148,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere de umăr noaptea: cauze și cum dormi](https://orthohub.ro/articole/durere-umar-noaptea): De ce te doare umărul noaptea: coafa rotatorilor, bursita, capsulita, calcificarea. Ce poziții de somn ajută, ce tratament și când mergi repede la medic.
 - [Tendinita bicepsului: durere în fața umărului](https://orthohub.ro/articole/tendinita-biceps): Tendinita bicepsului lung dă durere în fața umărului și apare rar singură. Cum o recunoști, ce arată ecografia dinamică și când ajută infiltrația sau operația.
 - [Luxația de umăr: tratament și risc de recidivă](https://orthohub.ro/articole/luxatie-umar): Ce faci după prima luxație de umăr, cât ții brațul în eșarfă, cât de des revine după vârstă și când are sens stabilizarea chirurgicală. Ce arată studiile.
+- [Artroza umărului: simptome, infiltrații, proteză](https://orthohub.ro/articole/artroza-umar): Artroza umărului dă durere și rigiditate în toate direcțiile, nu numai la ridicarea brațului. Cum o deosebești de tendinită, ce ajută și când se pune proteză.
 
 ### Cot
 
@@ -163,6 +166,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fractura de încheietură: gips sau operație?](https://orthohub.ro/articole/fractura-incheietura): Fractura de radius distal (Pouteau-Colles): când ajunge gipsul, când e nevoie de operație, ce arată studiile la vârstnici și de ce contează osteoporoza.
 - [Artroza degetelor: nodulii și ce ajută](https://orthohub.ro/articole/artroza-degete): Nodulii Heberden și Bouchard de pe degete sunt semnul artrozei mâinii. Ce e artroza erozivă, cum o deosebești de artrita reumatoidă și ce tratamente ajută.
 - [Boala Dupuytren: degetele care nu se mai întind](https://orthohub.ro/articole/contractura-dupuytren): Boala Dupuytren trage treptat inelarul și degetul mic spre palmă. Testul mesei îți arată când e momentul tratamentului: ac, colagenază sau operație, și cât revine.
+- [Tendinita la încheietura mâinii: care tendon](https://orthohub.ro/articole/tendinita-incheietura): Durerea de încheietură are mai multe fețe: De Quervain, ECU, intersecție sau FCR. Cum le deosebesc la ecografie, ce face orteza și când ajută infiltrația ecoghidată.
 
 ### Picior și gleznă
 
@@ -215,6 +219,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 ### PRP, infiltrații și terapii regenerative
 
 - [După infiltrația cu PRP: zilele și săptămânile](https://orthohub.ro/articole/prp-dupa-infiltratie): După o infiltrație cu PRP, o ușoară creștere a durerii pentru câteva zile e obișnuită. Ce faci cu gheața, antiinflamatoarele, efortul și când suni medicul.
+- [De ce te doare după o infiltrație și cât e normal](https://orthohub.ro/articole/durere-dupa-infiltratie): Te doare mai tare la o zi după infiltrație? Afli de ce apare reacția, cât durează după cortizon, PRP sau acid hialuronic și ce semne înseamnă infecție.
 
 ### In English
 
