@@ -132,6 +132,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durerea de șold: cauze după locul în care doare](https://orthohub.ro/articole/durere-sold-cauze): Durerea de șold are cauze diferite în față, în lateral și în spate: artroză, tendoane fesiere, coloană sau nervi. Harta după locul durerii și ce investigații ajută.
 - [Durere inghinală: șold, hernie sau altceva?](https://orthohub.ro/articole/durere-inghinala): Durerea inghinală poate veni din șold, din mușchii adductori, dintr-o hernie sau din coloană. Cum le deosebești, ce investigații ajută și când mergi la urgențe.
 - [Impingement femuroacetabular: șoldul la tineri](https://orthohub.ro/articole/impingement-femuroacetabular): Impingementul femuroacetabular dă durere în pliul inghinal la tineri activi. Ce înseamnă cam și pincer, legătura cu labrumul și ce arată studiile despre operație.
+- [Necroza capului femural: semnele timpurii](https://orthohub.ro/articole/necroza-cap-femural): Necroza aseptică a capului femural începe cu durere în zona inghinală și radiografie normală. Cine e la risc, de ce contează RMN-ul precoce și ce salvează șoldul.
 
 ### Umăr
 
@@ -142,6 +143,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Ruptura de coafă rotatorie: operație sau nu](https://orthohub.ro/articole/ruptura-coafa-rotatori): Ruptura completă de coafă rotatorie nu înseamnă mereu operație. Ce arată studiile despre tratamentul conservator, cine are nevoie de sutură și când.
 - [Impingement la umăr: teste și exerciții](https://orthohub.ro/articole/impingement-umar): Sindromul de impingement al umărului: ce înseamnă azi termenul, cât de precise sunt testele clinice și ce program de exerciții a redus nevoia de operație.
 - [Durere de umăr noaptea: cauze și cum dormi](https://orthohub.ro/articole/durere-umar-noaptea): De ce te doare umărul noaptea: coafa rotatorilor, bursita, capsulita, calcificarea. Ce poziții de somn ajută, ce tratament și când mergi repede la medic.
+- [Tendinita bicepsului: durere în fața umărului](https://orthohub.ro/articole/tendinita-biceps): Tendinita bicepsului lung dă durere în fața umărului și apare rar singură. Cum o recunoști, ce arată ecografia dinamică și când ajută infiltrația sau operația.
 
 ### Cot
 
@@ -158,6 +160,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Chist sinovial la încheietură: ce faci cu el](https://orthohub.ro/articole/chist-sinovial-incheietura): Chistul sinovial de la încheietură dispare des singur. Ce arată studiile despre aspirație, operație și recidive, când ajută ecografia și ce semne cer control.
 - [Fractura de încheietură: gips sau operație?](https://orthohub.ro/articole/fractura-incheietura): Fractura de radius distal (Pouteau-Colles): când ajunge gipsul, când e nevoie de operație, ce arată studiile la vârstnici și de ce contează osteoporoza.
 - [Artroza degetelor: nodulii și ce ajută](https://orthohub.ro/articole/artroza-degete): Nodulii Heberden și Bouchard de pe degete sunt semnul artrozei mâinii. Ce e artroza erozivă, cum o deosebești de artrita reumatoidă și ce tratamente ajută.
+- [Boala Dupuytren: degetele care nu se mai întind](https://orthohub.ro/articole/contractura-dupuytren): Boala Dupuytren trage treptat inelarul și degetul mic spre palmă. Testul mesei îți arată când e momentul tratamentului: ac, colagenază sau operație, și cât revine.
 
 ### Picior și gleznă
 
@@ -199,6 +202,14 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Spondilită anchilozantă: diagnostic și tratament](https://orthohub.ro/articole/spondilita-anchilozanta): Spondilita anchilozantă dă durere de spate în repaus și readoare dimineața, iar mișcarea o ameliorează. Simptomele, rolul HLA-B27 și tratamentul.
 - [Artrita reumatoidă: primele semne](https://orthohub.ro/articole/artrita-reumatoida-semne): Primele semne de artrită reumatoidă: umflături simetrice la mâini, redoare de peste o oră dimineața. De ce contează primele 12 săptămâni și ce arată anti-CCP.
 - [Fibromialgia: diagnostic, exercițiu și ce nu ajută](https://orthohub.ro/articole/fibromialgie): Fibromialgia e o durere difuză reală, cu analize normale. Cum se pune diagnosticul, de ce exercițiul gradat e primul tratament și de ce opioidele nu ajută.
+
+### Sport și leziuni sportive
+
+- [Pubalgia la sportivi: durerea inghinală](https://orthohub.ro/articole/pubalgie): Pubalgia e durerea din zona inghinală a sportivului. Clasificarea Doha o împarte pe cauze, exercițiile Copenhagen ajută, iar revenirea se face în pași.
+
+### PRP, infiltrații și terapii regenerative
+
+- [După infiltrația cu PRP: zilele și săptămânile](https://orthohub.ro/articole/prp-dupa-infiltratie): După o infiltrație cu PRP, o ușoară creștere a durerii pentru câteva zile e obișnuită. Ce faci cu gheața, antiinflamatoarele, efortul și când suni medicul.
 
 ### In English
 
