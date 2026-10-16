@@ -124,6 +124,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Bursită anserină: durerea de sub genunchi](https://orthohub.ro/articole/bursita-anserina): Bursita anserină dă durere pe partea interioară a genunchiului, sub el, mai ales la urcat scări. De ce apare, ce se vede la ecografie și ce ajută cu adevărat.
 - [Condromalacie rotuliană: ce înseamnă pe RMN](https://orthohub.ro/articole/condromalacie-rotuliana): Condromalacia rotuliană descrie cartilajul înmuiat din spatele rotulei. Ce înseamnă gradele de pe RMN, de ce nu explică singure durerea și ce faci concret.
 - [Entorsa de genunchi: ligamentul colateral medial](https://orthohub.ro/articole/leziune-ligament-colateral-medial): Leziunea de ligament colateral medial al genunchiului: gradele I-III, orteza articulată și de ce majoritatea se recuperează fără operație, cu plan clar.
+- [Proteza de genunchi: cum știi că a venit momentul](https://orthohub.ro/articole/proteza-genunchi): Criteriile reale pentru proteza de genunchi: durere, funcție și eșecul tratamentelor conservatoare, mai mult decât radiografia. Ce poți încerca înainte.
 
 ### Șold și coapsă
 
@@ -147,6 +148,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Epicondilită: tratamentul cotului tenismenului](https://orthohub.ro/articole/epicondilita-laterala-prp): Epicondilita laterală (cotul tenismenului): cât durează, de ce cortizonul poate da recidive și ce arată studiile despre PRP ecoghidat. Dr. Vadim Bîrca, ortoped.
 - [Epicondilită medială (cotul golfistului)](https://orthohub.ro/articole/epicondilita-mediala): Epicondilita medială (cotul golfistului): durere pe interiorul cotului, cum o deosebești de nervul ulnar, ce tratament are dovezi și când e nevoie de operație.
 - [Sindromul de tunel cubital: degetul mic amorțit](https://orthohub.ro/articole/sindrom-tunel-cubital): Amorțeala degetului mic și a inelarului vine des de la nervul ulnar prins la cot. Rolul poziției cotului în somn, ce arată EMG și ecografia, când se operează.
+- [Bursita de cot: umflătura de pe vârful cotului](https://orthohub.ro/articole/bursita-cot): Bursita de cot e umflătura moale de pe vârful cotului. Cum deosebești forma simplă de cea infectată sau de gută, când se puncționează și de ce nu operăm din prima.
 
 ### Mână și încheietură
 
@@ -168,6 +170,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere sub talpă în față: metatarsalgia](https://orthohub.ro/articole/metatarsalgie): Metatarsalgia e durerea din fața tălpii, sub degete, ca un pietriș în pantof. De unde vine, cum o deosebim de neuromul Morton și de fractura de stres, ce ajută.
 - [Fractura de stres la picior: semne și revenire](https://orthohub.ro/articole/fractura-de-stres): Fractura de stres la picior: durerea care crește cu fiecare kilometru, locurile cu risc, de ce radiografia iese des normală și cum revii la alergare.
 - [Ruptura tendonului lui Ahile: operație sau ortoză](https://orthohub.ro/articole/ruptura-tendon-ahile): Ruptura tendonului lui Ahile: cum se pune diagnosticul, ce arată testul Thompson, ce spun studiile despre operație versus ortoză și când revii la sport.
+- [Gleznă instabilă după entorse repetate](https://orthohub.ro/articole/instabilitate-glezna): Glezna care se tot sucește are de obicei un control slab, nu doar un ligament slăbit. Ce arată studiile despre exercițiile de echilibru, orteză și operație.
 
 ### Coloană și oase
 
@@ -178,6 +181,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Hernia de disc cervicală: durerea din gât în braț](https://orthohub.ro/articole/hernie-de-disc-cervicala): Hernia de disc cervicală dă durere din gât care coboară în braț, cu amorțeli în degete. Cum o deosebești de tunelul carpian, cum evoluează și când se operează.
 - [Stenoza de canal lombar și durerea la mers](https://orthohub.ro/articole/stenoza-canal-lombar): Stenoza de canal lombar dă durere și greutate în picioare la mers, care trec când stai jos. Cum o deosebim de circulație și ce ajută: exerciții sau operație.
 - [Durerea sacroiliacă: de ce doare jos, pe o parte](https://orthohub.ro/articole/durere-sacroiliaca): Durerea sacroiliacă stă jos, la baza spatelui, pe o parte. Cum o deosebești de sciatică, ce teste ajută, infiltrația diagnostică și ce urmează după sarcină.
+- [Durere de gât: cauze, exerciții și semne de alarmă](https://orthohub.ro/articole/durere-cervicala): Durerea de gât are de obicei cauze mecanice și o evoluție bună. Ce spun studiile despre postură și telefon, ce exerciții ajută, când faci RMN.
 
 ### Mișcare, forță și prevenție
 
@@ -194,6 +198,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Acid uric mare: când devine o problemă](https://orthohub.ro/articole/acid-uric-mare): Acidul uric mare apare des întâmplător, la o analiză de rutină. Afli când devine o problemă pentru articulații, care e ținta de tratament și ce îl crește.
 - [Spondilită anchilozantă: diagnostic și tratament](https://orthohub.ro/articole/spondilita-anchilozanta): Spondilita anchilozantă dă durere de spate în repaus și readoare dimineața, iar mișcarea o ameliorează. Simptomele, rolul HLA-B27 și tratamentul.
 - [Artrita reumatoidă: primele semne](https://orthohub.ro/articole/artrita-reumatoida-semne): Primele semne de artrită reumatoidă: umflături simetrice la mâini, redoare de peste o oră dimineața. De ce contează primele 12 săptămâni și ce arată anti-CCP.
+- [Fibromialgia: diagnostic, exercițiu și ce nu ajută](https://orthohub.ro/articole/fibromialgie): Fibromialgia e o durere difuză reală, cu analize normale. Cum se pune diagnosticul, de ce exercițiul gradat e primul tratament și de ce opioidele nu ajută.
 
 ### In English
 
