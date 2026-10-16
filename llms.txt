@@ -123,12 +123,14 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Genunchi umflat fără lovitură: cauze și ce faci](https://orthohub.ro/articole/genunchi-umflat): Genunchiul s-a umflat fără lovitură? Lichidul poate veni din artroză, cristale, o artrită sau, rar, o infecție. Cum aflăm cauza și când te grăbești la medic.
 - [Bursită anserină: durerea de sub genunchi](https://orthohub.ro/articole/bursita-anserina): Bursita anserină dă durere pe partea interioară a genunchiului, sub el, mai ales la urcat scări. De ce apare, ce se vede la ecografie și ce ajută cu adevărat.
 - [Condromalacie rotuliană: ce înseamnă pe RMN](https://orthohub.ro/articole/condromalacie-rotuliana): Condromalacia rotuliană descrie cartilajul înmuiat din spatele rotulei. Ce înseamnă gradele de pe RMN, de ce nu explică singure durerea și ce faci concret.
+- [Entorsa de genunchi: ligamentul colateral medial](https://orthohub.ro/articole/leziune-ligament-colateral-medial): Leziunea de ligament colateral medial al genunchiului: gradele I-III, orteza articulată și de ce majoritatea se recuperează fără operație, cu plan clar.
 
 ### Șold și coapsă
 
 - [Bursită de șold: tratament fără operație](https://orthohub.ro/articole/tendinopatie-gluteala-sold): Durerea pe partea laterală a șoldului, numită des bursită, vine de obicei din tendoanele fesierilor. Ce arată studiile despre exerciții, cortizon și PRP.
 - [Durerea de șold: cauze după locul în care doare](https://orthohub.ro/articole/durere-sold-cauze): Durerea de șold are cauze diferite în față, în lateral și în spate: artroză, tendoane fesiere, coloană sau nervi. Harta după locul durerii și ce investigații ajută.
 - [Durere inghinală: șold, hernie sau altceva?](https://orthohub.ro/articole/durere-inghinala): Durerea inghinală poate veni din șold, din mușchii adductori, dintr-o hernie sau din coloană. Cum le deosebești, ce investigații ajută și când mergi la urgențe.
+- [Impingement femuroacetabular: șoldul la tineri](https://orthohub.ro/articole/impingement-femuroacetabular): Impingementul femuroacetabular dă durere în pliul inghinal la tineri activi. Ce înseamnă cam și pincer, legătura cu labrumul și ce arată studiile despre operație.
 
 ### Umăr
 
@@ -144,6 +146,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 
 - [Epicondilită: tratamentul cotului tenismenului](https://orthohub.ro/articole/epicondilita-laterala-prp): Epicondilita laterală (cotul tenismenului): cât durează, de ce cortizonul poate da recidive și ce arată studiile despre PRP ecoghidat. Dr. Vadim Bîrca, ortoped.
 - [Epicondilită medială (cotul golfistului)](https://orthohub.ro/articole/epicondilita-mediala): Epicondilita medială (cotul golfistului): durere pe interiorul cotului, cum o deosebești de nervul ulnar, ce tratament are dovezi și când e nevoie de operație.
+- [Sindromul de tunel cubital: degetul mic amorțit](https://orthohub.ro/articole/sindrom-tunel-cubital): Amorțeala degetului mic și a inelarului vine des de la nervul ulnar prins la cot. Rolul poziției cotului în somn, ce arată EMG și ecografia, când se operează.
 
 ### Mână și încheietură
 
@@ -152,6 +155,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Deget în resort: cauze, infiltrație, operație](https://orthohub.ro/articole/deget-in-resort): Degetul în resort (deget care se blochează): de ce apare, ce legătură are cu diabetul, cât de des ajută infiltrația și când discutăm operația. Dr. Vadim Bîrca.
 - [Chist sinovial la încheietură: ce faci cu el](https://orthohub.ro/articole/chist-sinovial-incheietura): Chistul sinovial de la încheietură dispare des singur. Ce arată studiile despre aspirație, operație și recidive, când ajută ecografia și ce semne cer control.
 - [Fractura de încheietură: gips sau operație?](https://orthohub.ro/articole/fractura-incheietura): Fractura de radius distal (Pouteau-Colles): când ajunge gipsul, când e nevoie de operație, ce arată studiile la vârstnici și de ce contează osteoporoza.
+- [Artroza degetelor: nodulii și ce ajută](https://orthohub.ro/articole/artroza-degete): Nodulii Heberden și Bouchard de pe degete sunt semnul artrozei mâinii. Ce e artroza erozivă, cum o deosebești de artrita reumatoidă și ce tratamente ajută.
 
 ### Picior și gleznă
 
@@ -189,6 +193,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Atacul de gută: ce faci în primele 24 de ore](https://orthohub.ro/articole/atac-de-guta): Atacul de gută începe brusc, de obicei noaptea, la degetul mare. Ce faci în primele ore, ce tratamente au aceeași eficiență și cum previi următorul atac.
 - [Acid uric mare: când devine o problemă](https://orthohub.ro/articole/acid-uric-mare): Acidul uric mare apare des întâmplător, la o analiză de rutină. Afli când devine o problemă pentru articulații, care e ținta de tratament și ce îl crește.
 - [Spondilită anchilozantă: diagnostic și tratament](https://orthohub.ro/articole/spondilita-anchilozanta): Spondilita anchilozantă dă durere de spate în repaus și readoare dimineața, iar mișcarea o ameliorează. Simptomele, rolul HLA-B27 și tratamentul.
+- [Artrita reumatoidă: primele semne](https://orthohub.ro/articole/artrita-reumatoida-semne): Primele semne de artrită reumatoidă: umflături simetrice la mâini, redoare de peste o oră dimineața. De ce contează primele 12 săptămâni și ce arată anti-CCP.
 
 ### In English
 
