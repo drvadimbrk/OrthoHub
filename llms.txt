@@ -105,6 +105,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Dureri articulare la menopauză: cauze și ce ajută](https://orthohub.ro/articole/menopauza-dureri-articulare): De ce apar durerile articulare la menopauză, ce este sindromul musculo-scheletal al menopauzei, ce ajută realist și când mergi la ortoped sau la reumatolog.
 - [Suplimente pentru articulații: ce arată studiile](https://orthohub.ro/articole/suplimente-articulatii): Colagen, glucozamină, condroitină: ce arată studiile despre suplimentele pentru articulații, ce spun ghidurile și când banii merg mai bine în altă parte.
 - [Ecografie sau RMN: ce investigație îți trebuie](https://orthohub.ro/articole/ecografie-sau-rmn): Ecografie, RMN sau radiografie? Ce vede fiecare, de ce ecografia arată tendonul în mișcare, când RMN-ul e obligatoriu și de ce la artroză începi cu radiografia.
+- [Când mergi la ortoped: semnele care nu se amână](https://orthohub.ro/articole/cand-mergi-la-ortoped): Durerea care nu trece, semnele de alarmă și diferența dintre urgență și consult programat. Când mergi la ortoped, la reumatolog sau la neurolog.
 
 ### Genunchi
 
@@ -144,6 +145,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Impingement la umăr: teste și exerciții](https://orthohub.ro/articole/impingement-umar): Sindromul de impingement al umărului: ce înseamnă azi termenul, cât de precise sunt testele clinice și ce program de exerciții a redus nevoia de operație.
 - [Durere de umăr noaptea: cauze și cum dormi](https://orthohub.ro/articole/durere-umar-noaptea): De ce te doare umărul noaptea: coafa rotatorilor, bursita, capsulita, calcificarea. Ce poziții de somn ajută, ce tratament și când mergi repede la medic.
 - [Tendinita bicepsului: durere în fața umărului](https://orthohub.ro/articole/tendinita-biceps): Tendinita bicepsului lung dă durere în fața umărului și apare rar singură. Cum o recunoști, ce arată ecografia dinamică și când ajută infiltrația sau operația.
+- [Luxația de umăr: tratament și risc de recidivă](https://orthohub.ro/articole/luxatie-umar): Ce faci după prima luxație de umăr, cât ții brațul în eșarfă, cât de des revine după vârstă și când are sens stabilizarea chirurgicală. Ce arată studiile.
 
 ### Cot
 
@@ -174,6 +176,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fractura de stres la picior: semne și revenire](https://orthohub.ro/articole/fractura-de-stres): Fractura de stres la picior: durerea care crește cu fiecare kilometru, locurile cu risc, de ce radiografia iese des normală și cum revii la alergare.
 - [Ruptura tendonului lui Ahile: operație sau ortoză](https://orthohub.ro/articole/ruptura-tendon-ahile): Ruptura tendonului lui Ahile: cum se pune diagnosticul, ce arată testul Thompson, ce spun studiile despre operație versus ortoză și când revii la sport.
 - [Gleznă instabilă după entorse repetate](https://orthohub.ro/articole/instabilitate-glezna): Glezna care se tot sucește are de obicei un control slab, nu doar un ligament slăbit. Ce arată studiile despre exercițiile de echilibru, orteză și operație.
+- [Durere de călcâi: 6 cauze și cum le deosebești](https://orthohub.ro/articole/durere-calcai): Durerea de călcâi nu înseamnă mereu fasciită. Fasciita, Ahile inserțional, Haglund, fractura de stres, pernuța atrofiată și nervul Baxter, după locul durerii.
 
 ### Coloană și oase
 
@@ -185,6 +188,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Stenoza de canal lombar și durerea la mers](https://orthohub.ro/articole/stenoza-canal-lombar): Stenoza de canal lombar dă durere și greutate în picioare la mers, care trec când stai jos. Cum o deosebim de circulație și ce ajută: exerciții sau operație.
 - [Durerea sacroiliacă: de ce doare jos, pe o parte](https://orthohub.ro/articole/durere-sacroiliaca): Durerea sacroiliacă stă jos, la baza spatelui, pe o parte. Cum o deosebești de sciatică, ce teste ajută, infiltrația diagnostică și ce urmează după sarcină.
 - [Durere de gât: cauze, exerciții și semne de alarmă](https://orthohub.ro/articole/durere-cervicala): Durerea de gât are de obicei cauze mecanice și o evoluție bună. Ce spun studiile despre postură și telefon, ce exerciții ajută, când faci RMN.
+- [Spondilolisteza: grade, simptome și tratament](https://orthohub.ro/articole/spondilolisteza): Spondilolisteza înseamnă o vertebră alunecată față de cea de dedesubt. Diferența dintre forma istmică și cea degenerativă, ce înseamnă gradele și când se operează.
 
 ### Mișcare, forță și prevenție
 
@@ -206,6 +210,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 ### Sport și leziuni sportive
 
 - [Pubalgia la sportivi: durerea inghinală](https://orthohub.ro/articole/pubalgie): Pubalgia e durerea din zona inghinală a sportivului. Clasificarea Doha o împarte pe cauze, exercițiile Copenhagen ajută, iar revenirea se face în pași.
+- [Ruptură musculară: grade, simptome, revenire](https://orthohub.ro/articole/ruptura-musculara): Contractura, întinderea și ruptura musculară sunt leziuni de grade diferite. Cum le deosebești, ce arată ecografia la 48-72 de ore și cum se face revenirea.
 
 ### PRP, infiltrații și terapii regenerative
 

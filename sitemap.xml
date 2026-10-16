@@ -17,7 +17,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles (110) ── -->
+  <!-- ── Articles (115) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
     <lastmod>2026-10-13</lastmod>
@@ -1004,6 +1004,51 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://orthohub.ro/articole/foto/genunchi-model-anatomic-prp.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/cand-mergi-la-ortoped</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/consultatie-medicala-medic-pacient.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/luxatie-umar</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/luxatie-umar-radiografie.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/durere-calcai</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/durere-calcai-radiografie-calcaneu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/spondilolisteza</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/spondilolisteza-radiografie-lombara.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/ruptura-musculara</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/sprint-alergare-leziune-musculara.webp</image:loc>
     </image:image>
   </url>
 </urlset>
