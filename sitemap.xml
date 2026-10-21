@@ -12,12 +12,12 @@
   <!-- ── Article hub ── -->
   <url>
     <loc>https://orthohub.ro/articole</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles (120) ── -->
+  <!-- ── Articles (121) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
     <lastmod>2026-10-13</lastmod>
@@ -1094,6 +1094,15 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://orthohub.ro/articole/foto/preparare-prp-seringa-injectie.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/durere-de-sold</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/durere-de-sold-mobilizare-kinetoterapie.webp</image:loc>
     </image:image>
   </url>
 </urlset>
