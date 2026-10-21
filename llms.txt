@@ -127,6 +127,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Entorsa de genunchi: ligamentul colateral medial](https://orthohub.ro/articole/leziune-ligament-colateral-medial): Leziunea de ligament colateral medial al genunchiului: gradele I-III, orteza articulată și de ce majoritatea se recuperează fără operație, cu plan clar.
 - [Proteza de genunchi: cum știi că a venit momentul](https://orthohub.ro/articole/proteza-genunchi): Criteriile reale pentru proteza de genunchi: durere, funcție și eșecul tratamentelor conservatoare, mai mult decât radiografia. Ce poți încerca înainte.
 - [Bursita prepatelară: genunchiul umflat în față](https://orthohub.ro/articole/bursita-prepatelara): Bursita prepatelară umflă genunchiul în față, după îngenunchieri repetate. Cum deosebești bursita septică de cea aseptică și când se aspiră lichidul.
+- [Proteza parțială de genunchi: pentru cine e](https://orthohub.ro/articole/proteza-partiala-genunchi): Proteza parțială de genunchi sau cea totală? Cine e candidat la proteza unicompartimentală, ce arată studiul TOPKAT la 10 ani și ce spun registrele.
+- [Osteotomia tibială de genunchi: când o alegi](https://orthohub.ro/articole/osteotomie-genunchi): Osteotomia tibială de genunchi îndreaptă piciorul crăcănat și mută greutatea de pe partea uzată. Cui i se potrivește, cât ține și cum se compară cu proteza parțială.
+- [Recuperare după proteză de genunchi: pe săptămâni](https://orthohub.ro/articole/proteza-genunchi-recuperare): Recuperare după proteză de genunchi, săptămână cu săptămână: mersul, cât îndoi genunchiul, durerea, condusul, sportul și ce e normal la un an după operație.
 
 ### Șold și coapsă
 
@@ -142,6 +145,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Coxartroza: stadii, radiografie și tratament](https://orthohub.ro/articole/coxartroza-stadii): Coxartroza are stadii pe radiografie, de la 0 la 4, dar durerea nu urmează mereu imaginea. Ce tratament are sens la fiecare stadiu și când se discută proteza.
 - [Simptome de artroză de șold: primele semne](https://orthohub.ro/articole/simptome-artroza-sold): Simptomele artrozei de șold încep cu durere inghinală, în coapsă sau chiar la genunchi și cu greutate la încălțat. Primele semne și cum se pune diagnosticul.
 - [Întinderea flexorilor de șold la sportivi](https://orthohub.ro/articole/intindere-flexori-sold): Întinderea flexorilor de șold, la iliopsoas sau la dreptul femural, dă durere în fața șoldului la șut și sprint. Cât durează, ce arată ecografia și cum revii.
+- [Proteza de șold: când e momentul și cât ține](https://orthohub.ro/articole/proteza-sold): Când ai nevoie de proteză de șold, ce poți încerca înainte, ce abord se folosește, cât durează recuperarea și cât ține proteza, după datele din registre.
+- [Recuperare proteză de șold: primele 3 luni](https://orthohub.ro/articole/proteza-sold-recuperare): Recuperare proteză de șold pe etape: mersul din prima zi după operație, precauțiile care mai contează, exercițiile acasă, condusul, sportul și semnele de alarmă.
 
 ### Umăr
 
