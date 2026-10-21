@@ -107,6 +107,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Ecografie sau RMN: ce investigație îți trebuie](https://orthohub.ro/articole/ecografie-sau-rmn): Ecografie, RMN sau radiografie? Ce vede fiecare, de ce ecografia arată tendonul în mișcare, când RMN-ul e obligatoriu și de ce la artroză începi cu radiografia.
 - [Când mergi la ortoped: semnele care nu se amână](https://orthohub.ro/articole/cand-mergi-la-ortoped): Durerea care nu trece, semnele de alarmă și diferența dintre urgență și consult programat. Când mergi la ortoped, la reumatolog sau la neurolog.
 - [A doua opinie medicală înainte de o operație](https://orthohub.ro/articole/a-doua-opinie): A doua opinie medicală înainte de o operație ortopedică e un drept, nu o jignire. Când merită, ce întrebi, ce acte aduci și ce operații se fac prea des.
+- [Somn și dureri articulare: saltea, poziții, insomnie](https://orthohub.ro/articole/somn-dureri-articulare): Somn și dureri articulare: de ce nopțile proaste cresc durerea, ce saltea a ieșit mai bine într-un studiu randomizat, cum alegi perna și cum se tratează insomnia.
 
 ### Genunchi
 
@@ -216,6 +217,10 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Operație de coloană: când e necesară și când nu](https://orthohub.ro/articole/operatie-coloana-cand-e-necesara): Operație de coloană: când e urgentă, când e necesară și când poți aștepta. Ce arată studiile despre hernia de disc și fuziunea lombară și ce întrebi înainte.
 - [Exerciții pentru durerea de spate, după studii](https://orthohub.ro/articole/exercitii-durere-lombara): Exerciții pentru durerea de spate: ce arată 249 de studii, ce tip ajută mai mult, cum începi acasă, cât de des le faci și cum crești efortul fără teamă.
 - [Lumbago acut: ce faci în primele zile de durere](https://orthohub.ro/articole/lumbago-acut): Lumbago acut: ce faci în primele zile după ce te-a prins spatele. Mișcare în loc de pat, căldură, medicamentele care ajută puțin și când e nevoie de radiografie.
+- [Cifoză: spatele rotund, Scheuermann și exerciții](https://orthohub.ro/articole/cifoza): Cifoză: spatele rotund din postură, boala Scheuermann la adolescenți sau tasări vertebrale la vârstnici. Ce exerciții ajută și când se investighează.
+- [Durere de gât de la telefon: ce e adevărat](https://orthohub.ro/articole/gat-telefon-postura): Durere de gât de la telefon: ce arată studiile despre capul aplecat pe ecran, de ce postura perfectă e un mit și ce ajută: pauze, somn, mișcare și forță.
+- [Ghiozdan greu și durere de spate la copii](https://orthohub.ro/articole/ghiozdan-copii): Ghiozdan greu și durere de spate la copii: ce arată studiile despre regula de 10% din greutate, cum se poartă corect și când durerea de spate e semn de alarmă.
+- [Durere de spate la birou: ce schimbi concret](https://orthohub.ro/articole/postura-birou): Durere de spate la birou: de ce postura perfectă e un mit, ce arată studiile despre biroul reglabil și pauze, cum setezi monitorul și o rutină de 5 minute.
 
 ### Mișcare, forță și prevenție
 
