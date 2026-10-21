@@ -106,6 +106,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Suplimente pentru articulații: ce arată studiile](https://orthohub.ro/articole/suplimente-articulatii): Colagen, glucozamină, condroitină: ce arată studiile despre suplimentele pentru articulații, ce spun ghidurile și când banii merg mai bine în altă parte.
 - [Ecografie sau RMN: ce investigație îți trebuie](https://orthohub.ro/articole/ecografie-sau-rmn): Ecografie, RMN sau radiografie? Ce vede fiecare, de ce ecografia arată tendonul în mișcare, când RMN-ul e obligatoriu și de ce la artroză începi cu radiografia.
 - [Când mergi la ortoped: semnele care nu se amână](https://orthohub.ro/articole/cand-mergi-la-ortoped): Durerea care nu trece, semnele de alarmă și diferența dintre urgență și consult programat. Când mergi la ortoped, la reumatolog sau la neurolog.
+- [A doua opinie medicală înainte de o operație](https://orthohub.ro/articole/a-doua-opinie): A doua opinie medicală înainte de o operație ortopedică e un drept, nu o jignire. Când merită, ce întrebi, ce acte aduci și ce operații se fac prea des.
 
 ### Genunchi
 
@@ -130,6 +131,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Proteza parțială de genunchi: pentru cine e](https://orthohub.ro/articole/proteza-partiala-genunchi): Proteza parțială de genunchi sau cea totală? Cine e candidat la proteza unicompartimentală, ce arată studiul TOPKAT la 10 ani și ce spun registrele.
 - [Osteotomia tibială de genunchi: când o alegi](https://orthohub.ro/articole/osteotomie-genunchi): Osteotomia tibială de genunchi îndreaptă piciorul crăcănat și mută greutatea de pe partea uzată. Cui i se potrivește, cât ține și cum se compară cu proteza parțială.
 - [Recuperare după proteză de genunchi: pe săptămâni](https://orthohub.ro/articole/proteza-genunchi-recuperare): Recuperare după proteză de genunchi, săptămână cu săptămână: mersul, cât îndoi genunchiul, durerea, condusul, sportul și ce e normal la un an după operație.
+- [Artroza de genunchi la 40 de ani: de ce apare](https://orthohub.ro/articole/artroza-genunchi-tineri): Artroza de genunchi la 40 de ani apare des după o ruptură de ligament sau de menisc, din kilograme ori din axa piciorului. Ce ajută și când vine proteza.
+- [Durere după proteza de genunchi: cauze și ce faci](https://orthohub.ro/articole/durere-dupa-proteza): Durere după proteza de genunchi și la luni după operație? Ce e normal, ce semne cer consult repede, cum se caută infecția sau slăbirea și ce ajută.
+- [Genunchiul trosnește: când e normal și când nu](https://orthohub.ro/articole/genunchi-pocnituri): Genunchiul trosnește sau pocnește la genuflexiuni și pe scări? Când zgomotul e inofensiv, când merge cu durere, umflare sau blocaj și ce arată studiile.
 
 ### Șold și coapsă
 
@@ -213,6 +217,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Mers cu dureri de genunchi: pași sau ritm?](https://orthohub.ro/articole/mers-pasi-pe-zi-dureri-genunchi): Câți pași pe zi și în ce ritm merită să mergi când te dor genunchii sau șoldul. Ce arată cel mai nou studiu din BJSM și cum îl adaptezi articulațiilor.
 - [Alergarea strică genunchii? Ce arată studiile](https://orthohub.ro/articole/alergare-genunchi): Alergarea strică genunchii? O meta-analiză pe peste 100.000 de oameni arată altceva. Când alergarea e un risc, ce dureri sunt semnal de oprire și cum previi.
 - [Leziuni la padel: cot, umăr, genunchi, gleznă](https://orthohub.ro/articole/leziuni-padel): Leziuni la padel: cât de des apar, ce zone sunt afectate (cot, gleznă, genunchi, umăr), ce factori cresc riscul și când mergi la ortoped. Ghid de la Dr. Bîrca.
+- [Exerciții pentru artroza de genunchi acasă](https://orthohub.ro/articole/exercitii-artroza-genunchi): Exerciții pentru artroza de genunchi pe care le faci acasă, fără aparate: 10 mișcări, cum crești dificultatea, cât are voie să doară și ce arată studiile.
 
 ### Artrite, gută și boli inflamatorii
 
