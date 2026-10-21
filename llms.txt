@@ -151,6 +151,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Întinderea flexorilor de șold la sportivi](https://orthohub.ro/articole/intindere-flexori-sold): Întinderea flexorilor de șold, la iliopsoas sau la dreptul femural, dă durere în fața șoldului la șut și sprint. Cât durează, ce arată ecografia și cum revii.
 - [Proteza de șold: când e momentul și cât ține](https://orthohub.ro/articole/proteza-sold): Când ai nevoie de proteză de șold, ce poți încerca înainte, ce abord se folosește, cât durează recuperarea și cât ține proteza, după datele din registre.
 - [Recuperare proteză de șold: primele 3 luni](https://orthohub.ro/articole/proteza-sold-recuperare): Recuperare proteză de șold pe etape: mersul din prima zi după operație, precauțiile care mai contează, exercițiile acasă, condusul, sportul și semnele de alarmă.
+- [Infiltrația în șold: de ce se face sub ecograf](https://orthohub.ro/articole/infiltratie-sold): Infiltrația în șold se face sub ecograf, fiindcă articulația e adâncă. Ce spun ghidurile despre cortizon, acid hialuronic și PRP și cât aștepți până la proteză.
+- [Durere în fesă la șezut: tendon sau sciatică?](https://orthohub.ro/articole/tendinopatie-ischiogambieri-proximala): Durere în fesă la șezut, pe osul pe care stai? Des e tendinopatia ischiogambierilor. Cum o deosebești de sciatică, ce exerciții ajută și ce știm despre PRP.
+- [Displazia de șold la adult: semne și tratament](https://orthohub.ro/articole/displazie-sold-adult): Displazia de șold la adult se descoperă des târziu, la femei tinere cu durere inghinală. Ce arată radiografia și când se discută osteotomia de bazin.
 
 ### Umăr
 
@@ -218,6 +221,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Alergarea strică genunchii? Ce arată studiile](https://orthohub.ro/articole/alergare-genunchi): Alergarea strică genunchii? O meta-analiză pe peste 100.000 de oameni arată altceva. Când alergarea e un risc, ce dureri sunt semnal de oprire și cum previi.
 - [Leziuni la padel: cot, umăr, genunchi, gleznă](https://orthohub.ro/articole/leziuni-padel): Leziuni la padel: cât de des apar, ce zone sunt afectate (cot, gleznă, genunchi, umăr), ce factori cresc riscul și când mergi la ortoped. Ghid de la Dr. Bîrca.
 - [Exerciții pentru artroza de genunchi acasă](https://orthohub.ro/articole/exercitii-artroza-genunchi): Exerciții pentru artroza de genunchi pe care le faci acasă, fără aparate: 10 mișcări, cum crești dificultatea, cât are voie să doară și ce arată studiile.
+- [Exerciții pentru coxartroză: programul de acasă](https://orthohub.ro/articole/exercitii-sold): Exerciții pentru coxartroză de făcut acasă: fesieri, mobilitate și cum crești efortul. Plus ce poziții eviți când durerea de șold vine din tendoanele laterale.
 
 ### Artrite, gută și boli inflamatorii
 
@@ -226,6 +230,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Spondilită anchilozantă: diagnostic și tratament](https://orthohub.ro/articole/spondilita-anchilozanta): Spondilita anchilozantă dă durere de spate în repaus și readoare dimineața, iar mișcarea o ameliorează. Simptomele, rolul HLA-B27 și tratamentul.
 - [Artrita reumatoidă: primele semne](https://orthohub.ro/articole/artrita-reumatoida-semne): Primele semne de artrită reumatoidă: umflături simetrice la mâini, redoare de peste o oră dimineața. De ce contează primele 12 săptămâni și ce arată anti-CCP.
 - [Fibromialgia: diagnostic, exercițiu și ce nu ajută](https://orthohub.ro/articole/fibromialgie): Fibromialgia e o durere difuză reală, cu analize normale. Cum se pune diagnosticul, de ce exercițiul gradat e primul tratament și de ce opioidele nu ajută.
+- [Articulația infectată: semne și când mergi la UPU](https://orthohub.ro/articole/artrita-septica): Articulația infectată e o urgență: durere bruscă, umflătură, căldură, uneori febră. Ce semne te trimit la UPU și cât de mare e riscul după o infiltrație.
 
 ### Sport și leziuni sportive
 
