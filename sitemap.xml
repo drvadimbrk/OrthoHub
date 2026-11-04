@@ -12,12 +12,12 @@
   <!-- ── Article hub ── -->
   <url>
     <loc>https://orthohub.ro/articole</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles (161) ── -->
+  <!-- ── Articles (166) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
     <lastmod>2026-10-13</lastmod>
@@ -1463,6 +1463,51 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://orthohub.ro/articole/foto/banda-iliotibiala-alergator-drum-tara.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/fractura-sau-entorsa</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/fractura-sau-entorsa-glezna-umflata.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/alunecare-pe-gheata</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/gheata-crampoane-incaltaminte-zapada.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/fractura-clavicula</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/fractura-clavicula-radiografie-umar.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/fractura-glezna</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/fractura-glezna-radiografie-placa-suruburi.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/accidentari-trotineta-electrica</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/trotineta-electrica-barbat-strada-oras.webp</image:loc>
     </image:image>
   </url>
 </urlset>
