@@ -116,6 +116,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Dureri articulare vreme: te dor când se schimbă?](https://orthohub.ro/articole/dureri-articulare-vreme): Dureri articulare vreme: chiar te dor oasele înainte de ploaie? Ce arată studiul Cloudy with a Chance of Pain și cum îți gestionezi zilele proaste.
 - [Câte ședințe de kinetoterapie ai nevoie](https://orthohub.ro/articole/kinetoterapie-cum-alegi): Câte ședințe de kinetoterapie ai nevoie? Ce arată studiile despre durată, ce plan să ceri, cum alegi un kinetoterapeut și semnele unei terapii prea pasive.
 - [Mituri artroză: 10 lucruri pe care le auzi des](https://orthohub.ro/articole/mituri-artroza): Mituri artroză: trosnitul degetelor, alergarea, ploaia, odihna, dieta acidă, injecțiile. Ce arată studiile despre fiecare și ce e adevărat doar pe jumătate.
+- [Crampe musculare noaptea la gambă: cauze, ce ajută](https://orthohub.ro/articole/crampe-musculare-noaptea): Crampe musculare noaptea la gambă: de ce apar, de ce magneziul nu ajută în studii, ce arată cercetările despre stretching și când trebuie să mergi la medic.
 
 ### Genunchi
 
@@ -271,6 +272,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Antrenament cu restricție de flux sanguin (BFR)](https://orthohub.ro/articole/antrenament-bfr): Antrenament cu restricție de flux sanguin (BFR): cum funcționează, ce arată meta-analizele după operații de genunchi și cine nu ar trebui să-l facă singur.
 - [Stretching înainte de sport: ce spun studiile](https://orthohub.ro/articole/stretching): Stretching înainte de sport: previne accidentările? Ce arată studiile despre stretchingul static, încălzirea dinamică și flexibilitatea pe termen lung.
 - [Încălzire pentru prevenirea accidentărilor](https://orthohub.ro/articole/incalzire-prevenire): Încălzire pentru prevenirea accidentărilor: ce program neuromuscular reduce rupturile de LCA și întinderile la sportivi și cât durează, după meta-analize.
+- [Durere genunchi la coborâre: de ce apare la munte](https://orthohub.ro/articole/drumetii-munte-genunchi): Durere genunchi la coborâre după o drumeție? Cum încarcă panta genunchiul, ce schimbă bețele de trekking, cum te pregătești și când te doare ceva mai grav.
+- [Grădinărit și dureri de spate: cum eviți durerea](https://orthohub.ro/articole/gradinarit): Grădinărit și dureri de spate sau de genunchi? Cum te încălzești, cum ridici și te apleci, ce unelte ajută și când durerea de după grădină cere un consult.
+- [Prevenirea căderilor la vârstnici: ce funcționează](https://orthohub.ro/articole/prevenire-caderi): Prevenirea căderilor la vârstnici după 65 de ani: exerciții de echilibru și forță, programul Otago, medicamente care amețesc, siguranța casei și vederea.
 
 ### Artrite, gută și boli inflamatorii
 
@@ -298,6 +302,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Pregătire maraton fără accidentări: primul start](https://orthohub.ro/articole/maraton-articulatii): Pregătire maraton fără accidentări: cât crești kilometrii, săptămânile de descărcare, forța și semnalele de oprire la primul maraton, inclusiv la București.
 - [Febra musculară: de ce apare și ce ajută](https://orthohub.ro/articole/febra-musculara): Febra musculară după antrenament: de ce apare, cât durează, ce ajută și ce nu (stretching, gheață), și când durerea musculară poate ascunde rabdomioliză.
 - [Gheață sau căldură pe o accidentare: ce alegi](https://orthohub.ro/articole/gheata-sau-caldura): Gheață sau căldură pe o accidentare: ce arată studiile despre frig pe durerea acută și căldura pe contracturi, ce e PEACE & LOVE și când mergi la medic.
+- [Revenire la sport după accidentare: criterii](https://orthohub.ro/articole/inapoi-la-sport): Revenirea la sport după accidentare nu se decide după calendar. Ce teste de forță și de salt contează, rolul fricii de reaccidentare și ce arată studiile.
 
 ### PRP, infiltrații și terapii regenerative
 
