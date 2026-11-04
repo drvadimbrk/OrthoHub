@@ -268,6 +268,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Exerciții pentru coxartroză: programul de acasă](https://orthohub.ro/articole/exercitii-sold): Exerciții pentru coxartroză de făcut acasă: fesieri, mobilitate și cum crești efortul. Plus ce poziții eviți când durerea de șold vine din tendoanele laterale.
 - [Dietă antiinflamatoare articulații: ce are dovezi](https://orthohub.ro/articole/dieta-antiinflamatoare): Dietă antiinflamatoare articulații: ce arată studiile despre greutate, dieta mediteraneană și omega-3 în artroză, ce e mit și ce poți face concret.
 - [Sarcopenie: pierderea de mușchi după 60 de ani](https://orthohub.ro/articole/sarcopenie): Sarcopenia e pierderea forței și a masei musculare odată cu vârsta. Cum o recunoști, cum se diagnostichează și ce ajută: forță, proteine, risc mai mic de cădere.
+- [Antrenament cu restricție de flux sanguin (BFR)](https://orthohub.ro/articole/antrenament-bfr): Antrenament cu restricție de flux sanguin (BFR): cum funcționează, ce arată meta-analizele după operații de genunchi și cine nu ar trebui să-l facă singur.
+- [Stretching înainte de sport: ce spun studiile](https://orthohub.ro/articole/stretching): Stretching înainte de sport: previne accidentările? Ce arată studiile despre stretchingul static, încălzirea dinamică și flexibilitatea pe termen lung.
+- [Încălzire pentru prevenirea accidentărilor](https://orthohub.ro/articole/incalzire-prevenire): Încălzire pentru prevenirea accidentărilor: ce program neuromuscular reduce rupturile de LCA și întinderile la sportivi și cât durează, după meta-analize.
 
 ### Artrite, gută și boli inflamatorii
 
@@ -293,6 +296,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Dureri la ciclism: genunchi, spate, mâini](https://orthohub.ro/articole/leziuni-ciclism): Dureri la ciclism: genunchiul, spatele, mâinile amorțite pe ghidon. Cum verifici înălțimea șeii, ce arată studiile despre reglaj și când mergi la medic.
 - [Accidentări la sală: umăr, cot, spate și genunchi](https://orthohub.ro/articole/leziuni-sala): Accidentări la sală: durerea de umăr la împins, cotul, spatele la îndreptări, genunchiul la genuflexiuni. Tehnică sau volum și cum continui antrenamentul.
 - [Pregătire maraton fără accidentări: primul start](https://orthohub.ro/articole/maraton-articulatii): Pregătire maraton fără accidentări: cât crești kilometrii, săptămânile de descărcare, forța și semnalele de oprire la primul maraton, inclusiv la București.
+- [Febra musculară: de ce apare și ce ajută](https://orthohub.ro/articole/febra-musculara): Febra musculară după antrenament: de ce apare, cât durează, ce ajută și ce nu (stretching, gheață), și când durerea musculară poate ascunde rabdomioliză.
+- [Gheață sau căldură pe o accidentare: ce alegi](https://orthohub.ro/articole/gheata-sau-caldura): Gheață sau căldură pe o accidentare: ce arată studiile despre frig pe durerea acută și căldura pe contracturi, ce e PEACE & LOVE și când mergi la medic.
 
 ### PRP, infiltrații și terapii regenerative
 
