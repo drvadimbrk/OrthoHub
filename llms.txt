@@ -176,6 +176,10 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Luxația de umăr: tratament și risc de recidivă](https://orthohub.ro/articole/luxatie-umar): Ce faci după prima luxație de umăr, cât ții brațul în eșarfă, cât de des revine după vârstă și când are sens stabilizarea chirurgicală. Ce arată studiile.
 - [Artroza umărului: simptome, infiltrații, proteză](https://orthohub.ro/articole/artroza-umar): Artroza umărului dă durere și rigiditate în toate direcțiile, nu numai la ridicarea brațului. Cum o deosebești de tendinită, ce ajută și când se pune proteză.
 - [Fractura de claviculă: operație sau bandaj](https://orthohub.ro/articole/fractura-clavicula): Fractura de claviculă: când ajunge eșarfa, când merită operația, ce contează deplasarea și scurtarea, cât durează vindecarea și când revii pe bicicletă.
+- [Artroscopia de umăr: când are sens și când nu](https://orthohub.ro/articole/artroscopie-umar): Artroscopia de umăr ajută la ruptura de coafă sau la instabilitate, dar decompresia pentru impingement nu a bătut placebo. Când are sens și ce încerci înainte.
+- [Proteza de umăr: anatomică sau inversată](https://orthohub.ro/articole/proteza-umar): Proteza de umăr anatomică sau inversată: cum alege chirurgul după tendoane, cât ține o proteză de umăr, ce poți face după operație și ce riscuri are.
+- [Luxația acromioclaviculară: când se operează](https://orthohub.ro/articole/luxatie-acromioclaviculara): Luxația acromioclaviculară apare după o căzătură pe umăr, des de pe bicicletă. Tipurile Rockwood, de ce majoritatea se tratează fără operație și când revii.
+- [Exerciții pentru umăr acasă: coafa și omoplatul](https://orthohub.ro/articole/exercitii-umar): Exerciții pentru umăr acasă, cu bandă elastică: un program pentru coafa rotatorilor și omoplat, cum crești dificultatea, câtă durere e acceptabilă și cât timp.
 
 ### Cot
 
@@ -271,6 +275,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Leziuni de suprasolicitare: semne și prevenție](https://orthohub.ro/articole/leziuni-suprasolicitare): Leziuni de suprasolicitare la sport: tendinite și fracturi de stres când antrenamentul crește prea repede. Semnele timpurii, regula de 10% și ce arată studiile.
 - [Accidentări la sport la copii: când e prea mult](https://orthohub.ro/articole/specializare-sportiva-copii): Accidentări la sport la copii care fac un singur sport tot anul: suprasolicitarea, regula orelor cât vârsta, Osgood-Schlatter și semnele pe care nu le ignori.
 - [Accidentări cu trotineta electrică: ce vedem des](https://orthohub.ro/articole/accidentari-trotineta-electrica): Accidentări cu trotineta electrică: ce arată studiile de la urgențe despre fracturile de braț și loviturile la cap și cât contează casca, viteza și alcoolul.
+- [Umărul înotătorului: durerea la crawl și fluture](https://orthohub.ro/articole/inotator-umar): Umărul înotătorului e durerea de umăr la crawl și fluture, legată de volumul de antrenament. Ce arată studiile, ce schimbi la tehnică și ce exerciții ajută.
 
 ### PRP, infiltrații și terapii regenerative
 
