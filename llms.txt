@@ -114,6 +114,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Radiografie în sarcină: ce e sigur](https://orthohub.ro/articole/radiografie-in-sarcina): Radiografie în sarcină: ce risc are fătul, ce doze contează, când alegem ecografia sau RMN-ul fără contrast și când CT-ul nu poate fi evitat. Explicat de ortoped.
 - [Tumoră osoasă: simptome și când te gândești la ea](https://orthohub.ro/articole/tumori-osoase-semne): Tumoră osoasă simptome: durere de noapte care nu cedează, umflătură, fractură banală. Cât de rare sunt tumorile primare și cum se investighează.
 - [Dureri articulare vreme: te dor când se schimbă?](https://orthohub.ro/articole/dureri-articulare-vreme): Dureri articulare vreme: chiar te dor oasele înainte de ploaie? Ce arată studiul Cloudy with a Chance of Pain și cum îți gestionezi zilele proaste.
+- [Câte ședințe de kinetoterapie ai nevoie](https://orthohub.ro/articole/kinetoterapie-cum-alegi): Câte ședințe de kinetoterapie ai nevoie? Ce arată studiile despre durată, ce plan să ceri, cum alegi un kinetoterapeut și semnele unei terapii prea pasive.
+- [Mituri artroză: 10 lucruri pe care le auzi des](https://orthohub.ro/articole/mituri-artroza): Mituri artroză: trosnitul degetelor, alergarea, ploaia, odihna, dieta acidă, injecțiile. Ce arată studiile despre fiecare și ce e adevărat doar pe jumătate.
 
 ### Genunchi
 
@@ -296,6 +298,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 
 - [După infiltrația cu PRP: zilele și săptămânile](https://orthohub.ro/articole/prp-dupa-infiltratie): După o infiltrație cu PRP, o ușoară creștere a durerii pentru câteva zile e obișnuită. Ce faci cu gheața, antiinflamatoarele, efortul și când suni medicul.
 - [De ce te doare după o infiltrație și cât e normal](https://orthohub.ro/articole/durere-dupa-infiltratie): Te doare mai tare la o zi după infiltrație? Afli de ce apare reacția, cât durează după cortizon, PRP sau acid hialuronic și ce semne înseamnă infecție.
+- [Tenotomie percutanată: ce arată studiile](https://orthohub.ro/articole/tenotomie-percutanata): Tenotomia percutanată ecoghidată tratează cu un ac tendonul bolnav, în epicondilită sau fasciită. Ce arată meta-analiza, ce nu știm încă și pentru cine are sens.
+- [PRP contraindicații: cine nu poate face PRP](https://orthohub.ro/articole/prp-contraindicatii): PRP contraindicații: infecții, cancer activ, probleme de sânge, anticoagulante, antiinflamatoare. Ce verific înainte și ce medicamente se opresc înaintea PRP.
+- [PRP ruptură musculară: ce arată studiile](https://orthohub.ro/articole/prp-ruptura-musculara): PRP ruptură musculară: studiul Reurink a fost negativ la ischiogambieri, meta-analizele sunt amestecate. Ce arată cifrele, unde nu folosesc PRP și ce ajută de fapt.
 
 ### In English
 
