@@ -110,6 +110,10 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Somn și dureri articulare: saltea, poziții, insomnie](https://orthohub.ro/articole/somn-dureri-articulare): Somn și dureri articulare: de ce nopțile proaste cresc durerea, ce saltea a ieșit mai bine într-un studiu randomizat, cum alegi perna și cum se tratează insomnia.
 - [Fractură sau entorsă: cum îți dai seama](https://orthohub.ro/articole/fractura-sau-entorsa): Fractură sau entorsă după o căzătură? Regulile Ottawa pentru gleznă și genunchi, semnele care cer radiografie, primul ajutor și ce e urgent în primele 48 de ore.
 - [Căzătură pe gheață: fracturi de iarnă și prevenire](https://orthohub.ro/articole/alunecare-pe-gheata): Căzătură pe gheață și fractură: ce oase se rup cel mai des iarna, ce arată studiile despre crampoane, cum mergi pe gheață și ce faci imediat după ce ai căzut.
+- [Acupunctură durere: ce arată studiile](https://orthohub.ro/articole/acupunctura-durere): Acupunctură durere: ajută la spate și la genunchi? Meta-analizele arată un efect real, dar mic peste placebo. Ce riscuri are și cum o folosești realist.
+- [Radiografie în sarcină: ce e sigur](https://orthohub.ro/articole/radiografie-in-sarcina): Radiografie în sarcină: ce risc are fătul, ce doze contează, când alegem ecografia sau RMN-ul fără contrast și când CT-ul nu poate fi evitat. Explicat de ortoped.
+- [Tumoră osoasă: simptome și când te gândești la ea](https://orthohub.ro/articole/tumori-osoase-semne): Tumoră osoasă simptome: durere de noapte care nu cedează, umflătură, fractură banală. Cât de rare sunt tumorile primare și cum se investighează.
+- [Dureri articulare vreme: te dor când se schimbă?](https://orthohub.ro/articole/dureri-articulare-vreme): Dureri articulare vreme: chiar te dor oasele înainte de ploaie? Ce arată studiul Cloudy with a Chance of Pain și cum îți gestionezi zilele proaste.
 
 ### Genunchi
 
@@ -256,6 +260,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Leziuni la padel: cot, umăr, genunchi, gleznă](https://orthohub.ro/articole/leziuni-padel): Leziuni la padel: cât de des apar, ce zone sunt afectate (cot, gleznă, genunchi, umăr), ce factori cresc riscul și când mergi la ortoped. Ghid de la Dr. Bîrca.
 - [Exerciții pentru artroza de genunchi acasă](https://orthohub.ro/articole/exercitii-artroza-genunchi): Exerciții pentru artroza de genunchi pe care le faci acasă, fără aparate: 10 mișcări, cum crești dificultatea, cât are voie să doară și ce arată studiile.
 - [Exerciții pentru coxartroză: programul de acasă](https://orthohub.ro/articole/exercitii-sold): Exerciții pentru coxartroză de făcut acasă: fesieri, mobilitate și cum crești efortul. Plus ce poziții eviți când durerea de șold vine din tendoanele laterale.
+- [Dietă antiinflamatoare articulații: ce are dovezi](https://orthohub.ro/articole/dieta-antiinflamatoare): Dietă antiinflamatoare articulații: ce arată studiile despre greutate, dieta mediteraneană și omega-3 în artroză, ce e mit și ce poți face concret.
 
 ### Artrite, gută și boli inflamatorii
 
