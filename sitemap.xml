@@ -17,7 +17,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles (191) ── -->
+  <!-- ── Articles (196) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
     <lastmod>2026-10-13</lastmod>
@@ -1733,6 +1733,51 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://orthohub.ro/articole/foto/dieta-mediteraneana-ulei-masline-fructe.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/artroza-glezna</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/artroza-glezna-radiografie-osteofiti.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/incaltaminte</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/incaltaminte-pantofi-sport-usori.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/osteopenie</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/osteopenie-dexa-densitometrie-osoasa.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/scolioza-adult</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/scolioza-adult-coloana-curbata-3d.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/sarcopenie</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/sarcopenie-forta-prindere-dinamometru.webp</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -228,6 +228,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Deget în ciocan la picior: flexibil sau rigid](https://orthohub.ro/articole/deget-in-ciocan): Deget în ciocan sau în gheară la picior: de ce se îndoaie degetele mici, ce legătură au cu pantofii și cu hallux valgus, ce ajută și când se operează.
 - [Bătături la picior: de ce apar și de ce revin](https://orthohub.ro/articole/bataturi-calozitati): Bătăturile la picior și calozitățile apar din presiune și frecare. De ce revin după pedichiură, ce rol au pantofii și deformările și de ce diabetul cere atenție.
 - [Periostită tibială: durerea de tibie la alergare](https://orthohub.ro/articole/periostita-tibiala): Periostită tibială: durerea de pe interiorul tibiei la alergare. Cum o deosebești de fractura de stres, de ce apare, cât durează și cum revii la alergat.
+- [Artroza gleznei: cauze, tratament, injecții](https://orthohub.ro/articole/artroza-glezna): Artroza gleznei apare de obicei după o entorsă sau o fractură veche. Cum se recunoaște, ce ajută, ce arată studiile despre injecții și când se discută operația.
+- [Încălțăminte pentru dureri de picioare: cum alegi](https://orthohub.ro/articole/incaltaminte): Cum alegi încălțămintea când te dor picioarele: lățime, toc, rigiditate, branțuri. Ce arată studiile pentru călcâi, genunchi, alergare, bunioane și vârstnici.
 
 ### Coloană și oase
 
@@ -249,6 +251,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere de gât de la telefon: ce e adevărat](https://orthohub.ro/articole/gat-telefon-postura): Durere de gât de la telefon: ce arată studiile despre capul aplecat pe ecran, de ce postura perfectă e un mit și ce ajută: pauze, somn, mișcare și forță.
 - [Ghiozdan greu și durere de spate la copii](https://orthohub.ro/articole/ghiozdan-copii): Ghiozdan greu și durere de spate la copii: ce arată studiile despre regula de 10% din greutate, cum se poartă corect și când durerea de spate e semn de alarmă.
 - [Durere de spate la birou: ce schimbi concret](https://orthohub.ro/articole/postura-birou): Durere de spate la birou: de ce postura perfectă e un mit, ce arată studiile despre biroul reglabil și pauze, cum setezi monitorul și o rutină de 5 minute.
+- [Osteopenie: scor T, risc de fractură, tratament](https://orthohub.ro/articole/osteopenie): Osteopenie înseamnă scor T între -1 și -2,5, nu osteoporoză. Cum se calculează riscul de fractură, când se tratează și ce ajută: exerciții, calciu, vitamina D.
+- [Scolioză adult: când doare și ce se poate face](https://orthohub.ro/articole/scolioza-adult): Scolioza la adult: diferența dintre curbura veche și cea degenerativă apărută târziu, când doare, ce ajută (exerciții, kinetoterapie) și când se discută operația.
 
 ### Mișcare, forță și prevenție
 
@@ -261,6 +265,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Exerciții pentru artroza de genunchi acasă](https://orthohub.ro/articole/exercitii-artroza-genunchi): Exerciții pentru artroza de genunchi pe care le faci acasă, fără aparate: 10 mișcări, cum crești dificultatea, cât are voie să doară și ce arată studiile.
 - [Exerciții pentru coxartroză: programul de acasă](https://orthohub.ro/articole/exercitii-sold): Exerciții pentru coxartroză de făcut acasă: fesieri, mobilitate și cum crești efortul. Plus ce poziții eviți când durerea de șold vine din tendoanele laterale.
 - [Dietă antiinflamatoare articulații: ce are dovezi](https://orthohub.ro/articole/dieta-antiinflamatoare): Dietă antiinflamatoare articulații: ce arată studiile despre greutate, dieta mediteraneană și omega-3 în artroză, ce e mit și ce poți face concret.
+- [Sarcopenie: pierderea de mușchi după 60 de ani](https://orthohub.ro/articole/sarcopenie): Sarcopenia e pierderea forței și a masei musculare odată cu vârsta. Cum o recunoști, cum se diagnostichează și ce ajută: forță, proteine, risc mai mic de cădere.
 
 ### Artrite, gută și boli inflamatorii
 
