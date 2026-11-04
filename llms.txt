@@ -223,6 +223,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fractura de gleznă: gips, cizmă sau operație](https://orthohub.ro/articole/fractura-glezna): Fractura de gleznă: cum afli dacă e stabilă, când ajung gipsul sau cizma, când e nevoie de operație și cât durează recuperarea după fractura de gleznă.
 - [Deget în ciocan la picior: flexibil sau rigid](https://orthohub.ro/articole/deget-in-ciocan): Deget în ciocan sau în gheară la picior: de ce se îndoaie degetele mici, ce legătură au cu pantofii și cu hallux valgus, ce ajută și când se operează.
 - [Bătături la picior: de ce apar și de ce revin](https://orthohub.ro/articole/bataturi-calozitati): Bătăturile la picior și calozitățile apar din presiune și frecare. De ce revin după pedichiură, ce rol au pantofii și deformările și de ce diabetul cere atenție.
+- [Periostită tibială: durerea de tibie la alergare](https://orthohub.ro/articole/periostita-tibiala): Periostită tibială: durerea de pe interiorul tibiei la alergare. Cum o deosebești de fractura de stres, de ce apare, cât durează și cum revii la alergat.
 
 ### Coloană și oase
 
@@ -276,6 +277,10 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Accidentări la sport la copii: când e prea mult](https://orthohub.ro/articole/specializare-sportiva-copii): Accidentări la sport la copii care fac un singur sport tot anul: suprasolicitarea, regula orelor cât vârsta, Osgood-Schlatter și semnele pe care nu le ignori.
 - [Accidentări cu trotineta electrică: ce vedem des](https://orthohub.ro/articole/accidentari-trotineta-electrica): Accidentări cu trotineta electrică: ce arată studiile de la urgențe despre fracturile de braț și loviturile la cap și cât contează casca, viteza și alcoolul.
 - [Umărul înotătorului: durerea la crawl și fluture](https://orthohub.ro/articole/inotator-umar): Umărul înotătorului e durerea de umăr la crawl și fluture, legată de volumul de antrenament. Ce arată studiile, ce schimbi la tehnică și ce exerciții ajută.
+- [Accidentări la schi: genunchi, umăr și deget mare](https://orthohub.ro/articole/leziuni-ski): Accidentări la schi: ruptura de LCA, entorsa de genunchi, degetul mare al schiorului și luxația de umăr. Ce faci pe pârtie, când mergi la medic, cum le previi.
+- [Dureri la ciclism: genunchi, spate, mâini](https://orthohub.ro/articole/leziuni-ciclism): Dureri la ciclism: genunchiul, spatele, mâinile amorțite pe ghidon. Cum verifici înălțimea șeii, ce arată studiile despre reglaj și când mergi la medic.
+- [Accidentări la sală: umăr, cot, spate și genunchi](https://orthohub.ro/articole/leziuni-sala): Accidentări la sală: durerea de umăr la împins, cotul, spatele la îndreptări, genunchiul la genuflexiuni. Tehnică sau volum și cum continui antrenamentul.
+- [Pregătire maraton fără accidentări: primul start](https://orthohub.ro/articole/maraton-articulatii): Pregătire maraton fără accidentări: cât crești kilometrii, săptămânile de descărcare, forța și semnalele de oprire la primul maraton, inclusiv la București.
 
 ### PRP, infiltrații și terapii regenerative
 
