@@ -151,6 +151,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Sutura de menisc: când se coase meniscul](https://orthohub.ro/articole/sutura-menisc): Sutura de menisc: când se poate coase meniscul în loc să fie scos, cine e candidat, cât de des eșuează și de ce recuperarea e mai lungă decât după meniscectomie.
 - [Recuperare după operație LCA: etape și criterii](https://orthohub.ro/articole/recuperare-dupa-lca): Recuperare după operația de LCA: primele 6 săptămâni, când începi alergarea și de ce revenirea la sport se face după 9 luni, cu teste, nu după calendar.
 - [Sindromul benzii iliotibiale la alergători](https://orthohub.ro/articole/sindrom-banda-iliotibiala): Sindromul benzii iliotibiale la alergători: de ce doare la același kilometru, ce arată studiile despre cadență, rulou și fesieri și cum revii la alergare.
+- [Luxația de rotulă: prima dată și riscul de repetare](https://orthohub.ro/articole/luxatie-rotula): Luxația de rotulă la primul episod: cât de des se repetă, ce factori anatomici cresc riscul, când ajunge tratamentul conservator și când se discută operația.
 
 ### Șold și coapsă
 
@@ -171,6 +172,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Infiltrația în șold: de ce se face sub ecograf](https://orthohub.ro/articole/infiltratie-sold): Infiltrația în șold se face sub ecograf, fiindcă articulația e adâncă. Ce spun ghidurile despre cortizon, acid hialuronic și PRP și cât aștepți până la proteză.
 - [Durere în fesă la șezut: tendon sau sciatică?](https://orthohub.ro/articole/tendinopatie-ischiogambieri-proximala): Durere în fesă la șezut, pe osul pe care stai? Des e tendinopatia ischiogambierilor. Cum o deosebești de sciatică, ce exerciții ajută și ce știm despre PRP.
 - [Displazia de șold la adult: semne și tratament](https://orthohub.ro/articole/displazie-sold-adult): Displazia de șold la adult se descoperă des târziu, la femei tinere cu durere inghinală. Ce arată radiografia și când se discută osteotomia de bazin.
+- [Sindromul piriform: durere în fesă care imită sciatica](https://orthohub.ro/articole/sindrom-piriform): Sindromul piriform dă durere în fesă, uneori pe picior. Cum îl deosebești de hernia de disc, ce teste se fac și ce arată studiile despre infiltrație.
 
 ### Umăr
 
@@ -216,6 +218,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Artroza încheieturii mâinii după fractură](https://orthohub.ro/articole/artroza-incheietura-mainii): Artroza la încheietura mâinii vine des după o fractură veche sau un ligament rupt. Cum o recunoști, cât ajută orteza și infiltrația ecoghidată, când e operația.
 - [Deget în ciocan la mână: cât porți atela](https://orthohub.ro/articole/deget-cazut-mana): Degetul în ciocan la mână apare când vârful degetului cade după o lovitură și nu se mai întinde. Cât porți atela, când e fractură și când se operează.
 - [Fractura de metacarp: fractura boxerului](https://orthohub.ro/articole/fractura-metacarp): Fractură metacarp după un pumn în perete? Fractura boxerului se vindecă de obicei fără operație. Ce unghi e acceptabil, de ce contează rotația și când pui ace.
+- [Amorțeală mâini noaptea: nu e mereu tunelul carpian](https://orthohub.ro/articole/amorteala-maini-noaptea): Amorțeală mâini noaptea: tunel carpian, nerv cubital, gât sau polineuropatie din diabet și deficit de B12. Cum le deosebești și ce analize și teste contează.
 
 ### Picior și gleznă
 
@@ -260,6 +263,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Osteopenie: scor T, risc de fractură, tratament](https://orthohub.ro/articole/osteopenie): Osteopenie înseamnă scor T între -1 și -2,5, nu osteoporoză. Cum se calculează riscul de fractură, când se tratează și ce ajută: exerciții, calciu, vitamina D.
 - [Scolioză adult: când doare și ce se poate face](https://orthohub.ro/articole/scolioza-adult): Scolioza la adult: diferența dintre curbura veche și cea degenerativă apărută târziu, când doare, ce ajută (exerciții, kinetoterapie) și când se discută operația.
 - [Fisură de coastă: cât doare și cât durează](https://orthohub.ro/articole/fractura-coaste): Fisură de coastă după o cădere sau o lovitură: cum o recunoști, ce arată radiografia, cum ții durerea sub control și ce semne cer medicul de urgență.
+- [Durerea de coccis: de ce apare și cum se tratează](https://orthohub.ro/articole/coccigodinie): Durerea de coccis (coccigodinie) apare după cădere, naștere sau statul lung pe scaun. Ce ajută: perna, exercițiile, infiltrația, undele de șoc și, rar, operația.
 
 ### Mișcare, forță și prevenție
 
@@ -316,6 +320,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Tenotomie percutanată: ce arată studiile](https://orthohub.ro/articole/tenotomie-percutanata): Tenotomia percutanată ecoghidată tratează cu un ac tendonul bolnav, în epicondilită sau fasciită. Ce arată meta-analiza, ce nu știm încă și pentru cine are sens.
 - [PRP contraindicații: cine nu poate face PRP](https://orthohub.ro/articole/prp-contraindicatii): PRP contraindicații: infecții, cancer activ, probleme de sânge, anticoagulante, antiinflamatoare. Ce verific înainte și ce medicamente se opresc înaintea PRP.
 - [PRP ruptură musculară: ce arată studiile](https://orthohub.ro/articole/prp-ruptura-musculara): PRP ruptură musculară: studiul Reurink a fost negativ la ischiogambieri, meta-analizele sunt amestecate. Ce arată cifrele, unde nu folosesc PRP și ce ajută de fapt.
+- [Terapia cu unde de șoc: unde are dovezi și unde nu](https://orthohub.ro/articole/unde-de-soc): Terapia cu unde de șoc: ce arată studiile în fasciita plantară, tendinita calcară de umăr și tendonul lui Ahile, focale față de radiale și câte ședințe se fac.
 
 ### In English
 
