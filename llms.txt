@@ -121,6 +121,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Recuperare după gips: redoare, mușchi, edem](https://orthohub.ro/articole/recuperare-dupa-gips): Recuperare după gips: de ce apar redoarea, edemul și slăbirea mușchilor, cum reiei mișcarea, ce arată studiile și când o durere disproporționată cere medicul.
 - [Antiinflamatoare dureri articulare: ce alegi](https://orthohub.ro/articole/anti-inflamatoare-articulatii): Antiinflamatoare pentru dureri articulare: gel sau pastile, cât timp se iau și ce riscuri au. Ce spun ghidul OARSI și studiile despre stomac, inimă și rinichi.
 - [Tiroida și durerile articulare: ce legătură e](https://orthohub.ro/articole/tiroida-dureri-articulare): Tiroida și durerile articulare: când hipotiroidismul dă dureri musculare, tunel carpian sau umăr înghețat, ce arată studiile și când merită să-ți verifici TSH-ul.
+- [Dureri de creștere copii: când sunt normale](https://orthohub.ro/articole/dureri-de-crestere): Dureri de creștere la copii: noaptea, la ambele picioare, fără șchiopătat. Ce știm despre ele, ce faci acasă și ce semne de alarmă cer un consult.
 
 ### Genunchi
 
@@ -157,6 +158,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durerea de genunchi noaptea: cauze și semne](https://orthohub.ro/articole/durere-genunchi-noaptea): Durerea de genunchi noaptea apare des în artroza avansată, dar uneori ascunde altceva. Cauze, ce poziții ajută la somn și semnele care cer medic repede.
 - [Durere în spatele genunchiului: cauze frecvente](https://orthohub.ro/articole/durere-spatele-genunchiului): Durere în spatele genunchiului: chist Baker, tendon, menisc sau vas de sânge. Cum le deosebești, ce arată ecografia și când e urgență (tromboză).
 - [Genunchiul cedează: cauze, teste și tratament](https://orthohub.ro/articole/genunchi-instabil): Genunchiul cedează când ligamentele, durerea sau slăbiciunea cvadricepsului nu-l mai țin. Cauze, ce teste fac la consult, cum arată tratamentul și semnele de alarmă.
+- [Genunchieră artroză: când ajută și ce tip alegi](https://orthohub.ro/articole/genunchiera): Genunchieră artroză: orteza de descărcare, cea rotuliană și manșonul. Ce arată studiile, cui folosește, ce greșeli eviți și ce genunchieră pentru artroza medială.
+- [Boala Osgood Schlatter: simptome și tratament](https://orthohub.ro/articole/osgood-schlatter): Boala Osgood Schlatter: umflătura dureroasă de sub genunchi la adolescenți sportivi. Cât durează, cum dozezi sportul și ce se întâmplă la adult, cu os separat.
 
 ### Șold și coapsă
 
@@ -280,6 +283,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durerea de coccis: de ce apare și cum se tratează](https://orthohub.ro/articole/coccigodinie): Durerea de coccis (coccigodinie) apare după cădere, naștere sau statul lung pe scaun. Ce ajută: perna, exercițiile, infiltrația, undele de șoc și, rar, operația.
 - [Durere între omoplați: cauze și semne de alarmă](https://orthohub.ro/articole/durere-dorsala): Durere între omoplați: cauze musculare și posturale, durere trimisă de gât și cauze care nu țin de coloană (inimă, aortă, vezică biliară). Când mergi la medic.
 - [Scolioză copii: când observi, când pui corset](https://orthohub.ro/articole/scolioza-copii): Scolioza la copii și adolescenți: testul Adams, unghiul Cobb, ce arată studiul BrAIST despre corset și de ce ghiozdanul nu provoacă scolioză.
+- [Fractură vertebrală tasare: semne și tratament](https://orthohub.ro/articole/fractura-vertebrala): Fractura vertebrală prin tasare: durere de spate după 60 de ani, des nediagnosticată. Cum o descoperi, ce ajută (corset, vertebroplastie) și ce previne a doua.
 
 ### Mișcare, forță și prevenție
 
@@ -312,6 +316,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Articulația infectată: semne și când mergi la UPU](https://orthohub.ro/articole/artrita-septica): Articulația infectată e o urgență: durere bruscă, umflătură, căldură, uneori febră. Ce semne te trimit la UPU și cât de mare e riscul după o infiltrație.
 - [Analize pentru dureri articulare: ce arată](https://orthohub.ro/articole/analize-dureri-articulare): Ce analize de sânge faci la dureri articulare: VSH, PCR, factor reumatoid, anti-CCP, acid uric, ANA, HLA-B27. Ce înseamnă rezultatele și cele care nu ajută.
 - [Diferența dintre gută și artroză: semne și analize](https://orthohub.ro/articole/guta-sau-artroza): Diferența dintre gută și artroză: debut, locul durerii, rolul cristalelor, al ecografiei și al radiografiei. Ce e pseudogută și când articulația cere medic repede.
+- [Polimialgie reumatică: simptome și tratament](https://orthohub.ro/articole/polimialgie-reumatica): Polimialgie reumatică: durere și redoare la ambii umeri și șolduri după 50 de ani. Cum se recunoaște, ce analize ajută, cum se tratează și semnele de arterită.
 
 ### Sport și leziuni sportive
 
