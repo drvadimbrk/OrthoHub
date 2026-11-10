@@ -117,6 +117,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Câte ședințe de kinetoterapie ai nevoie](https://orthohub.ro/articole/kinetoterapie-cum-alegi): Câte ședințe de kinetoterapie ai nevoie? Ce arată studiile despre durată, ce plan să ceri, cum alegi un kinetoterapeut și semnele unei terapii prea pasive.
 - [Mituri artroză: 10 lucruri pe care le auzi des](https://orthohub.ro/articole/mituri-artroza): Mituri artroză: trosnitul degetelor, alergarea, ploaia, odihna, dieta acidă, injecțiile. Ce arată studiile despre fiecare și ce e adevărat doar pe jumătate.
 - [Crampe musculare noaptea la gambă: cauze, ce ajută](https://orthohub.ro/articole/crampe-musculare-noaptea): Crampe musculare noaptea la gambă: de ce apar, de ce magneziul nu ajută în studii, ce arată cercetările despre stretching și când trebuie să mergi la medic.
+- [Ortoped sau reumatolog: la cine mergi primul](https://orthohub.ro/articole/ortoped-sau-reumatolog): Ortoped sau reumatolog: la cine mergi cu durerea articulară. Diferența dintre durerea mecanică și cea inflamatorie, ce tratează fiecare și când ai nevoie de ambii.
+- [Recuperare după gips: redoare, mușchi, edem](https://orthohub.ro/articole/recuperare-dupa-gips): Recuperare după gips: de ce apar redoarea, edemul și slăbirea mușchilor, cum reiei mișcarea, ce arată studiile și când o durere disproporționată cere medicul.
 
 ### Genunchi
 
@@ -187,6 +189,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Proteza de umăr: anatomică sau inversată](https://orthohub.ro/articole/proteza-umar): Proteza de umăr anatomică sau inversată: cum alege chirurgul după tendoane, cât ține o proteză de umăr, ce poți face după operație și ce riscuri are.
 - [Luxația acromioclaviculară: când se operează](https://orthohub.ro/articole/luxatie-acromioclaviculara): Luxația acromioclaviculară apare după o căzătură pe umăr, des de pe bicicletă. Tipurile Rockwood, de ce majoritatea se tratează fără operație și când revii.
 - [Exerciții pentru umăr acasă: coafa și omoplatul](https://orthohub.ro/articole/exercitii-umar): Exerciții pentru umăr acasă, cu bandă elastică: un program pentru coafa rotatorilor și omoplat, cum crești dificultatea, câtă durere e acceptabilă și cât timp.
+- [Durere de umăr din gât: cum o deosebești](https://orthohub.ro/articole/durere-umar-gat): Durere de umăr din gât: când vine de la o rădăcină nervoasă cervicală (C5-C6) și când de la umărul însuși. Semne, teste la consult, evoluție și tratament.
 
 ### Cot
 
@@ -256,6 +259,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere de spate la birou: ce schimbi concret](https://orthohub.ro/articole/postura-birou): Durere de spate la birou: de ce postura perfectă e un mit, ce arată studiile despre biroul reglabil și pauze, cum setezi monitorul și o rutină de 5 minute.
 - [Osteopenie: scor T, risc de fractură, tratament](https://orthohub.ro/articole/osteopenie): Osteopenie înseamnă scor T între -1 și -2,5, nu osteoporoză. Cum se calculează riscul de fractură, când se tratează și ce ajută: exerciții, calciu, vitamina D.
 - [Scolioză adult: când doare și ce se poate face](https://orthohub.ro/articole/scolioza-adult): Scolioza la adult: diferența dintre curbura veche și cea degenerativă apărută târziu, când doare, ce ajută (exerciții, kinetoterapie) și când se discută operația.
+- [Fisură de coastă: cât doare și cât durează](https://orthohub.ro/articole/fractura-coaste): Fisură de coastă după o cădere sau o lovitură: cum o recunoști, ce arată radiografia, cum ții durerea sub control și ce semne cer medicul de urgență.
 
 ### Mișcare, forță și prevenție
 
@@ -275,6 +279,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere genunchi la coborâre: de ce apare la munte](https://orthohub.ro/articole/drumetii-munte-genunchi): Durere genunchi la coborâre după o drumeție? Cum încarcă panta genunchiul, ce schimbă bețele de trekking, cum te pregătești și când te doare ceva mai grav.
 - [Grădinărit și dureri de spate: cum eviți durerea](https://orthohub.ro/articole/gradinarit): Grădinărit și dureri de spate sau de genunchi? Cum te încălzești, cum ridici și te apleci, ce unelte ajută și când durerea de după grădină cere un consult.
 - [Prevenirea căderilor la vârstnici: ce funcționează](https://orthohub.ro/articole/prevenire-caderi): Prevenirea căderilor la vârstnici după 65 de ani: exerciții de echilibru și forță, programul Otago, medicamente care amețesc, siguranța casei și vederea.
+- [Sport cu artroză: ce sporturi poți face](https://orthohub.ro/articole/activitate-cu-artroza): Sport cu artroză: ce arată ghidurile și studiile despre alergare, înot, tenis, padel și schi, cum dozezi efortul și când te oprești. Cu doze, nu cu interdicții.
 
 ### Artrite, gută și boli inflamatorii
 
