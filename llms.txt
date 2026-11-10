@@ -119,6 +119,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Crampe musculare noaptea la gambă: cauze, ce ajută](https://orthohub.ro/articole/crampe-musculare-noaptea): Crampe musculare noaptea la gambă: de ce apar, de ce magneziul nu ajută în studii, ce arată cercetările despre stretching și când trebuie să mergi la medic.
 - [Ortoped sau reumatolog: la cine mergi primul](https://orthohub.ro/articole/ortoped-sau-reumatolog): Ortoped sau reumatolog: la cine mergi cu durerea articulară. Diferența dintre durerea mecanică și cea inflamatorie, ce tratează fiecare și când ai nevoie de ambii.
 - [Recuperare după gips: redoare, mușchi, edem](https://orthohub.ro/articole/recuperare-dupa-gips): Recuperare după gips: de ce apar redoarea, edemul și slăbirea mușchilor, cum reiei mișcarea, ce arată studiile și când o durere disproporționată cere medicul.
+- [Antiinflamatoare dureri articulare: ce alegi](https://orthohub.ro/articole/anti-inflamatoare-articulatii): Antiinflamatoare pentru dureri articulare: gel sau pastile, cât timp se iau și ce riscuri au. Ce spun ghidul OARSI și studiile despre stomac, inimă și rinichi.
 
 ### Genunchi
 
@@ -152,6 +153,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Recuperare după operație LCA: etape și criterii](https://orthohub.ro/articole/recuperare-dupa-lca): Recuperare după operația de LCA: primele 6 săptămâni, când începi alergarea și de ce revenirea la sport se face după 9 luni, cu teste, nu după calendar.
 - [Sindromul benzii iliotibiale la alergători](https://orthohub.ro/articole/sindrom-banda-iliotibiala): Sindromul benzii iliotibiale la alergători: de ce doare la același kilometru, ce arată studiile despre cadență, rulou și fesieri și cum revii la alergare.
 - [Luxația de rotulă: prima dată și riscul de repetare](https://orthohub.ro/articole/luxatie-rotula): Luxația de rotulă la primul episod: cât de des se repetă, ce factori anatomici cresc riscul, când ajunge tratamentul conservator și când se discută operația.
+- [Durerea de genunchi noaptea: cauze și semne](https://orthohub.ro/articole/durere-genunchi-noaptea): Durerea de genunchi noaptea apare des în artroza avansată, dar uneori ascunde altceva. Cauze, ce poziții ajută la somn și semnele care cer medic repede.
 
 ### Șold și coapsă
 
@@ -239,6 +241,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Periostită tibială: durerea de tibie la alergare](https://orthohub.ro/articole/periostita-tibiala): Periostită tibială: durerea de pe interiorul tibiei la alergare. Cum o deosebești de fractura de stres, de ce apare, cât durează și cum revii la alergat.
 - [Artroza gleznei: cauze, tratament, injecții](https://orthohub.ro/articole/artroza-glezna): Artroza gleznei apare de obicei după o entorsă sau o fractură veche. Cum se recunoaște, ce ajută, ce arată studiile despre injecții și când se discută operația.
 - [Încălțăminte pentru dureri de picioare: cum alegi](https://orthohub.ro/articole/incaltaminte): Cum alegi încălțămintea când te dor picioarele: lățime, toc, rigiditate, branțuri. Ce arată studiile pentru călcâi, genunchi, alergare, bunioane și vârstnici.
+- [Hallux rigidus: tratament și când se operează](https://orthohub.ro/articole/hallux-rigidus): Hallux rigidus e artroza articulației degetului mare de la picior. Ce ajută din tratamentul fără operație, ce arată studiile despre infiltrații și chirurgie.
 
 ### Coloană și oase
 
@@ -293,6 +296,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Artrita reumatoidă: primele semne](https://orthohub.ro/articole/artrita-reumatoida-semne): Primele semne de artrită reumatoidă: umflături simetrice la mâini, redoare de peste o oră dimineața. De ce contează primele 12 săptămâni și ce arată anti-CCP.
 - [Fibromialgia: diagnostic, exercițiu și ce nu ajută](https://orthohub.ro/articole/fibromialgie): Fibromialgia e o durere difuză reală, cu analize normale. Cum se pune diagnosticul, de ce exercițiul gradat e primul tratament și de ce opioidele nu ajută.
 - [Articulația infectată: semne și când mergi la UPU](https://orthohub.ro/articole/artrita-septica): Articulația infectată e o urgență: durere bruscă, umflătură, căldură, uneori febră. Ce semne te trimit la UPU și cât de mare e riscul după o infiltrație.
+- [Analize pentru dureri articulare: ce arată](https://orthohub.ro/articole/analize-dureri-articulare): Ce analize de sânge faci la dureri articulare: VSH, PCR, factor reumatoid, anti-CCP, acid uric, ANA, HLA-B27. Ce înseamnă rezultatele și cele care nu ajută.
 
 ### Sport și leziuni sportive
 
@@ -321,6 +325,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [PRP contraindicații: cine nu poate face PRP](https://orthohub.ro/articole/prp-contraindicatii): PRP contraindicații: infecții, cancer activ, probleme de sânge, anticoagulante, antiinflamatoare. Ce verific înainte și ce medicamente se opresc înaintea PRP.
 - [PRP ruptură musculară: ce arată studiile](https://orthohub.ro/articole/prp-ruptura-musculara): PRP ruptură musculară: studiul Reurink a fost negativ la ischiogambieri, meta-analizele sunt amestecate. Ce arată cifrele, unde nu folosesc PRP și ce ajută de fapt.
 - [Terapia cu unde de șoc: unde are dovezi și unde nu](https://orthohub.ro/articole/unde-de-soc): Terapia cu unde de șoc: ce arată studiile în fasciita plantară, tendinita calcară de umăr și tendonul lui Ahile, focale față de radiale și câte ședințe se fac.
+- [Proloterapie: ce arată studiile despre dextroză](https://orthohub.ro/articole/proloterapie-dextroza): Proloterapia cu dextroză: ce arată studiile la artroza de genunchi și la tendinopatii, cum se compară cu PRP și unde dovezile rămân slabe.
 
 ### In English
 
