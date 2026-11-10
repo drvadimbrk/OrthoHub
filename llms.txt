@@ -224,6 +224,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fractura de metacarp: fractura boxerului](https://orthohub.ro/articole/fractura-metacarp): Fractură metacarp după un pumn în perete? Fractura boxerului se vindecă de obicei fără operație. Ce unghi e acceptabil, de ce contează rotația și când pui ace.
 - [Amorțeală mâini noaptea: nu e mereu tunelul carpian](https://orthohub.ro/articole/amorteala-maini-noaptea): Amorțeală mâini noaptea: tunel carpian, nerv cubital, gât sau polineuropatie din diabet și deficit de B12. Cum le deosebești și ce analize și teste contează.
 - [Tunel carpian în sarcină: cauze, evoluție](https://orthohub.ro/articole/tunel-carpian-sarcina): Tunel carpian în sarcină: de ce apar furnicăturile, ce ajută (orteza de noapte), dacă trece după naștere și cât durează. Ce arată studiile.
+- [Fractura de scafoid: simptome și tratament](https://orthohub.ro/articole/fractura-scafoid): Fractura de scafoid după o căzătură pe mână: de ce nu se vede mereu pe prima radiografie, când se face RMN sau CT și când ajunge ghipsul sau șurubul.
 
 ### Picior și gleznă
 
@@ -246,6 +247,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Încălțăminte pentru dureri de picioare: cum alegi](https://orthohub.ro/articole/incaltaminte): Cum alegi încălțămintea când te dor picioarele: lățime, toc, rigiditate, branțuri. Ce arată studiile pentru călcâi, genunchi, alergare, bunioane și vârstnici.
 - [Hallux rigidus: tratament și când se operează](https://orthohub.ro/articole/hallux-rigidus): Hallux rigidus e artroza articulației degetului mare de la picior. Ce ajută din tratamentul fără operație, ce arată studiile despre infiltrații și chirurgie.
 - [Picior plat la adult: cauze, stadii, tratament](https://orthohub.ro/articole/picior-plat-adult): Picior plat la adult care apare târziu: de ce se prăbușește bolta, ce e disfuncția tendonului tibial posterior, ce ajută (branțuri, exerciții) și când se operează.
+- [Glezne umflate: cauze și când mergi la medic](https://orthohub.ro/articole/durere-glezna-umflata): Glezne umflate: cauze ortopedice, venoase și cardiace. Cum deosebești o gleznă umflată la o singură parte de umflarea ambelor glezne și când mergi la medic.
 
 ### Coloană și oase
 
@@ -271,6 +273,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Scolioză adult: când doare și ce se poate face](https://orthohub.ro/articole/scolioza-adult): Scolioza la adult: diferența dintre curbura veche și cea degenerativă apărută târziu, când doare, ce ajută (exerciții, kinetoterapie) și când se discută operația.
 - [Fisură de coastă: cât doare și cât durează](https://orthohub.ro/articole/fractura-coaste): Fisură de coastă după o cădere sau o lovitură: cum o recunoști, ce arată radiografia, cum ții durerea sub control și ce semne cer medicul de urgență.
 - [Durerea de coccis: de ce apare și cum se tratează](https://orthohub.ro/articole/coccigodinie): Durerea de coccis (coccigodinie) apare după cădere, naștere sau statul lung pe scaun. Ce ajută: perna, exercițiile, infiltrația, undele de șoc și, rar, operația.
+- [Durere între omoplați: cauze și semne de alarmă](https://orthohub.ro/articole/durere-dorsala): Durere între omoplați: cauze musculare și posturale, durere trimisă de gât și cauze care nu țin de coloană (inimă, aortă, vezică biliară). Când mergi la medic.
 
 ### Mișcare, forță și prevenție
 
@@ -301,6 +304,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fibromialgia: diagnostic, exercițiu și ce nu ajută](https://orthohub.ro/articole/fibromialgie): Fibromialgia e o durere difuză reală, cu analize normale. Cum se pune diagnosticul, de ce exercițiul gradat e primul tratament și de ce opioidele nu ajută.
 - [Articulația infectată: semne și când mergi la UPU](https://orthohub.ro/articole/artrita-septica): Articulația infectată e o urgență: durere bruscă, umflătură, căldură, uneori febră. Ce semne te trimit la UPU și cât de mare e riscul după o infiltrație.
 - [Analize pentru dureri articulare: ce arată](https://orthohub.ro/articole/analize-dureri-articulare): Ce analize de sânge faci la dureri articulare: VSH, PCR, factor reumatoid, anti-CCP, acid uric, ANA, HLA-B27. Ce înseamnă rezultatele și cele care nu ajută.
+- [Diferența dintre gută și artroză: semne și analize](https://orthohub.ro/articole/guta-sau-artroza): Diferența dintre gută și artroză: debut, locul durerii, rolul cristalelor, al ecografiei și al radiografiei. Ce e pseudogută și când articulația cere medic repede.
 
 ### Sport și leziuni sportive
 
@@ -331,6 +335,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Terapia cu unde de șoc: unde are dovezi și unde nu](https://orthohub.ro/articole/unde-de-soc): Terapia cu unde de șoc: ce arată studiile în fasciita plantară, tendinita calcară de umăr și tendonul lui Ahile, focale față de radiale și câte ședințe se fac.
 - [Proloterapie: ce arată studiile despre dextroză](https://orthohub.ro/articole/proloterapie-dextroza): Proloterapia cu dextroză: ce arată studiile la artroza de genunchi și la tendinopatii, cum se compară cu PRP și unde dovezile rămân slabe.
 - [Infiltrații cu cortizon: de câte ori pe an](https://orthohub.ro/articole/cortizon-cat-de-des): Infiltrații cu cortizon: de câte ori pe an se pot face în aceeași articulație, ce arată studiile despre cartilaj, tendoane și glicemie și când să nu repeți.
+- [Infiltrație ghidată ecografic: ce aduce în plus](https://orthohub.ro/articole/infiltratie-ghidata-ecografic): Infiltrație ghidată ecografic sau pe repere? Ce arată studiile despre precizia acului la genunchi, umăr și șold, unde contează cel mai mult și ce limite are.
 
 ### In English
 
