@@ -156,6 +156,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Luxația de rotulă: prima dată și riscul de repetare](https://orthohub.ro/articole/luxatie-rotula): Luxația de rotulă la primul episod: cât de des se repetă, ce factori anatomici cresc riscul, când ajunge tratamentul conservator și când se discută operația.
 - [Durerea de genunchi noaptea: cauze și semne](https://orthohub.ro/articole/durere-genunchi-noaptea): Durerea de genunchi noaptea apare des în artroza avansată, dar uneori ascunde altceva. Cauze, ce poziții ajută la somn și semnele care cer medic repede.
 - [Durere în spatele genunchiului: cauze frecvente](https://orthohub.ro/articole/durere-spatele-genunchiului): Durere în spatele genunchiului: chist Baker, tendon, menisc sau vas de sânge. Cum le deosebești, ce arată ecografia și când e urgență (tromboză).
+- [Genunchiul cedează: cauze, teste și tratament](https://orthohub.ro/articole/genunchi-instabil): Genunchiul cedează când ligamentele, durerea sau slăbiciunea cvadricepsului nu-l mai țin. Cauze, ce teste fac la consult, cum arată tratamentul și semnele de alarmă.
 
 ### Șold și coapsă
 
@@ -197,6 +198,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Exerciții pentru umăr acasă: coafa și omoplatul](https://orthohub.ro/articole/exercitii-umar): Exerciții pentru umăr acasă, cu bandă elastică: un program pentru coafa rotatorilor și omoplat, cum crești dificultatea, câtă durere e acceptabilă și cât timp.
 - [Durere de umăr din gât: cum o deosebești](https://orthohub.ro/articole/durere-umar-gat): Durere de umăr din gât: când vine de la o rădăcină nervoasă cervicală (C5-C6) și când de la umărul însuși. Semne, teste la consult, evoluție și tratament.
 - [Durere de umăr la ridicarea brațului: cauze](https://orthohub.ro/articole/durere-umar-brat-ridicat): Durere de umăr la ridicarea brațului: ce înseamnă când te doare între 60° și 120° și ce înseamnă când doare sus. Teste simple, cauze, ce faci și când mergi la medic.
+- [Artroză acromioclaviculară: durere în vârful umărului](https://orthohub.ro/articole/artroza-acromioclaviculara): Artroza acromioclaviculară dă durere în vârful umărului, la împins și noaptea. Cauze, osteoliza de la sală, infiltrația ecoghidată și când se operează.
 
 ### Cot
 
@@ -250,6 +252,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Picior plat la adult: cauze, stadii, tratament](https://orthohub.ro/articole/picior-plat-adult): Picior plat la adult care apare târziu: de ce se prăbușește bolta, ce e disfuncția tendonului tibial posterior, ce ajută (branțuri, exerciții) și când se operează.
 - [Glezne umflate: cauze și când mergi la medic](https://orthohub.ro/articole/durere-glezna-umflata): Glezne umflate: cauze ortopedice, venoase și cardiace. Cum deosebești o gleznă umflată la o singură parte de umflarea ambelor glezne și când mergi la medic.
 - [Sindrom de tunel tarsian: arsură și amorțeală în talpă](https://orthohub.ro/articole/sindrom-tunel-tarsian): Sindromul de tunel tarsian apare când nervul tibial e comprimat la gleznă. Simptome în talpă, cauze (chisturi, varice), EMG, ecografie și tratament.
+- [Boala Haglund: umflătura din spatele călcâiului](https://orthohub.ro/articole/haglund): Boala Haglund e o proeminență osoasă în spatele călcâiului, care irită bursa și Ahile. Cum o recunoști, ce ajută din încălțăminte și exerciții și când se operează.
 
 ### Coloană și oase
 
@@ -297,6 +300,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Grădinărit și dureri de spate: cum eviți durerea](https://orthohub.ro/articole/gradinarit): Grădinărit și dureri de spate sau de genunchi? Cum te încălzești, cum ridici și te apleci, ce unelte ajută și când durerea de după grădină cere un consult.
 - [Prevenirea căderilor la vârstnici: ce funcționează](https://orthohub.ro/articole/prevenire-caderi): Prevenirea căderilor la vârstnici după 65 de ani: exerciții de echilibru și forță, programul Otago, medicamente care amețesc, siguranța casei și vederea.
 - [Sport cu artroză: ce sporturi poți face](https://orthohub.ro/articole/activitate-cu-artroza): Sport cu artroză: ce arată ghidurile și studiile despre alergare, înot, tenis, padel și schi, cum dozezi efortul și când te oprești. Cu doze, nu cu interdicții.
+- [Înot și artroză: ce spun studiile despre apă](https://orthohub.ro/articole/inot-artroza): Înot și artroză: exercițiile în apă reduc ușor durerea, dar nu înlocuiesc forța. Ce arată Cochrane, ce stiluri alegi și cum le combini cu mișcarea pe uscat.
 
 ### Artrite, gută și boli inflamatorii
 
@@ -340,6 +344,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Infiltrații cu cortizon: de câte ori pe an](https://orthohub.ro/articole/cortizon-cat-de-des): Infiltrații cu cortizon: de câte ori pe an se pot face în aceeași articulație, ce arată studiile despre cartilaj, tendoane și glicemie și când să nu repeți.
 - [Infiltrație ghidată ecografic: ce aduce în plus](https://orthohub.ro/articole/infiltratie-ghidata-ecografic): Infiltrație ghidată ecografic sau pe repere? Ce arată studiile despre precizia acului la genunchi, umăr și șold, unde contează cel mai mult și ce limite are.
 - [Concentrat de măduvă osoasă (BMAC) în artroză](https://orthohub.ro/articole/bmac-maduva-osoasa): Concentratul de măduvă osoasă (BMAC) conține foarte puține celule stem. Ce arată studiile față de cortizon, acid hialuronic și PRP în artroza de genunchi.
+- [Colagen injectabil la genunchi: ce spun studiile](https://orthohub.ro/articole/colagen-injectabil): Colagenul injectabil în articulații are studii puține și mici. Ce arată trialurile, cum se compară cu acidul hialuronic și ce nu se știe încă despre el.
 
 ### In English
 
