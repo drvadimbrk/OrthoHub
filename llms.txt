@@ -231,6 +231,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Amorțeală mâini noaptea: nu e mereu tunelul carpian](https://orthohub.ro/articole/amorteala-maini-noaptea): Amorțeală mâini noaptea: tunel carpian, nerv cubital, gât sau polineuropatie din diabet și deficit de B12. Cum le deosebești și ce analize și teste contează.
 - [Tunel carpian în sarcină: cauze, evoluție](https://orthohub.ro/articole/tunel-carpian-sarcina): Tunel carpian în sarcină: de ce apar furnicăturile, ce ajută (orteza de noapte), dacă trece după naștere și cât durează. Ce arată studiile.
 - [Fractura de scafoid: simptome și tratament](https://orthohub.ro/articole/fractura-scafoid): Fractura de scafoid după o căzătură pe mână: de ce nu se vede mereu pe prima radiografie, când se face RMN sau CT și când ajunge ghipsul sau șurubul.
+- [Entorsă deget mare: degetul schiorului](https://orthohub.ro/articole/degetul-schiorului): Entorsă deget mare după o cădere: ce este degetul schiorului, cum se deosebește o ruptură parțială de una completă și când ai nevoie de operație.
+- [Durere încheietură partea degetului mic: TFCC](https://orthohub.ro/articole/leziune-tfcc): Durere încheietură partea degetului mic: leziunea de TFCC, cum o recunoști, ce arată ecografia și RMN-ul, cum o tratezi cu orteză și când e nevoie de artroscopie.
 
 ### Picior și gleznă
 
@@ -256,6 +258,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Glezne umflate: cauze și când mergi la medic](https://orthohub.ro/articole/durere-glezna-umflata): Glezne umflate: cauze ortopedice, venoase și cardiace. Cum deosebești o gleznă umflată la o singură parte de umflarea ambelor glezne și când mergi la medic.
 - [Sindrom de tunel tarsian: arsură și amorțeală în talpă](https://orthohub.ro/articole/sindrom-tunel-tarsian): Sindromul de tunel tarsian apare când nervul tibial e comprimat la gleznă. Simptome în talpă, cauze (chisturi, varice), EMG, ecografie și tratament.
 - [Boala Haglund: umflătura din spatele călcâiului](https://orthohub.ro/articole/haglund): Boala Haglund e o proeminență osoasă în spatele călcâiului, care irită bursa și Ahile. Cum o recunoști, ce ajută din încălțăminte și exerciții și când se operează.
+- [Bursită călcâi: durere în spatele călcâiului](https://orthohub.ro/articole/bursita-retrocalcaneana): Bursită călcâi la spatele osului: diferența dintre bursita retrocalcaneană și cea de la pantof, de ce nu se infiltrează în Ahile și când se operează.
 
 ### Coloană și oase
 
@@ -317,6 +320,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Analize pentru dureri articulare: ce arată](https://orthohub.ro/articole/analize-dureri-articulare): Ce analize de sânge faci la dureri articulare: VSH, PCR, factor reumatoid, anti-CCP, acid uric, ANA, HLA-B27. Ce înseamnă rezultatele și cele care nu ajută.
 - [Diferența dintre gută și artroză: semne și analize](https://orthohub.ro/articole/guta-sau-artroza): Diferența dintre gută și artroză: debut, locul durerii, rolul cristalelor, al ecografiei și al radiografiei. Ce e pseudogută și când articulația cere medic repede.
 - [Polimialgie reumatică: simptome și tratament](https://orthohub.ro/articole/polimialgie-reumatica): Polimialgie reumatică: durere și redoare la ambii umeri și șolduri după 50 de ani. Cum se recunoaște, ce analize ajută, cum se tratează și semnele de arterită.
+- [Hipermobilitate articulară: durere și tratament](https://orthohub.ro/articole/sindrom-hipermobilitate): Hipermobilitate articulară: când articulațiile prea laxe dor, se luxează sau obosesc. Scorul Beighton, hEDS și ce arată studiile despre exerciții.
 
 ### Sport și leziuni sportive
 
@@ -350,6 +354,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Infiltrație ghidată ecografic: ce aduce în plus](https://orthohub.ro/articole/infiltratie-ghidata-ecografic): Infiltrație ghidată ecografic sau pe repere? Ce arată studiile despre precizia acului la genunchi, umăr și șold, unde contează cel mai mult și ce limite are.
 - [Concentrat de măduvă osoasă (BMAC) în artroză](https://orthohub.ro/articole/bmac-maduva-osoasa): Concentratul de măduvă osoasă (BMAC) conține foarte puține celule stem. Ce arată studiile față de cortizon, acid hialuronic și PRP în artroza de genunchi.
 - [Colagen injectabil la genunchi: ce spun studiile](https://orthohub.ro/articole/colagen-injectabil): Colagenul injectabil în articulații are studii puține și mici. Ce arată trialurile, cum se compară cu acidul hialuronic și ce nu se știe încă despre el.
+- [Embolizare arteră geniculară: dovezi în artroză](https://orthohub.ro/articole/embolizare-geniculara): Embolizare arteră geniculară pentru durerea din artroza de genunchi: cum funcționează, ce arată studiile cu procedură simulată și pentru cine se discută.
 
 ### In English
 
