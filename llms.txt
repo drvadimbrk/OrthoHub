@@ -165,6 +165,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Boala Osgood Schlatter: simptome și tratament](https://orthohub.ro/articole/osgood-schlatter): Boala Osgood Schlatter: umflătura dureroasă de sub genunchi la adolescenți sportivi. Cât durează, cum dozezi sportul și ce se întâmplă la adult, cu os separat.
 - [Revizia protezei de genunchi: când e nevoie](https://orthohub.ro/articole/revizie-proteza-genunchi): Revizia protezei de genunchi: cât durează o proteză, ce semne sugerează că ceva nu e în regulă și când se discută reoperarea. Ce arată registrele și studiile.
 - [Ruptura rădăcinii meniscului: tratament și recuperare](https://orthohub.ro/articole/ruptura-radacina-menisc): Ruptura rădăcinii meniscului (root tear): ce e, cum se recunoaște pe RMN, de ce contează reparația și ce arată studiile despre artroză, reoperare și recuperare.
+- [Artroza se poate vindeca sau inversa?](https://orthohub.ro/articole/artroza-se-poate-vindeca): Se poate inversa sau vindeca artroza? Ce se poate schimba cu exerciții, greutate și tratament, ce nu poate reface niciun produs și ce spun ghidurile OARSI și ESCEO.
+- [Tratamentul artrozei de genunchi, pe trepte](https://orthohub.ro/articole/tratament-artroza-genunchi): Tratamentul artrozei de genunchi: opțiunile în ordinea în care se încearcă, de la exerciții și greutate la infiltrații, radiofrecvență, embolizare și proteză.
 
 ### Șold și coapsă
 
@@ -186,6 +188,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere în fesă la șezut: tendon sau sciatică?](https://orthohub.ro/articole/tendinopatie-ischiogambieri-proximala): Durere în fesă la șezut, pe osul pe care stai? Des e tendinopatia ischiogambierilor. Cum o deosebești de sciatică, ce exerciții ajută și ce știm despre PRP.
 - [Displazia de șold la adult: semne și tratament](https://orthohub.ro/articole/displazie-sold-adult): Displazia de șold la adult se descoperă des târziu, la femei tinere cu durere inghinală. Ce arată radiografia și când se discută osteotomia de bazin.
 - [Sindromul piriform: durere în fesă care imită sciatica](https://orthohub.ro/articole/sindrom-piriform): Sindromul piriform dă durere în fesă, uneori pe picior. Cum îl deosebești de hernia de disc, ce teste se fac și ce arată studiile despre infiltrație.
+- [Bursita de șold (trohanteriană): tratament](https://orthohub.ro/articole/bursita-trohanteriana): Bursita de șold, sau sindromul durerii trohanteriene: durere pe lateral. Ce o provoacă și ce arată studiile despre exerciții, cortizon, PRP și unde de șoc.
 
 ### Umăr
 
@@ -207,6 +210,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere de umăr din gât: cum o deosebești](https://orthohub.ro/articole/durere-umar-gat): Durere de umăr din gât: când vine de la o rădăcină nervoasă cervicală (C5-C6) și când de la umărul însuși. Semne, teste la consult, evoluție și tratament.
 - [Durere de umăr la ridicarea brațului: cauze](https://orthohub.ro/articole/durere-umar-brat-ridicat): Durere de umăr la ridicarea brațului: ce înseamnă când te doare între 60° și 120° și ce înseamnă când doare sus. Teste simple, cauze, ce faci și când mergi la medic.
 - [Artroză acromioclaviculară: durere în vârful umărului](https://orthohub.ro/articole/artroza-acromioclaviculara): Artroza acromioclaviculară dă durere în vârful umărului, la împins și noaptea. Cauze, osteoliza de la sală, infiltrația ecoghidată și când se operează.
+- [Exerciții pentru coafa rotatorilor: ce arată studiile](https://orthohub.ro/articole/exercitii-coafa-rotatori): Exerciții pentru coafa rotatorilor în durerea de umăr: ce tipuri de exerciții au dovezi, cum le dozezi, ce greșeli faci des și când mergi la consult.
 
 ### Cot
 
@@ -292,6 +296,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere între omoplați: cauze și semne de alarmă](https://orthohub.ro/articole/durere-dorsala): Durere între omoplați: cauze musculare și posturale, durere trimisă de gât și cauze care nu țin de coloană (inimă, aortă, vezică biliară). Când mergi la medic.
 - [Scolioză copii: când observi, când pui corset](https://orthohub.ro/articole/scolioza-copii): Scolioza la copii și adolescenți: testul Adams, unghiul Cobb, ce arată studiul BrAIST despre corset și de ce ghiozdanul nu provoacă scolioză.
 - [Fractură vertebrală tasare: semne și tratament](https://orthohub.ro/articole/fractura-vertebrala): Fractura vertebrală prin tasare: durere de spate după 60 de ani, des nediagnosticată. Cum o descoperi, ce ajută (corset, vertebroplastie) și ce previne a doua.
+- [Durere de spate: 8 întrebări pentru ortoped](https://orthohub.ro/articole/intrebari-durere-spate): Durere de spate: cele 8 întrebări de pus ortopedului la consult, de la cauză și imagistică la exerciții, medicamente, operație și semne de alarmă. Cu dovezi.
 
 ### Mișcare, forță și prevenție
 

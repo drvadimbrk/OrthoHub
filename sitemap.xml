@@ -17,7 +17,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- ── Articles (260) ── -->
+  <!-- ── Articles (265) ── -->
   <url>
     <loc>https://orthohub.ro/articole/prp-genunchi-bucuresti-dr-birca</loc>
     <lastmod>2026-10-13</lastmod>
@@ -2354,6 +2354,51 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://orthohub.ro/articole/foto/rmn-genunchi-menisc-ligamente.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/artroza-se-poate-vindeca</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/artroza-genunchi-radiografie-stadiu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/tratament-artroza-genunchi</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/artroza-femuropatelara-radiografie.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/bursita-trohanteriana</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/bazin-sold-ct-3d-reconstructie.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/exercitii-coafa-rotatori</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/umar-radiografie-rmn-coafa.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://orthohub.ro/articole/intrebari-durere-spate</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://orthohub.ro/articole/foto/durere-spate-zona-lombara.webp</image:loc>
     </image:image>
   </url>
 </urlset>
