@@ -172,6 +172,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Durere genunchi la genuflexiuni: cauze și ce faci](https://orthohub.ro/articole/durere-genunchi-genuflexiuni): Durere genunchi la genuflexiuni: rotulă, menisc sau tendon? Cum deosebești cauzele, ce arată studiile despre adâncime și cum reiei exercițiul fără durere.
 - [Durere de genunchi la copii: cauze și semne](https://orthohub.ro/articole/durere-genunchi-copii): Durere de genunchi la copii și adolescenți: Osgood-Schlatter, durere sub rotulă, osteocondrită și durerea venită din șold. Ce e banal și ce cere consult.
 - [Ruptura de tendon cvadricipital și rotulian](https://orthohub.ro/articole/ruptura-tendon-cvadricipital): Ruptura de tendon cvadricipital sau rotulian: cum o recunoști, ce arată ecografia, de ce contează operația în primele 3 săptămâni și ce riscuri există.
+- [Osteonecroză genunchi (SONK): durere bruscă](https://orthohub.ro/articole/osteonecroza-genunchi): Osteonecroza genunchiului (SONK): durere bruscă pe interior la vârstnici. Legătura cu meniscul, cum o arată RMN-ul, descărcarea și când se discută operația.
 
 ### Șold și coapsă
 
@@ -219,6 +220,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Exerciții pentru coafa rotatorilor: ce arată studiile](https://orthohub.ro/articole/exercitii-coafa-rotatori): Exerciții pentru coafa rotatorilor în durerea de umăr: ce tipuri de exerciții au dovezi, cum le dozezi, ce greșeli faci des și când mergi la consult.
 - [Durere umăr stâng: când nu vine de la umăr](https://orthohub.ro/articole/durere-umar-stang): Durere umăr stâng: cum deosebești o problemă a umărului de una a inimii sau a plămânului. Semne de urgență, testul mișcării și când mergi la ortoped.
 - [Fractura de humerus proximal la vârstnici](https://orthohub.ro/articole/fractura-humerus): Fractura de humerus proximal (de umăr) la vârstnici: de ce adesea nu se operează, ce arată PROFHER și Cochrane, cum decurge recuperarea și rolul osteoporozei.
+- [Leziune SLAP umăr: aruncători, sală și operație](https://orthohub.ro/articole/leziune-slap): Leziune SLAP la umăr: ce e labrumul superior, de ce apare la aruncători și în sală, cum o diagnostichez și când alegem repararea sau tenodeza bicepsului.
 
 ### Cot
 
@@ -282,6 +284,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Bursită călcâi: durere în spatele călcâiului](https://orthohub.ro/articole/bursita-retrocalcaneana): Bursită călcâi la spatele osului: diferența dintre bursita retrocalcaneană și cea de la pantof, de ce nu se infiltrează în Ahile și când se operează.
 - [Picior plat la copii: când e normal](https://orthohub.ro/articole/picior-plat-copii): Picior plat la copii: de ce arcul se formează încet, cum deosebești piciorul plat flexibil de cel rigid, când ajută sau nu branțurile și când ceri un consult.
 - [Tendinită peronieri: cauze, diagnostic, tratament](https://orthohub.ro/articole/tendinita-peronieri): Tendinita peronierilor dă durere în exteriorul gleznei, adesea după o entorsă. Cum o recunoști, ce arată ecografia dinamică și când ajută orteza sau operația.
+- [Sesamoidită: durerea de sub degetul mare](https://orthohub.ro/articole/sesamoidita): Sesamoidită: durerea de pe talpă, sub degetul mare. Cum deosebesc inflamația de fractură, ce ajută la dansatori și alergători și când se operează.
 
 ### Coloană și oase
 
@@ -336,6 +339,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Înot și artroză: ce spun studiile despre apă](https://orthohub.ro/articole/inot-artroza): Înot și artroză: exercițiile în apă reduc ușor durerea, dar nu înlocuiesc forța. Ce arată Cochrane, ce stiluri alegi și cum le combini cu mișcarea pe uscat.
 - [Tai chi pentru artroză: ce arată studiile](https://orthohub.ro/articole/tai-chi-artroza): Tai chi în artroza de genunchi a dat rezultate similare cu kinetoterapia într-un studiu randomizat. Ce spun studiile despre durere, echilibru și căderi.
 - [Omega 3 articulații: ce ajută și ce nu](https://orthohub.ro/articole/omega-3-articulatii): Omega 3 articulații: ajută în artroză sau în artrita reumatoidă? Ce arată studiile mari, ce doze s-au testat și ce riscuri apar la doze mari de ulei de pește.
+- [Bicicletă artroză genunchi: cât și cum pedalezi](https://orthohub.ro/articole/bicicleta-genunchi): Bicicletă și artroză de genunchi: ce arată studiile, cum reglezi șaua și cu ce durată începi, pentru mai puțină durere, fără să-ți forțezi genunchiul.
 
 ### Artrite, gută și boli inflamatorii
 
@@ -395,6 +399,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Ozonoterapie articulații: ce spun studiile](https://orthohub.ro/articole/ozon-infiltratii): Ozonoterapie articulații: ajută în artroza de genunchi și în hernia de disc? Ce arată meta-analizele, cât ține efectul și cum se compară cu acidul hialuronic.
 - [Electroterapie și magnetoterapie: ce merită](https://orthohub.ro/articole/fizioterapie-aparate): Electroterapie și magnetoterapie: ce arată studiile despre TENS, laser, ultrasunete și magnet, unde ajută cu adevărat și de ce exercițiul rămâne tratamentul de bază.
 - [Terapie cu țesut adipos în artroză: dovezi](https://orthohub.ro/articole/tesut-adipos): Terapia cu țesut adipos microfragmentat în artroza de genunchi: cum se recoltează, ce conține și ce arată studiile față de PRP, cortizon și ser fiziologic.
+- [PRP în tendinite: ce arată studiile pe tendoane](https://orthohub.ro/articole/prp-tendoane): PRP în tendinite: ce arată studiile la cot, genunchi, Ahile, călcâi și umăr. Unde ajută, unde nu și cum decidem dacă merită o infiltrație cu PRP în tendon.
 
 ### In English
 
