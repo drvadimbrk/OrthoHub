@@ -122,6 +122,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Antiinflamatoare dureri articulare: ce alegi](https://orthohub.ro/articole/anti-inflamatoare-articulatii): Antiinflamatoare pentru dureri articulare: gel sau pastile, cât timp se iau și ce riscuri au. Ce spun ghidul OARSI și studiile despre stomac, inimă și rinichi.
 - [Tiroida și durerile articulare: ce legătură e](https://orthohub.ro/articole/tiroida-dureri-articulare): Tiroida și durerile articulare: când hipotiroidismul dă dureri musculare, tunel carpian sau umăr înghețat, ce arată studiile și când merită să-ți verifici TSH-ul.
 - [Dureri de creștere copii: când sunt normale](https://orthohub.ro/articole/dureri-de-crestere): Dureri de creștere la copii: noaptea, la ambele picioare, fără șchiopătat. Ce știm despre ele, ce faci acasă și ce semne de alarmă cer un consult.
+- [Pregătirea pentru operația de proteză: ghid](https://orthohub.ro/articole/pregatire-operatie-proteza): Cum te pregătești pentru o proteză de genunchi sau șold: exerciții înainte de operație, factori de risc pe care îi poți schimba, casa și recuperarea.
+- [Întrebări pentru chirurg înainte de proteză](https://orthohub.ro/articole/intrebari-inainte-de-proteza): 10 întrebări de pus chirurgului înainte de o proteză de genunchi sau de șold: indicația, alternativele, riscurile, recuperarea și așteptările realiste.
+- [Proceduri minim invazive în ortopedie](https://orthohub.ro/articole/interventii-minim-invazive-ortopedie): Chirurgie și proceduri minim invazive în ortopedie: ce sunt, când au sens, ce arată studiile despre riscuri și 5 întrebări de pus medicului înainte să alegi.
 
 ### Genunchi
 
@@ -160,6 +163,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Genunchiul cedează: cauze, teste și tratament](https://orthohub.ro/articole/genunchi-instabil): Genunchiul cedează când ligamentele, durerea sau slăbiciunea cvadricepsului nu-l mai țin. Cauze, ce teste fac la consult, cum arată tratamentul și semnele de alarmă.
 - [Genunchieră artroză: când ajută și ce tip alegi](https://orthohub.ro/articole/genunchiera): Genunchieră artroză: orteza de descărcare, cea rotuliană și manșonul. Ce arată studiile, cui folosește, ce greșeli eviți și ce genunchieră pentru artroza medială.
 - [Boala Osgood Schlatter: simptome și tratament](https://orthohub.ro/articole/osgood-schlatter): Boala Osgood Schlatter: umflătura dureroasă de sub genunchi la adolescenți sportivi. Cât durează, cum dozezi sportul și ce se întâmplă la adult, cu os separat.
+- [Revizia protezei de genunchi: când e nevoie](https://orthohub.ro/articole/revizie-proteza-genunchi): Revizia protezei de genunchi: cât durează o proteză, ce semne sugerează că ceva nu e în regulă și când se discută reoperarea. Ce arată registrele și studiile.
+- [Ruptura rădăcinii meniscului: tratament și recuperare](https://orthohub.ro/articole/ruptura-radacina-menisc): Ruptura rădăcinii meniscului (root tear): ce e, cum se recunoaște pe RMN, de ce contează reparația și ce arată studiile despre artroză, reoperare și recuperare.
 
 ### Șold și coapsă
 
