@@ -171,6 +171,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Artroscopie genunchi: când are sens și când nu](https://orthohub.ro/articole/artroscopie-genunchi): Artroscopia de genunchi ajută la blocaj mecanic, ruptură de menisc reparabilă și ligamente, dar nu în artroză. Ce arată studiile Kirkley, Moseley și Sihvonen.
 - [Durere genunchi la genuflexiuni: cauze și ce faci](https://orthohub.ro/articole/durere-genunchi-genuflexiuni): Durere genunchi la genuflexiuni: rotulă, menisc sau tendon? Cum deosebești cauzele, ce arată studiile despre adâncime și cum reiei exercițiul fără durere.
 - [Durere de genunchi la copii: cauze și semne](https://orthohub.ro/articole/durere-genunchi-copii): Durere de genunchi la copii și adolescenți: Osgood-Schlatter, durere sub rotulă, osteocondrită și durerea venită din șold. Ce e banal și ce cere consult.
+- [Ruptura de tendon cvadricipital și rotulian](https://orthohub.ro/articole/ruptura-tendon-cvadricipital): Ruptura de tendon cvadricipital sau rotulian: cum o recunoști, ce arată ecografia, de ce contează operația în primele 3 săptămâni și ce riscuri există.
 
 ### Șold și coapsă
 
@@ -217,6 +218,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Artroză acromioclaviculară: durere în vârful umărului](https://orthohub.ro/articole/artroza-acromioclaviculara): Artroza acromioclaviculară dă durere în vârful umărului, la împins și noaptea. Cauze, osteoliza de la sală, infiltrația ecoghidată și când se operează.
 - [Exerciții pentru coafa rotatorilor: ce arată studiile](https://orthohub.ro/articole/exercitii-coafa-rotatori): Exerciții pentru coafa rotatorilor în durerea de umăr: ce tipuri de exerciții au dovezi, cum le dozezi, ce greșeli faci des și când mergi la consult.
 - [Durere umăr stâng: când nu vine de la umăr](https://orthohub.ro/articole/durere-umar-stang): Durere umăr stâng: cum deosebești o problemă a umărului de una a inimii sau a plămânului. Semne de urgență, testul mișcării și când mergi la ortoped.
+- [Fractura de humerus proximal la vârstnici](https://orthohub.ro/articole/fractura-humerus): Fractura de humerus proximal (de umăr) la vârstnici: de ce adesea nu se operează, ce arată PROFHER și Cochrane, cum decurge recuperarea și rolul osteoporozei.
 
 ### Cot
 
@@ -250,6 +252,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Entorsă deget mare: degetul schiorului](https://orthohub.ro/articole/degetul-schiorului): Entorsă deget mare după o cădere: ce este degetul schiorului, cum se deosebește o ruptură parțială de una completă și când ai nevoie de operație.
 - [Durere încheietură partea degetului mic: TFCC](https://orthohub.ro/articole/leziune-tfcc): Durere încheietură partea degetului mic: leziunea de TFCC, cum o recunoști, ce arată ecografia și RMN-ul, cum o tratezi cu orteză și când e nevoie de artroscopie.
 - [Ortoped de mână: când mergi la consult](https://orthohub.ro/articole/chirurg-ortoped-mana): Ortoped de mână: tunel carpian, deget în resort, De Quervain, Dupuytren, fracturi. Când mergi la consult și ce arată studiile despre tratament.
+- [Canalul Guyon: amorțeala degetului mic](https://orthohub.ro/articole/sindrom-canal-guyon): Canalul Guyon și nervul ulnar: de ce amorțește degetul mic la bicicliști, cum îl deosebești de problema de la cot, ce arată ecografia și ce schimbi pe ghidon.
 
 ### Picior și gleznă
 
@@ -306,6 +309,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Scolioză copii: când observi, când pui corset](https://orthohub.ro/articole/scolioza-copii): Scolioza la copii și adolescenți: testul Adams, unghiul Cobb, ce arată studiul BrAIST despre corset și de ce ghiozdanul nu provoacă scolioză.
 - [Fractură vertebrală tasare: semne și tratament](https://orthohub.ro/articole/fractura-vertebrala): Fractura vertebrală prin tasare: durere de spate după 60 de ani, des nediagnosticată. Cum o descoperi, ce ajută (corset, vertebroplastie) și ce previne a doua.
 - [Durere de spate: 8 întrebări pentru ortoped](https://orthohub.ro/articole/intrebari-durere-spate): Durere de spate: cele 8 întrebări de pus ortopedului la consult, de la cauză și imagistică la exerciții, medicamente, operație și semne de alarmă. Cu dovezi.
+- [Vitamina D și oasele: ai nevoie de supliment?](https://orthohub.ro/articole/vitamina-d-oase): Vitamina D și oasele: ce arată studiile mari despre fracturi și căderi, cui îi folosește suplimentul, când ceri analiza și de ce dozele uriașe pot face rău.
 
 ### Mișcare, forță și prevenție
 
@@ -343,6 +347,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Polimialgie reumatică: simptome și tratament](https://orthohub.ro/articole/polimialgie-reumatica): Polimialgie reumatică: durere și redoare la ambii umeri și șolduri după 50 de ani. Cum se recunoaște, ce analize ajută, cum se tratează și semnele de arterită.
 - [Hipermobilitate articulară: durere și tratament](https://orthohub.ro/articole/sindrom-hipermobilitate): Hipermobilitate articulară: când articulațiile prea laxe dor, se luxează sau obosesc. Scorul Beighton, hEDS și ce arată studiile despre exerciții.
 - [Dureri articulare după viroză: cât durează](https://orthohub.ro/articole/dureri-dupa-viroza): Dureri articulare după viroză sau COVID: de ce apar, cât durează, ce analize ajută și când e nevoie de reumatolog. Cifre din studii, explicate pe înțelesul tău.
+- [Condrocalcinoza: pseudoguta din genunchi](https://orthohub.ro/articole/condrocalcinoza): Condrocalcinoza (pseudoguta): ce sunt cristalele de calciu din genunchi, cum se recunoaște atacul acut la vârstnici, ce arată ecografia și cum se tratează.
 
 ### Sport și leziuni sportive
 
