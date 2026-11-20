@@ -125,6 +125,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Pregătirea pentru operația de proteză: ghid](https://orthohub.ro/articole/pregatire-operatie-proteza): Cum te pregătești pentru o proteză de genunchi sau șold: exerciții înainte de operație, factori de risc pe care îi poți schimba, casa și recuperarea.
 - [Întrebări pentru chirurg înainte de proteză](https://orthohub.ro/articole/intrebari-inainte-de-proteza): 10 întrebări de pus chirurgului înainte de o proteză de genunchi sau de șold: indicația, alternativele, riscurile, recuperarea și așteptările realiste.
 - [Proceduri minim invazive în ortopedie](https://orthohub.ro/articole/interventii-minim-invazive-ortopedie): Chirurgie și proceduri minim invazive în ortopedie: ce sunt, când au sens, ce arată studiile despre riscuri și 5 întrebări de pus medicului înainte să alegi.
+- [Diabet și dureri articulare: umăr, mână, picior](https://orthohub.ro/articole/diabet-articulatii): Diabet și dureri articulare: legătura cu umărul înghețat, tunelul carpian, degetul în resort și piciorul Charcot, plus ce face glicemia după o infiltrație.
 
 ### Genunchi
 
@@ -169,6 +170,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Tratamentul artrozei de genunchi, pe trepte](https://orthohub.ro/articole/tratament-artroza-genunchi): Tratamentul artrozei de genunchi: opțiunile în ordinea în care se încearcă, de la exerciții și greutate la infiltrații, radiofrecvență, embolizare și proteză.
 - [Artroscopie genunchi: când are sens și când nu](https://orthohub.ro/articole/artroscopie-genunchi): Artroscopia de genunchi ajută la blocaj mecanic, ruptură de menisc reparabilă și ligamente, dar nu în artroză. Ce arată studiile Kirkley, Moseley și Sihvonen.
 - [Durere genunchi la genuflexiuni: cauze și ce faci](https://orthohub.ro/articole/durere-genunchi-genuflexiuni): Durere genunchi la genuflexiuni: rotulă, menisc sau tendon? Cum deosebești cauzele, ce arată studiile despre adâncime și cum reiei exercițiul fără durere.
+- [Durere de genunchi la copii: cauze și semne](https://orthohub.ro/articole/durere-genunchi-copii): Durere de genunchi la copii și adolescenți: Osgood-Schlatter, durere sub rotulă, osteocondrită și durerea venită din șold. Ce e banal și ce cere consult.
 
 ### Șold și coapsă
 
@@ -274,6 +276,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Sindrom de tunel tarsian: arsură și amorțeală în talpă](https://orthohub.ro/articole/sindrom-tunel-tarsian): Sindromul de tunel tarsian apare când nervul tibial e comprimat la gleznă. Simptome în talpă, cauze (chisturi, varice), EMG, ecografie și tratament.
 - [Boala Haglund: umflătura din spatele călcâiului](https://orthohub.ro/articole/haglund): Boala Haglund e o proeminență osoasă în spatele călcâiului, care irită bursa și Ahile. Cum o recunoști, ce ajută din încălțăminte și exerciții și când se operează.
 - [Bursită călcâi: durere în spatele călcâiului](https://orthohub.ro/articole/bursita-retrocalcaneana): Bursită călcâi la spatele osului: diferența dintre bursita retrocalcaneană și cea de la pantof, de ce nu se infiltrează în Ahile și când se operează.
+- [Picior plat la copii: când e normal](https://orthohub.ro/articole/picior-plat-copii): Picior plat la copii: de ce arcul se formează încet, cum deosebești piciorul plat flexibil de cel rigid, când ajută sau nu branțurile și când ceri un consult.
 
 ### Coloană și oase
 
@@ -339,6 +342,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Diferența dintre gută și artroză: semne și analize](https://orthohub.ro/articole/guta-sau-artroza): Diferența dintre gută și artroză: debut, locul durerii, rolul cristalelor, al ecografiei și al radiografiei. Ce e pseudogută și când articulația cere medic repede.
 - [Polimialgie reumatică: simptome și tratament](https://orthohub.ro/articole/polimialgie-reumatica): Polimialgie reumatică: durere și redoare la ambii umeri și șolduri după 50 de ani. Cum se recunoaște, ce analize ajută, cum se tratează și semnele de arterită.
 - [Hipermobilitate articulară: durere și tratament](https://orthohub.ro/articole/sindrom-hipermobilitate): Hipermobilitate articulară: când articulațiile prea laxe dor, se luxează sau obosesc. Scorul Beighton, hEDS și ce arată studiile despre exerciții.
+- [Dureri articulare după viroză: cât durează](https://orthohub.ro/articole/dureri-dupa-viroza): Dureri articulare după viroză sau COVID: de ce apar, cât durează, ce analize ajută și când e nevoie de reumatolog. Cifre din studii, explicate pe înțelesul tău.
 
 ### Sport și leziuni sportive
 
@@ -380,6 +384,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Embolizare arteră geniculară: dovezi în artroză](https://orthohub.ro/articole/embolizare-geniculara): Embolizare arteră geniculară pentru durerea din artroza de genunchi: cum funcționează, ce arată studiile cu procedură simulată și pentru cine se discută.
 - [PRP sărac în leucocite: când contează tipul](https://orthohub.ro/articole/leucocite-prp): PRP sărac în leucocite sau bogat în leucocite? Ce spun meta-analizele pentru genunchi și pentru tendoane, ce diferă la efecte adverse și de ce tipul de PRP contează.
 - [Ozonoterapie articulații: ce spun studiile](https://orthohub.ro/articole/ozon-infiltratii): Ozonoterapie articulații: ajută în artroza de genunchi și în hernia de disc? Ce arată meta-analizele, cât ține efectul și cum se compară cu acidul hialuronic.
+- [Electroterapie și magnetoterapie: ce merită](https://orthohub.ro/articole/fizioterapie-aparate): Electroterapie și magnetoterapie: ce arată studiile despre TENS, laser, ultrasunete și magnet, unde ajută cu adevărat și de ce exercițiul rămâne tratamentul de bază.
 
 ### In English
 
