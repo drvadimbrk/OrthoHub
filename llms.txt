@@ -242,6 +242,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fractura de scafoid: simptome și tratament](https://orthohub.ro/articole/fractura-scafoid): Fractura de scafoid după o căzătură pe mână: de ce nu se vede mereu pe prima radiografie, când se face RMN sau CT și când ajunge ghipsul sau șurubul.
 - [Entorsă deget mare: degetul schiorului](https://orthohub.ro/articole/degetul-schiorului): Entorsă deget mare după o cădere: ce este degetul schiorului, cum se deosebește o ruptură parțială de una completă și când ai nevoie de operație.
 - [Durere încheietură partea degetului mic: TFCC](https://orthohub.ro/articole/leziune-tfcc): Durere încheietură partea degetului mic: leziunea de TFCC, cum o recunoști, ce arată ecografia și RMN-ul, cum o tratezi cu orteză și când e nevoie de artroscopie.
+- [Ortoped de mână: când mergi la consult](https://orthohub.ro/articole/chirurg-ortoped-mana): Ortoped de mână: tunel carpian, deget în resort, De Quervain, Dupuytren, fracturi. Când mergi la consult și ce arată studiile despre tratament.
 
 ### Picior și gleznă
 
@@ -350,6 +351,9 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Febra musculară: de ce apare și ce ajută](https://orthohub.ro/articole/febra-musculara): Febra musculară după antrenament: de ce apare, cât durează, ce ajută și ce nu (stretching, gheață), și când durerea musculară poate ascunde rabdomioliză.
 - [Gheață sau căldură pe o accidentare: ce alegi](https://orthohub.ro/articole/gheata-sau-caldura): Gheață sau căldură pe o accidentare: ce arată studiile despre frig pe durerea acută și căldura pe contracturi, ce e PEACE & LOVE și când mergi la medic.
 - [Revenire la sport după accidentare: criterii](https://orthohub.ro/articole/inapoi-la-sport): Revenirea la sport după accidentare nu se decide după calendar. Ce teste de forță și de salt contează, rolul fricii de reaccidentare și ce arată studiile.
+- [Crampe musculare la fotbal: cauze și prevenire](https://orthohub.ro/articole/crampe-musculare-fotbal): Crampe musculare la fotbal și efort: de ce apar, de ce deshidratarea nu e singura cauză, ce oprește o criză acută și cum le previi. Ce arată studiile.
+- [Recuperare după meci de fotbal: ce funcționează](https://orthohub.ro/articole/recuperare-dupa-meci): Recuperare după meci de fotbal: cât durează oboseala musculară, ce arată studiile despre baia cu apă rece, somn, alimentație și când revii la antrenament.
+- [Accidentări la fotbal: efecte pe termen lung](https://orthohub.ro/articole/accidentari-fotbal-termen-lung): Accidentările la fotbal și artroza de după: cât crește riscul după o leziune de ligament încrucișat sau menisc, ce arată studiile și cum te protejezi.
 
 ### PRP, infiltrații și terapii regenerative
 
