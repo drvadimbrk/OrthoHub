@@ -167,6 +167,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Ruptura rădăcinii meniscului: tratament și recuperare](https://orthohub.ro/articole/ruptura-radacina-menisc): Ruptura rădăcinii meniscului (root tear): ce e, cum se recunoaște pe RMN, de ce contează reparația și ce arată studiile despre artroză, reoperare și recuperare.
 - [Artroza se poate vindeca sau inversa?](https://orthohub.ro/articole/artroza-se-poate-vindeca): Se poate inversa sau vindeca artroza? Ce se poate schimba cu exerciții, greutate și tratament, ce nu poate reface niciun produs și ce spun ghidurile OARSI și ESCEO.
 - [Tratamentul artrozei de genunchi, pe trepte](https://orthohub.ro/articole/tratament-artroza-genunchi): Tratamentul artrozei de genunchi: opțiunile în ordinea în care se încearcă, de la exerciții și greutate la infiltrații, radiofrecvență, embolizare și proteză.
+- [Artroscopie genunchi: când are sens și când nu](https://orthohub.ro/articole/artroscopie-genunchi): Artroscopia de genunchi ajută la blocaj mecanic, ruptură de menisc reparabilă și ligamente, dar nu în artroză. Ce arată studiile Kirkley, Moseley și Sihvonen.
 
 ### Șold și coapsă
 
@@ -320,6 +321,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Prevenirea căderilor la vârstnici: ce funcționează](https://orthohub.ro/articole/prevenire-caderi): Prevenirea căderilor la vârstnici după 65 de ani: exerciții de echilibru și forță, programul Otago, medicamente care amețesc, siguranța casei și vederea.
 - [Sport cu artroză: ce sporturi poți face](https://orthohub.ro/articole/activitate-cu-artroza): Sport cu artroză: ce arată ghidurile și studiile despre alergare, înot, tenis, padel și schi, cum dozezi efortul și când te oprești. Cu doze, nu cu interdicții.
 - [Înot și artroză: ce spun studiile despre apă](https://orthohub.ro/articole/inot-artroza): Înot și artroză: exercițiile în apă reduc ușor durerea, dar nu înlocuiesc forța. Ce arată Cochrane, ce stiluri alegi și cum le combini cu mișcarea pe uscat.
+- [Tai chi pentru artroză: ce arată studiile](https://orthohub.ro/articole/tai-chi-artroza): Tai chi în artroza de genunchi a dat rezultate similare cu kinetoterapia într-un studiu randomizat. Ce spun studiile despre durere, echilibru și căderi.
 
 ### Artrite, gută și boli inflamatorii
 
@@ -355,6 +357,8 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Crampe musculare la fotbal: cauze și prevenire](https://orthohub.ro/articole/crampe-musculare-fotbal): Crampe musculare la fotbal și efort: de ce apar, de ce deshidratarea nu e singura cauză, ce oprește o criză acută și cum le previi. Ce arată studiile.
 - [Recuperare după meci de fotbal: ce funcționează](https://orthohub.ro/articole/recuperare-dupa-meci): Recuperare după meci de fotbal: cât durează oboseala musculară, ce arată studiile despre baia cu apă rece, somn, alimentație și când revii la antrenament.
 - [Accidentări la fotbal: efecte pe termen lung](https://orthohub.ro/articole/accidentari-fotbal-termen-lung): Accidentările la fotbal și artroza de după: cât crește riscul după o leziune de ligament încrucișat sau menisc, ce arată studiile și cum te protejezi.
+- [Sindrom compartimental cronic: cauze și tratament](https://orthohub.ro/articole/sindrom-compartimental-cronic): Sindromul compartimental cronic de efort dă gambe încordate la alergare. Cum îl deosebești de periostită, ce spun studiile și când se discută fasciotomia.
+- [Accidentări yoga: încheieturi, umeri, genunchi](https://orthohub.ro/articole/leziuni-yoga): Accidentările din yoga apar la încheieturi, umeri, genunchi, spate și ischiogambieri. Ce arată studiile, cine are risc mai mare și cum adaptezi pozițiile.
 
 ### PRP, infiltrații și terapii regenerative
 
@@ -370,6 +374,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Concentrat de măduvă osoasă (BMAC) în artroză](https://orthohub.ro/articole/bmac-maduva-osoasa): Concentratul de măduvă osoasă (BMAC) conține foarte puține celule stem. Ce arată studiile față de cortizon, acid hialuronic și PRP în artroza de genunchi.
 - [Colagen injectabil la genunchi: ce spun studiile](https://orthohub.ro/articole/colagen-injectabil): Colagenul injectabil în articulații are studii puține și mici. Ce arată trialurile, cum se compară cu acidul hialuronic și ce nu se știe încă despre el.
 - [Embolizare arteră geniculară: dovezi în artroză](https://orthohub.ro/articole/embolizare-geniculara): Embolizare arteră geniculară pentru durerea din artroza de genunchi: cum funcționează, ce arată studiile cu procedură simulată și pentru cine se discută.
+- [PRP sărac în leucocite: când contează tipul](https://orthohub.ro/articole/leucocite-prp): PRP sărac în leucocite sau bogat în leucocite? Ce spun meta-analizele pentru genunchi și pentru tendoane, ce diferă la efecte adverse și de ce tipul de PRP contează.
 
 ### In English
 
