@@ -231,6 +231,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Ruptura de biceps distal: când se operează](https://orthohub.ro/articole/ruptura-biceps-distal): Ruptura de biceps distal apare când ridici o greutate cu cotul îndoit. Cum o recunoști, de ce contează primele săptămâni și ce forță pierzi fără operație.
 - [Exerciții pentru epicondilită: program pas cu pas](https://orthohub.ro/articole/epicondilita-exercitii): Exerciții pentru epicondilită (cotul tenismenului): izometrice, excentrice cu bara flexibilă, progresia pe 12 săptămâni și cât e voie să doară.
 - [Pronație dureroasă copil: cotul tras și ce faci](https://orthohub.ro/articole/cot-tras-copii): Pronație dureroasă copil: cotul tras apare când cel mic e tras de braț. Cum îl recunoști, ce manevră îl repune, de ce nu încerci singur și cum previi repetarea.
+- [Fractură cap radial: tratament și mișcare precoce](https://orthohub.ro/articole/fractura-cap-radial): Fractura capului radial apare după o cădere pe mână și doare în exteriorul cotului. Tipurile Mason, când ajunge gipsul și când operația, cât durează redoarea.
 
 ### Mână și încheietură
 
@@ -280,6 +281,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Boala Haglund: umflătura din spatele călcâiului](https://orthohub.ro/articole/haglund): Boala Haglund e o proeminență osoasă în spatele călcâiului, care irită bursa și Ahile. Cum o recunoști, ce ajută din încălțăminte și exerciții și când se operează.
 - [Bursită călcâi: durere în spatele călcâiului](https://orthohub.ro/articole/bursita-retrocalcaneana): Bursită călcâi la spatele osului: diferența dintre bursita retrocalcaneană și cea de la pantof, de ce nu se infiltrează în Ahile și când se operează.
 - [Picior plat la copii: când e normal](https://orthohub.ro/articole/picior-plat-copii): Picior plat la copii: de ce arcul se formează încet, cum deosebești piciorul plat flexibil de cel rigid, când ajută sau nu branțurile și când ceri un consult.
+- [Tendinită peronieri: cauze, diagnostic, tratament](https://orthohub.ro/articole/tendinita-peronieri): Tendinita peronierilor dă durere în exteriorul gleznei, adesea după o entorsă. Cum o recunoști, ce arată ecografia dinamică și când ajută orteza sau operația.
 
 ### Coloană și oase
 
@@ -310,6 +312,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Fractură vertebrală tasare: semne și tratament](https://orthohub.ro/articole/fractura-vertebrala): Fractura vertebrală prin tasare: durere de spate după 60 de ani, des nediagnosticată. Cum o descoperi, ce ajută (corset, vertebroplastie) și ce previne a doua.
 - [Durere de spate: 8 întrebări pentru ortoped](https://orthohub.ro/articole/intrebari-durere-spate): Durere de spate: cele 8 întrebări de pus ortopedului la consult, de la cauză și imagistică la exerciții, medicamente, operație și semne de alarmă. Cu dovezi.
 - [Vitamina D și oasele: ai nevoie de supliment?](https://orthohub.ro/articole/vitamina-d-oase): Vitamina D și oasele: ce arată studiile mari despre fracturi și căderi, cui îi folosește suplimentul, când ceri analiza și de ce dozele uriașe pot face rău.
+- [Calciu și osteoporoză: alimente sau suplimente?](https://orthohub.ro/articole/calciu-oase): Calciu și osteoporoză: ce arată meta-analizele despre suplimente, cât ajută calciul din alimente și ce riscuri au pastilele. Ce faci împreună cu tratamentul.
 
 ### Mișcare, forță și prevenție
 
@@ -348,6 +351,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [Hipermobilitate articulară: durere și tratament](https://orthohub.ro/articole/sindrom-hipermobilitate): Hipermobilitate articulară: când articulațiile prea laxe dor, se luxează sau obosesc. Scorul Beighton, hEDS și ce arată studiile despre exerciții.
 - [Dureri articulare după viroză: cât durează](https://orthohub.ro/articole/dureri-dupa-viroza): Dureri articulare după viroză sau COVID: de ce apar, cât durează, ce analize ajută și când e nevoie de reumatolog. Cifre din studii, explicate pe înțelesul tău.
 - [Condrocalcinoza: pseudoguta din genunchi](https://orthohub.ro/articole/condrocalcinoza): Condrocalcinoza (pseudoguta): ce sunt cristalele de calciu din genunchi, cum se recunoaște atacul acut la vârstnici, ce arată ecografia și cum se tratează.
+- [Boala Lyme articulații: artrita Lyme și tratament](https://orthohub.ro/articole/lyme-articulatii): Boala Lyme poate da artrită, mai ales la genunchi, la luni după o căpușă. Cum se pune diagnosticul, ce arată serologia, ce antibiotic se folosește și ce urmează.
 
 ### Sport și leziuni sportive
 
@@ -390,6 +394,7 @@ Index complet al articolelor: https://orthohub.ro/articole
 - [PRP sărac în leucocite: când contează tipul](https://orthohub.ro/articole/leucocite-prp): PRP sărac în leucocite sau bogat în leucocite? Ce spun meta-analizele pentru genunchi și pentru tendoane, ce diferă la efecte adverse și de ce tipul de PRP contează.
 - [Ozonoterapie articulații: ce spun studiile](https://orthohub.ro/articole/ozon-infiltratii): Ozonoterapie articulații: ajută în artroza de genunchi și în hernia de disc? Ce arată meta-analizele, cât ține efectul și cum se compară cu acidul hialuronic.
 - [Electroterapie și magnetoterapie: ce merită](https://orthohub.ro/articole/fizioterapie-aparate): Electroterapie și magnetoterapie: ce arată studiile despre TENS, laser, ultrasunete și magnet, unde ajută cu adevărat și de ce exercițiul rămâne tratamentul de bază.
+- [Terapie cu țesut adipos în artroză: dovezi](https://orthohub.ro/articole/tesut-adipos): Terapia cu țesut adipos microfragmentat în artroza de genunchi: cum se recoltează, ce conține și ce arată studiile față de PRP, cortizon și ser fiziologic.
 
 ### In English
 
